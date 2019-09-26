@@ -11,7 +11,7 @@ title:            Ananya Nandy
 tagline:          'Portfolio in progress'
 description:      'A place to get my work out into the world'
 url:              http://ananyan.github.io
-baseurl:          /
+baseurl:          /ananyan.github.io 
 
 author:
   name:           'Ananya Nandy'
