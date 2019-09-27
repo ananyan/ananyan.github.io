@@ -24,6 +24,11 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/ananyan/ananyan.github.io 
+
+collections:
+    projects:
+        output: true
+        permalink: /projects/:path/
   
 plugins:          
     - jekyll-paginate
