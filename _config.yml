@@ -15,7 +15,8 @@ baseurl:          ''
 
 author:
   name:           'Ananya Nandy'
-  url:            https://twitter.com/AnAnanyaNandy
+  linkedin:        ananyanandy
+  twitter:         AnAnanyaNandy
 
 paginate:         5
 
