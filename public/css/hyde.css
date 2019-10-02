@@ -53,13 +53,6 @@ html {
  * out above content in mobile and later moves to the side with wider viewports.
  */
 
-
-img
-{
-    max-width: 50%;
-    height: auto;
-}
-
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
