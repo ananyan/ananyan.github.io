@@ -1,4 +1,4 @@
 ---
 layout: post
-title: Project 2
+title: Designing a Universal Package Opening Tool for Burt
 ---
