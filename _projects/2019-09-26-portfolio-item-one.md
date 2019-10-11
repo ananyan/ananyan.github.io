@@ -2,6 +2,7 @@
 layout: post
 title: Designing the Solar Skin Applicator V1 for Sistine Solar 
 ---
+<img src="{{site.url}}/images/SistineSolar/solarskinapplicator.png" alt = "Applicator" style="position:relative" >
 
 I joined <a href="https://www.sistinesolar.com/">Sistine Solar</a> in June of 2018 through the Massachusetts Clean Energy Center Internship Program. 
 I had always been interested in sustainability/ renewable energy and Sistine had a product that focused on the user side of the energy
@@ -37,4 +38,5 @@ process was repeated and finally, it was time to test.
 
 ## The Result
 The final prototype was an applicator that could allow a single person to apply the Solar Skin to the solar panel, bubble-free, in about 30 seconds. This was more than 10 times shorter
-than the previous method. In addition, it was adjustable to the frame and did not require water while still being accurate in alignment. 
+than the previous method. In addition, it was adjustable to the frame and did not require water while still being accurate in alignment. A demo is in the video below:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HJIptpXXuyg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
