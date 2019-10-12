@@ -37,11 +37,13 @@ html {
 @media (min-width: 48em) {
   html {
     font-size: 16px;
+	font-weight: lighter;
   }
 }
 @media (min-width: 58em) {
   html {
     font-size: 20px;
+	font-weight: ligheter;
   }
 }
 
@@ -57,12 +59,12 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
-  /*background-color: #303030;*/
-  background-color: #FF4500;
+  background-color: #303030;
+  /*background-color: #FF4500;
   background-image: url('../../images/Background3.png'),url('../../images/BackgroundTop.png');
   background-size: 100% 67%, 15% 66%;
   background-repeat: no-repeat, no-repeat;
-  background-position: bottom center, top left;
+  background-position: bottom center, top left;*/
 }
 @media (min-width: 48em) {
   .sidebar {

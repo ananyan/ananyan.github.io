@@ -6,11 +6,11 @@ title: Projects
 <div class="projects">
   {% for project in site.projects %}
   <div class="project">
-    <h1 class="project-title">
+    <h2 class="project-title">
       <a href="{{ project.url }}">
         {{ project.title }}
       </a>
-    </h1>
+    </h2>
     {{ project.excerpt }}
   </div>
   {% endfor %}

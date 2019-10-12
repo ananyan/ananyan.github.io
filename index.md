@@ -7,7 +7,7 @@ title: Home
   Hey there! This website is still in progress - sorry for any bugs or broken links!
 </p>
 
-## About Me
+# About Me
 
 I am currently a graduate student at UC Berkeley.
 Before this I was at MIT.
