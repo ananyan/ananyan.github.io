@@ -1,0 +1,35 @@
+I"<div class="projects">
+  
+  <div class="project">
+    <h1 class="project-title">
+      <a href="/projects/2019-09-26-portfolio-item-one/">
+        Designing the Solar Skin Applicator V1 for Sistine Solar
+      </a>
+    </h1>
+    <p><img src="/images/SistineSolar/solarskinapplicator.PNG" alt="Applicator" style="position:relative" /></p>
+
+  </div>
+  
+  <div class="project">
+    <h1 class="project-title">
+      <a href="/projects/2019-09-27-portfolio-item-two%20-%20Copy/">
+        Designing a Universal Package Opening Tool for Burt
+      </a>
+    </h1>
+    
+
+  </div>
+  
+  <div class="project">
+    <h1 class="project-title">
+      <a href="/projects/2019-09-27-portfolio-item-two/">
+        Designing a Universal Package Opening Tool for Burt
+      </a>
+    </h1>
+    
+
+  </div>
+  
+</div>
+
+:ET

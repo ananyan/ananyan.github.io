@@ -16,7 +16,7 @@ could easily lead to air bubbles. In addition, water was necessary so that the s
 for alignment. However, this made the application process messy and also caused water waste. The task was to design an applicator that could aid this process and signficantly decrease the time it 
 would take to apply the Solar Skin. 
 
-**The goal was that a solar panel installer would be able to apply the Solar Skin to the solar panel bubble-free quickly and individually.**
+**The goal was that a solar panel installer would be able to apply the Solar Skin to the solar panel bubble-free quickly and as an individual operation.**
 
 ## The Process
 There was an initial rough model in place that utilized roller blade wheels, a cardboard tube, and spring hinges a machine that could rolle

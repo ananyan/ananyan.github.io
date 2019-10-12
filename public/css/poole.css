@@ -322,7 +322,7 @@ tbody tr:nth-child(odd) th {
 
 
 /*
- * Posts and pages
+ * Posts and pages (and projects)
  *
  * Each post is wrapped in `.post` and is used on default and post layouts. Each
  * page is wrapped in `.page` and is only used on the page layout.
@@ -335,8 +335,12 @@ tbody tr:nth-child(odd) th {
 
 /* Blog post or page title */
 .page-title,
+.project-title,
 .post-title,
 .post-title a {
+  color: #303030;
+}
+.project-title a {
   color: #303030;
 }
 .page-title,
