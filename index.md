@@ -9,8 +9,7 @@ title: Home
 
 # About Me
 
-I am currently a graduate student at UC Berkeley.
-Before this I was at MIT.
+I am currently a graduate student in the mechanical engineering department at UC Berkeley.
 
 I am interested in human-centered design, including the design process and ethics in design, as well as utilizing computation to augment engineering design.
 
