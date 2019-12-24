@@ -18,4 +18,4 @@ My current interests include (but are not limited to)
 
 I graduated with a B.S. in Mechanical Engineering from MIT in June 2019. 
 
-I am a former competitive figure skater, an aspiring amateur guitarist, and a frequent language-learner.
+In addition, I am a former competitive figure skater, an aspiring amateur guitarist, and a frequent language-learner!
