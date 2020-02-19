@@ -13,9 +13,11 @@ Hey there! I am currently a graduate student at UC Berkeley, advised by Professo
 
 My current interests include (but are not limited to)
 - Computational design
-- Consideration of ethics in the design process
+- Universal design
+- Ethics in engineering/AI/robotics 
 - Sustainability/renewable energy systems
 
 I graduated with a B.S. in Mechanical Engineering from MIT in June 2019. 
 
-In addition, I am a former competitive figure skater, an aspiring amateur guitarist, and a frequent language-learner!
+In addition, I am a former competitive figure skater, an aspiring amateur guitarist, and many other things!
+
