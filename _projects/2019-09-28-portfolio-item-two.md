@@ -19,7 +19,7 @@ would take to apply the Solar Skin.
 **The goal was that a solar panel installer would be able to apply the Solar Skin to the solar panel bubble-free quickly and as an individual operation.**
 
 ## The Process
-There was an initial rough model in place that utilized roller blade wheels, a cardboard tube, and spring hinges a machine that could rolle
+There was an initial rough model in place that utilized roller blade wheels, a cardboard tube, and spring hinges to form a machine that could roll
 along the panel to create even pressure for application. However, this was not successful because the solar panel glass had a slight curve to it.
 
 The top priority for the applicator was that the Solar Skin was applied with even pressure to avoid any bubbles. Then, it was important that the 
