@@ -14,7 +14,7 @@ extent of traffic regulation actually needed to mitigate these concerns.
 
 Stakeholders Interviewed
 
-EMS (Watertown Fire Department; MIT EMS, Paramedic (Jacksonville, FL); Law Enforcement Officer (San Angelo, TX))
+EMS (Watertown Fire Department; MIT EMS; Paramedic (Jacksonville, FL); Law Enforcement Officer (San Angelo, TX))
 
 City Planners (Austin, TX; Seattle, WA; Bellevue, WA; Eugene, OR; Portland, OR; Richmond, VA; Washington D.C.) 
 
