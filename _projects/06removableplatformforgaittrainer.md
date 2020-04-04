@@ -2,6 +2,7 @@
 layout: project
 title: Removable Platform Modification for Gait Trainer
 ---
+<img src="/images/GaitTrainer/PlatformTest.jpg" alt = "car" style="position:relative" >
 
 ## Overview
 **Roles:** Team Lead, Mechanical Design  
