@@ -7,8 +7,7 @@ title: Designing the Solar Skin Applicator V1 for Sistine Solar
 ## Overview
 **Roles:**
 **Skills:**
-**Impact:**
-**Time:**
+**Time:** June - August 2018
 
 I joined <a href="https://www.sistinesolar.com/">Sistine Solar</a> in June of 2018 through the Massachusetts Clean Energy Center Internship Program. 
 I had always been interested in sustainability/ renewable energy and Sistine had a product that focused on the user side of the energy

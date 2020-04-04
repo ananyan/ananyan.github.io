@@ -5,10 +5,9 @@ title: Designing a Universal Package Opening Tool for Burt
 <img src="/images/PackageOpener/ClosedKnife.PNG" alt = "closedpackageopener" style="position:relative" >
 
 ## Overview
-**Roles:**
-**Skills:**
-**Impact:**
-**Time:*
+**Roles:** Project Team Member, Human Centered Design, Rapid Prototyping  
+**Skills:** User Interviews, User Testing, 3D Printing, Laser Cutting  
+**Time:** January - May 2017  
 
 This project was done as part of Design for America for a local Boston community member. 
 
