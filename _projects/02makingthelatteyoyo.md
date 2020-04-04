@@ -2,7 +2,7 @@
 layout: project
 title: Making the Latte Yo-yo
 ---
-<img src="/images/Latte/WithCup.jpeg" alt = "yoyo" style="position:relative" >
+<img src="/images/Latte/Latteyoyo.png" alt = "fullyoyo" style="position:relative" >
 
 ## Overview
 **Roles:** Mold Design (3D Printed and Machined), Manufacturing  
