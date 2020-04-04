@@ -45,9 +45,9 @@ allowed the bump to flatten in 10 seconds and could hold up a car. These were at
 The scissor jacks were then attached to a hinged steel plate assembly that would form the bump or flattened shape.
 
 Here's me working on the final assembly in our makeshift "excavated" road.
-<img src="/images/Sentry/AssemblyProcess.JPG" alt = "assemblyprocess" style="position:relative" >
+<img src="/images/Sentry/AssemblyProcess.jpg" alt = "assemblyprocess" style="position:relative" >
 And here is the speed bump in it's almost fully assembled form.
-<img src="/images/Sentry/Assembly.HEIC" alt = "assembly" style="position:relative" >
+<img src="/images/Sentry/Assembly.PNG" alt = "assembly" style="position:relative" >
 
 Finally, the speed bump was covered with a protective rubber outer surface that could not only be painted with the traditional speed bump markings, but would also protective the 
 surface from rust and protect the internal mechanisms from weather and corrosion. An exploded view of the entire assembly is shown below.
@@ -58,6 +58,6 @@ develop the active surface (the plates that attached to the lifting mechanism to
  
 ## The Result
 The final prototype of the entire system could successfully be signaled to lower, driven over, and lifted back up with corresponding LEDs on the sign. The photo below shows the final prototype.  
-<img src="/images/Sentry/Product.JPG" alt = "Product" style="position:relative" >
+<img src="/images/Sentry/Product.jpg" alt = "Product" style="position:relative" >
 In addition, we presented a demonstration of the system in front of over 1000 people:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tNz5Y4lebsY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
