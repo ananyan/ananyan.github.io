@@ -13,9 +13,13 @@ emergency responders often avoid routes with speed bumps, even if they are longe
 extent of traffic regulation actually needed to mitigate these concerns. 
 
 Stakeholders Interviewed
+
 EMS (Watertown Fire Department; MIT EMS, Paramedic (Jacksonville, FL); Law Enforcement Officer (San Angelo, TX))
+
 City Planners (Austin, TX; Seattle, WA; Bellevue, WA; Eugene, OR; Portland, OR; Richmond, VA; Washington D.C.) 
+
 Traffic Engineers (Delaware, Florida, Michigan, Montana, Nebraska, North Dakota, New Hampshire, Utah, Washington Dept. of Transportation)
+
 Snow Plow Operator (Cambridge Dept. of Public Works)
 
 **In order to balance the goals of both EMS and traffic regulation, we developed a dynamic speed bump that could be signaled to flatten by emergency responders (and in cities like Cambridge, during snow plows as well)**
