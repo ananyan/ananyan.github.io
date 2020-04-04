@@ -4,6 +4,12 @@ title: Designing the Solar Skin Applicator V1 for Sistine Solar
 ---
 <img src="/images/SistineSolar/solarskinapplicator.PNG" alt = "Applicator" style="position:relative" >
 
+## Overview
+**Roles:**
+**Skills:**
+**Impact:**
+**Time:**
+
 I joined <a href="https://www.sistinesolar.com/">Sistine Solar</a> in June of 2018 through the Massachusetts Clean Energy Center Internship Program. 
 I had always been interested in sustainability/ renewable energy and Sistine had a product that focused on the user side of the energy
 industry. Specifically, the goal was the increase adoption of solar panels in the US by improving the aesthetic appeal without significantly

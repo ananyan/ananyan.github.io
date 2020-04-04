@@ -4,6 +4,12 @@ title: Designing a Universal Package Opening Tool for Burt
 ---
 <img src="/images/PackageOpener/ClosedKnife.PNG" alt = "closedpackageopener" style="position:relative" >
 
+## Overview
+**Roles:**
+**Skills:**
+**Impact:**
+**Time:*
+
 This project was done as part of Design for America for a local Boston community member. 
 
 ## The Problem

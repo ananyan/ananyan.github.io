@@ -4,6 +4,11 @@ title: Designing a Smart Speed Bump for Emergency Vehicles
 ---
 <img src="/images/Sentry/Car.jpg" alt = "car" style="position:relative" >
 
+## Overview
+**Roles:** Technical Sub-team Lead, Mechanical Design, Material Procurement  
+**Skills:** User Interviews, CAD (SolidWorks), Mechanism Selection, Material Selection, Machining  
+**Time:** September - December 2018  
+
 Developed as part of 2.009, MIT's senior capstone for mechanical engineering 
 
 ## The Problem
@@ -12,7 +17,7 @@ Speed bumps assist in traffic regulation (for example, near schools), but can ca
 emergency responders often avoid routes with speed bumps, even if they are longer. In addition, city planners sometimes cannot add the 
 extent of traffic regulation actually needed to mitigate these concerns. 
 
-Stakeholders Interviewed
+Stakeholders Interviewed:
 
 EMS (Watertown Fire Department; MIT EMS; Paramedic (Jacksonville, FL); Law Enforcement Officer (San Angelo, TX))
 
@@ -29,28 +34,28 @@ Snow Plow Operator (Cambridge Dept. of Public Works)
 There were several parts to the system that we had to consider:
 1. Detection: The system needed to sense that an emergency service was arriving and initate the system response.
 
-This part of the system was based off of existing systems for traffic signal preemption. In our case, the electronics and sensing system (radio receiver) were integrated
+	This part of the system was based off of existing systems for traffic signal preemption. In our case, the electronics and sensing system (radio receiver) were integrated
 within the BUMP sign that was located near the speed bump. For our prototype, we powered the system as if it were connected to the electrical grid,
 although we considered cases where it could be solar or battery-powered. The system was designed so that EMS could initiate the signal from 1500 ft away,
 giving the speed bump approximately 20 seconds to collapse for a vehicle traveling 50 mph.    
 
 2. Signaling: There needed to be an indication of the speed bump's status (up, down, or in-motion) to anyone on the road.
 
-LEDs on the BUMP sign were programmed to indicate the state of the bump. The default state was set to be "up" as if it was a normal speed bump (no LEDs). When signaled to flatten,
+	LEDs on the BUMP sign were programmed to indicate the state of the bump. The default state was set to be "up" as if it was a normal speed bump (no LEDs). When signaled to flatten,
 the LEDs would flash green. In the "down" state, the LEDs on the top and bottom of the sign would turn solid green. Finally, any error or system failure would be indicated
 with the LEDs on the left and right sides turning red. Because it was important that EMS would slow down in the case the speed bump was not operational (could not collapse),
 the LEDs were chosen to operate with the assumption of an "up" state and a clear indication in the case of a successful collapse.   
 
 3. Collapsing: The bump needed to flatten in a required amount of time. 
 
-For this part, the critical part was that the speed bump could both lift and sustain a minimum load (the weight of the largest vehicle that would be allowed on the street). 
+	For this part, the critical part was that the speed bump could both lift and sustain a minimum load (the weight of the largest vehicle that would be allowed on the street). 
 After considering lifting mechanisms including a pneumatic bladder, air springs, and ratchets, we decided to use 4 3-ton electric scissor jacks for our prototype, as it
 allowed the bump to flatten in 10 seconds and could hold up a car. These were attached to a base that would be placed in an excavation in the street. 
 The scissor jacks were then attached to a hinged steel plate assembly that would form the bump or flattened shape.
 
 Here's me working on the final assembly in our makeshift "excavated" road.
 <img src="/images/Sentry/AssemblyProcess.jpg" alt = "assemblyprocess" style="position:relative" >
-And here is the speed bump in it's almost fully assembled form.
+And here is the speed bump in its almost fully assembled form.
 <img src="/images/Sentry/Assembly.PNG" alt = "assembly" style="position:relative" >
 
 Finally, the speed bump was covered with a protective rubber outer surface that could not only be painted with the traditional speed bump markings, but would also protective the 
