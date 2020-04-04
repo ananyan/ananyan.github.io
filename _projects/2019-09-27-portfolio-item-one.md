@@ -4,7 +4,7 @@ title: Designing a Smart Speed Bump for Emergency Vehicles
 ---
 <img src="/images/Sentry/Car.jpg" alt = "car" style="position:relative" >
 
-Sentry was developed as part of 2.009, MIT's senior capstone for mechanical engineering. 
+Developed as part of 2.009, MIT's senior capstone for mechanical engineering 
 
 ## The Problem
 Cities desire to regulate traffic while not interfering with the ability for first responders to quickly and comfortably transport patients.
