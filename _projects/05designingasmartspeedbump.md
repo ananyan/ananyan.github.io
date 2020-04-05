@@ -4,7 +4,7 @@ title: Designing a Smart Speed Bump for Emergency Vehicles
 ---
 <img src="/images/Sentry/Car.jpg" alt = "car" style="position:relative" >
 
-*The image above is from our technical review, where we demonstrated a car driving over our system (and it was also the first snow!*
+*The image above is from our technical review, where we demonstrated a car driving over our system (and it was also the first snow!)*
 ## Overview
 **Roles:** Technical Sub-team Lead, Mechanical Design, Material Procurement  
 **Skills:** User Interviews, CAD (SolidWorks), Mechanism Selection, Material Selection, Machining  
