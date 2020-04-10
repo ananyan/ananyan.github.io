@@ -5,7 +5,7 @@ title: Making the Latte Yo-yo
 <img src="/images/Latte/Latteyoyo.png" alt = "fullyoyo" style="position:relative" >
 
 ## Overview
-**Roles:** Mold Design (3D Printed and Machined), Manufacturing (Injection-molded base)
+**Roles:** Mold Design (3D Printed and Machined), Manufacturing (Injection-molded base)  
 **Skills:** Design for Manufacturing, CAD (SolidWorks), CAM (MasterCAM), 3D Printing, CNC Milling, Injection Molding, Quality  
 **Time:** September - December 2018  
 

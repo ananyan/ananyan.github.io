@@ -12,7 +12,8 @@ title: Removable Platform Modification for Gait Trainer
 Developed as part ATHack 2019 at MIT
 
 ## The Problem
-**The purpose of this project was to design a base to support our user's feet and allow him to be in a more seated position.**   
+**The purpose of this project was to design a base to support our user's feet and allow him to be in a more seated position.**
+   
 This would increase the ease of transportation so that he would not have to be constantly lifted up and down by others to move around. 
 At the same time, the platform would be removable, allowing our user, Julian, to stand within the gait trainer when desired. 
 The platform was designed to attach to Julian's existing outdoor gait trainer with no permanent modifications to the frame.

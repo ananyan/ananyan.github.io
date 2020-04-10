@@ -17,6 +17,7 @@ easy access and control. However, it can get in the way when trying to reach a s
 swing the joystick back, which can cause discomfort or in some cases, is not possible without assistance. A previous solution to this
 problem was developed in the past in this class, but it lacked robustness, was not easy to debug the electronics, and could not be 
 adapted for another user with even slightly different needs (our user was left-handed rather than right-handed).
+
 **This project was a second iteration on developing an attachment to motorize the retracting of the joystick for a power wheelchair.**
 
 ## The Process
