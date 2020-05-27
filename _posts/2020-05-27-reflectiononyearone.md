@@ -2,7 +2,6 @@
 layout: post
 title: A reflection on year one of graduate school
 ---
-
 The academic year has wrapped up and with that, so has my first year of graduate school (almost). 
 It's been a pretty eventful 12 months to say the least, so I thought I would take some time to
 document it and write down some thoughts.  
