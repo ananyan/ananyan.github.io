@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Designing a Universal Package Opening Tool for Burt
+title: Universal Package Opening Tool for Burt
 ---
 <img src="/images/PackageOpener/ClosedKnife.PNG" alt = "closedpackageopener" style="position:relative" >
 

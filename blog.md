@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog - coming soon
+title: Blog 
 permalink: /blog/
 ---
 

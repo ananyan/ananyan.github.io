@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Making the Latte Yo-yo
+title: Latte Yo-yo
 ---
 <img src="/images/Latte/Latteyoyo.png" alt = "fullyoyo" style="position:relative" >
 
