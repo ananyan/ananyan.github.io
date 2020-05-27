@@ -65,4 +65,4 @@ contributed to my happiness during this first year.
 
 ---
 
-Although it has been an interesting and great year, it's clear that I still have a lot to learn. I'll probably look back on this in the future and laugh (or cringe), but for now, back to work!
+Although it's been an interesting and overall great year, it's clear that I still have a lot to learn. I'll probably look back on this in the future and laugh (or cringe), but for now, back to work!
