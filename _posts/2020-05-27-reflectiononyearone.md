@@ -7,6 +7,9 @@ The academic year has wrapped up and with that, so has my first year of graduate
 It's been a pretty eventful 12 months to say the least, so I thought I would take some time to
 document it and write down some thoughts.  
 <!--more-->
+
+---
+
 ## An Approximate Timeline of the Last Year 
 - Submit bachelor's thesis just in time to graduate from MIT with a degree in mechanical engineering.
 - Spend the summer working, traveling, and relaxing at the corner of Germany, Switzerland, and France. Float down
