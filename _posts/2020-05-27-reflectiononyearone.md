@@ -57,7 +57,7 @@ those who are outside my group and even outside my field. Being forced to look o
 **Motivation During Shelter-in-Place (potentially unique to the current situation)**<br>
 Right now, this is probably the most challenging obstacle. The reality is that it's difficult to feel like your research even matters
 in the face of a global health crisis, especially when it doesn't seem to have much applicability. The situation has caused me to become more interested
-in engineering education and how it is affected by having  to be physically separated, since that is a very relevant in this time. However, overall, I'm trying
+in engineering education and how it is affected by having  to be physically separated, since that is very relevant in this time. However, overall, I'm trying
 not be too hard on myself about the times when I make little progress and focusing on making the productive times particularly effective. 
 
 **Life Outside of Grad School**<br>
