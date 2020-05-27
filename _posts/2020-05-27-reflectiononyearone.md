@@ -11,14 +11,14 @@ document it and write down some thoughts.
 ---
 
 ## An Approximate Timeline of the Last Year 
-- Submit bachelor's thesis just in time to graduate from MIT with a degree in mechanical engineering.
-- Spend the summer working, traveling, and relaxing at the corner of Germany, Switzerland, and France. Float down
-the Rhine with a fish bag a couple of times.
-- Start as one of the first students in a new engineering design research group at Cal. Move into first official
+- Submit bachelor's thesis just in time to graduate from MIT with degree in mechanical engineering.
+- Spend summer working, traveling, and relaxing at corner of Germany, Switzerland, and France. Float down 
+Rhine with fish bag a couple of times.
+- Start as one of first students in new engineering design research group at Cal. Move into first official
 apartment in Berkeley.
 - Experience campus(and city)-wide power outages thanks to PG&E and California wildfires.
-- Get acquainted with new research field and submit first ever paper to a conference.
-- Start of a global pandemic due to a novel coronavirus.
+- Get acquainted with new research field and submit first ever paper to conference.
+- Start of global pandemic due to novel coronavirus.
 
 <img src="/images/Blog/ReflectionOnYearOne/ReflectionOnYearOne.png" alt = "timelinedrawing" style="position:relative" >
 
