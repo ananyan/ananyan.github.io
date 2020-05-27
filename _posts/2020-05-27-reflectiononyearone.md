@@ -7,7 +7,7 @@ The academic year has wrapped up and with that, so has my first year of graduate
 It's been a pretty eventful 12 months to say the least, so I thought I would take some time to
 document it and write down some thoughts.  
  
-## An Approximate Timeline of the Last Year (low quality drawings included just for fun) 
+## An Approximate Timeline of the Last Year 
 - Submit bachelor's thesis just in time to graduate from MIT with a degree in mechanical engineering.
 - Spend the summer working, traveling, and relaxing at the corner of Germany, Switzerland, and France. Float down
 the Rhine with a fish bag a couple of times.
@@ -21,7 +21,7 @@ apartment in Berkeley.
 
 - Conference paper accepted! Unclear if conference will actually be held.
 - Global pandemic continues. Move out of apartment and back home due to uncertainty (and housing prices).
-- Present Day
+- Present day
 
 ---
 
@@ -65,4 +65,4 @@ contributed to my happiness during this first year.
 
 ---
 
-Although it has been an interesting and great year, it's clear that I still have a lot to learn! I'll probably look back on this in the future and laugh (or cringe), but for now, back to work!
+Although it has been an interesting and great year, it's clear that I still have a lot to learn. I'll probably look back on this in the future and laugh (or cringe), but for now, back to work!
