@@ -12,7 +12,7 @@ permalink: /blog/
         {{ blogpost.title }}
       </a>
     </h2>
-	{{ blog.excerpt }}
+	{{ blogpost.excerpt }}
   </div>
   {% endfor %}
 </div>
