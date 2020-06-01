@@ -4,7 +4,7 @@ title: Designing for Emerging Technologies
 ---
 <img src="/images/DET/CuriousAndFurious.gif" alt = "RobotEatingWashers" style="position:relative" >
 
-*The GIF above is a "Curious and Furious" (and hungry) robot I made*
+*The GIF above is a "Curious and Furious" (and hungry) robot I made. If you hold the capacitive button too long, it will eat the washers!*
 ## Overview
 **Roles:** Computer Vision, Mechanical Design, VR Development, Speech Recognition  
 **Skills:** Raspberry Pi Prototyping, Python, Google Cloud API, Unity, CAD (Autodesk Fusion 360), Physical Prototyping   
@@ -57,19 +57,19 @@ in mediating unspoken emotional communication and empathy would become especiall
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jrJ6WAsjsq0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Perception - Computer Vision (using Google Cloud Vision on RasPi)
+## Perception: Computer Vision (using Google Cloud Vision on RasPi)
 ### **Starbucks Steve: a gesture-based coffee counter assistant** 
 <img src="/images/DET/Steve.jpg" alt = "StarbucksSteve" style="position:relative" >
 
-Steve is a smart coffee assistant that helps customers make decisions about their drinks. 
-Upon perceiving a customer, Steven will prompt a series of binary choice questions such as flavor, caffeine, or milk choices. 
-Users interact with Steve with hand gestures like pointing left or right. Steve responds by shaking his left or right “arms”, 
-and gives feedback on both the LCD screen and through a speaker. Designed in a shape that resembles a real Starbucks coffee cup, 
-we hope Steve could help users make beverage choices more easily!
+Steve is a smart coffee assistant that was intended to help customers make decisions about their drinks. 
+Upon perceiving a customer, Steve prompts a series of binary questions to guide the customer to choose aspects of their drink such as flavor, caffeine, or milk. 
+Users interact with Steve by pointing left or right. Steve confirms the choice by lifting his left or right “arms” to mirror the user's gesture. 
+He also gives feedback through display on the LCD screen and through a speaker. Designed in a shape that resembles a real Starbucks coffee cup, 
+we hope Steve can help users make beverage choices more easily!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Soylf5HEnM0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Robots - Mobility (using Husqvarna Automower)
+## Robots: Mobility (using Husqvarna Automower)
 ### **HohohoBot** 
 <img src="/images/DET/Hohohobot.png" alt = "HohohoBot" style="position:relative" >
 
