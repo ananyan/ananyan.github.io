@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Motorized Retractable Joystick Modification for Power Wheelchair
+title: Motorized Joystick Modification for Power Wheelchair
 ---
 <img src="/images/Joystick/Version1.jpg" alt = "version1" style="position:relative" width="300">
 
