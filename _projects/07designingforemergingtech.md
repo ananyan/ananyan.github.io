@@ -6,17 +6,17 @@ title: Designing for Emerging Technologies
 
 *The GIF above is a "Curious and Furious" (and hungry) robot I made*
 ## Overview
-**Roles:** Computer Vision, Mechanical Design, VR Development, Speech Recognition 
-**Skills:** Raspberry Pi Prototyping, Python, Google Cloud API, Unity, CAD (Autodesk Fusion 360), Physical Prototyping 
-**Time:** August - December 2019 (2 weeks  each) 
+**Roles:** Computer Vision, Mechanical Design, VR Development, Speech Recognition  
+**Skills:** Raspberry Pi Prototyping, Python, Google Cloud API, Unity, CAD (Autodesk Fusion 360), Physical Prototyping   
+**Time:** August - December 2019 (2 weeks  each)   
 
 Developed as part of DES INV-290-6, Designing for Emerging Technologies class at UC Berkeley.
 
 ## The Problem
 **The purpose of these projects was to design using certain emerging technologies as creative materials.**
 
-## Extra-Real - Virtual Reality (using Unity on Oculus Quest)
-### An Ocean's Story 
+## Extra-Real: Virtual Reality (using Unity on Oculus Quest)
+### **An Ocean's Story** 
 <img src="/images/DET/Anoceansstory.png" alt = "AnOceanStory" style="position:relative" >
 
 An Ocean’s Story is a VR experience that explores the effects of marine debris on marine life. 
@@ -34,15 +34,15 @@ You, the user, are immersed into our experience from the perspective of a hermit
 you’re deployed on a beach. You can walk around, given enough space, or use both the controllers 
 for movement, with the L joystick triggering the direction of movement and the R joystick triggering the change in the visual field. 
 To your top right, you see a health bar which is full at the beginning. As the game starts, enter the water and you’re in a world where 
-there’s a lot of pollution and trash is cascading down from the top of the ocean to the bottom. These trash objects are recognizable 
-- plastic bags, pieces of paper, debris and crushed soda cans. Your objective is to move from the beach you’re deployed on to another beach 
+there’s a lot of pollution and trash is cascading down from the top of the ocean to the bottom. These trash objects are recognizable - plastic 
+bags, pieces of paper, debris and crushed soda cans. Your objective is to move from the beach you’re deployed on to another beach 
 at the end of the ocean, while avoiding the trash. If you collide with any piece of trash, your shell is damaged, 
 and this is reflected in the health bar. Conversely, if you find a new shell, your health bar is reset to the max. 
 Outside of this basic interaction, listen for ominous music and look out for the details in the terrain - 
 your hands-turned-crab-claws and the decrease in trash as you metaphorically travel through time to the future, 
 when pollution has been curbed due to better societal awareness and policy.
-## Conversation - Speech Recognition (using Google Cloud Speech-to-Text on RasPi)
-### Soulflower 
+## Conversation: Speech Recognition (using Google Cloud Speech-to-Text on RasPi)
+### **Soulflower**
 <img src="/images/DET/Soulflower.png" alt = "Soulflower" style="position:relative" >
 
 SoulFlower is a potted plant that encourages healthier emotional intra- and inter- personal relationships. 
@@ -58,7 +58,7 @@ in mediating unspoken emotional communication and empathy would become especiall
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jrJ6WAsjsq0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Perception - Computer Vision (using Google Cloud Vision on RasPi)
-### Starbucks Steve: a gesture-based coffee counter assistant  
+### **Starbucks Steve: a gesture-based coffee counter assistant** 
 <img src="/images/DET/Steve.jpg" alt = "StarbucksSteve" style="position:relative" >
 
 Steve is a smart coffee assistant that helps customers make decisions about their drinks. 
@@ -70,7 +70,7 @@ we hope Steve could help users make beverage choices more easily!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Soylf5HEnM0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Robots - Mobility (using Husqvarna Automower)
-### HohohoBot  
+### **HohohoBot** 
 <img src="/images/DET/Hohohobot.png" alt = "HohohoBot" style="position:relative" >
 
 The HoHoHoBot roams through the basement halls of Etcheverry Hall, across the breezeway to Soda Hall, 
