@@ -2,9 +2,9 @@
 layout: project
 title: Designing for Emerging Technologies
 ---
-<img src="/images/DET/CuriousAndFurious.gif" alt = "RobotEatingWashers" style="position:relative" >
+<img src="/images/DET/CuriousAndFurious.gif" alt = "RobotEatingWashers" style="position:relative">
 
-*The GIF above is a "Curious and Furious" (and hungry) robot I made. If you hold the capacitive button too long, it will eat the washers!*
+*The GIF above is the "Curious and Furious" (and hungry) robot I made. If you hold the capacitive button too long, it will eat the washers!*
 ## Overview
 **Roles:** Computer Vision, Mechanical Design, VR Development, Speech Recognition  
 **Skills:** Raspberry Pi Prototyping, Python, Google Cloud API, Unity, CAD (Autodesk Fusion 360), Physical Prototyping   
