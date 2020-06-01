@@ -2,7 +2,7 @@
 layout: project
 title: Universal Package Opening Tool for Burt
 ---
-<img src="/images/PackageOpener/ClosedKnife.PNG" alt = "closedpackageopener" style="position:relative" width="500">
+<img src="/images/PackageOpener/ClosedKnife.PNG" alt = "closedpackageopener" style="position:relative" width="300">
 
 ## Overview
 **Roles:** Project Team Member, Human Centered Design, Rapid Prototyping  

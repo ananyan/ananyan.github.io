@@ -2,7 +2,7 @@
 layout: project
 title: Motorized Retractable Joystick Modification for Power Wheelchair
 ---
-<img src="/images/Joystick/Version1.jpg" alt = "version1" style="position:relative" width="500">
+<img src="/images/Joystick/Version1.jpg" alt = "version1" style="position:relative" width="300">
 
 ## Overview
 **Roles:** Mechanical Design Lead  
