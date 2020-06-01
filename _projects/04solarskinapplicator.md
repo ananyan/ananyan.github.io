@@ -2,7 +2,7 @@
 layout: project
 title: Solar Skin Applicator V1 for Sistine Solar 
 ---
-<img src="/images/SistineSolar/solarskinapplicator.PNG" alt = "Applicator" style="position:relative" >
+<img src="/images/SistineSolar/solarskinapplicator.PNG" alt = "Applicator" style="position:relative" width="500">
 
 ## Overview
 **Roles:** Mechanical Engineering Intern, Mechanical Design  

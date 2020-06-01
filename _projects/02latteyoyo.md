@@ -2,7 +2,7 @@
 layout: project
 title: Latte Yo-yo
 ---
-<img src="/images/Latte/Latteyoyo.png" alt = "fullyoyo" style="position:relative" width="750">
+<img src="/images/Latte/Latteyoyo.png" alt = "fullyoyo" style="position:relative" width="500">
 
 ## Overview
 **Roles:** Mold Design (3D Printed and Machined), Manufacturing (Injection-molded base)  

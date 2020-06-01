@@ -2,7 +2,7 @@
 layout: project
 title: Smart Speed Bump for Emergency Vehicles
 ---
-<img src="/images/Sentry/Car.jpg" alt = "car" style="position:relative" >
+<img src="/images/Sentry/Car.jpg" alt = "car" style="position:relative" width="500">
 
 *The image above is from our technical review, where we demonstrated a car driving over our system (and it was also the first snow!)*
 ## Overview
