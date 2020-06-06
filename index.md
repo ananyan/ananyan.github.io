@@ -9,14 +9,14 @@ title: Home
 
 # About Me
 
-Hey there! I am currently a graduate student at UC Berkeley, advised by Professor Kosa Goucher-Lambert.  
+Hey there! I am currently a graduate student at UC Berkeley, advised by <a href="http://www.kosagl.com/">Kosa Goucher-Lambert</a>.  
 
 My current interests include (but are not limited to)
 - Universal design
 - Human-machine collaboration for engineering design
-- Sustainability/renewable energy systems
+- Sustainability in product design
 
 I graduated with a B.S. in Mechanical Engineering from MIT in June 2019. 
 
-In addition, I am a former competitive figure skater, an aspiring amateur guitarist, and a coffee lover!
+In addition, I am a former competitive figure skater, an aspiring amateur guitarist, and a coffee addict!
 
