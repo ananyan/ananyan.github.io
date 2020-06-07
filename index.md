@@ -9,7 +9,7 @@ title: Home
 
 # About Me
 
-Hey there! I am currently a graduate student at UC Berkeley, advised by <a href="http://www.kosagl.com/">Kosa Goucher-Lambert</a>.  
+Hey there! I am currently a graduate student at UC Berkeley, advised by <a href="http://www.kosagl.com/" target="_blank">Kosa Goucher-Lambert</a>.  
 
 My current interests include (but are not limited to)
 - Universal design
