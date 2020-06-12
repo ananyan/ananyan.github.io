@@ -17,6 +17,7 @@ permalink: /projects/
 				{{ project.title }}
 			  </a>
 			</h2>
+		{{project.excerpt}}
 		</div>
 	</article>
   {% endfor %}
