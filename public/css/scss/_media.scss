@@ -1,0 +1,50 @@
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+  .project {
+    width: 48%;
+    max-width: 100%;
+    margin: 0 0.9% 1.5%;
+    flex-direction: column;
+
+    .project-thumbnail {
+      width: 100%;
+    }
+
+    .project-content {
+      width: 100%;
+      .project-title {
+        margin: 0 0 5px;
+        a {
+          font-size: 21px;
+        }
+      }
+    }
+  }
+}
+
+
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+
+  .project {
+    width: 98%;
+    max-width: 100%;
+    margin: 2%;
+    flex-direction: column;
+
+    .project-thumbnail {
+      width: 100%;
+    }
+
+    .project-content {
+      width: 100%;
+      .post-title {
+        margin: 0 0 5px;
+        a {
+          font-size: 21px;
+        }
+      }
+    }
+  }
+}

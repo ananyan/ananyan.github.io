@@ -1,0 +1,45 @@
+img {
+  max-width: 100%;
+  vertical-align: middle;
+  display: inline-block;
+}
+
+img + em {
+  text-align: center;
+  display: block;
+  margin-top: 10px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.wrapper {
+  max-width: 1250px;
+  position: relative;
+}
+
+
+::-moz-selection {
+  background: rgba(38, 57, 89, 0.8);
+  color: $white;
+}
+
+::selection {
+  background: rgba(38, 57, 89, 0.8);
+  color: $white;
+}
+
+.clearfix::before, .clearfix::after {
+  content: "";
+  display: table;
+}
+
+.clearfix::after {
+  clear: both;
+}
+
+/* - - - - - - - - - - Home Page Styles - - - - - - - - - - */
+@import 'parts/home-page';
+
+/* - - - - - - - - - - Media Styles - - - - - - - - - - */
+@import 'media';
