@@ -26,7 +26,7 @@ the 3D model.
 <img src="/images/GaitTrainer/CadPlatform.jpg" alt = "platform" style="position:relative" >
 
 In addition, in order to make sure the design was accessible, we tried to use off-the-shelf parts and minimize the use
-of any special tools. A detailed description of the process can be found in this <a href="https://www.instructables.com/id/Removable-Platform-for-Gait-Trainer/">Instructable</a>.
+of any special tools. A detailed description of the process can be found in this <a href="https://www.instructables.com/id/Removable-Platform-for-Gait-Trainer/" target="_blank">Instructable</a>.
  
 ## The Result
 The photo below shows the final prototype of the removable platform. 

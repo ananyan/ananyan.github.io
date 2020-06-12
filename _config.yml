@@ -19,6 +19,7 @@ author:
   twitter:         AnAnanyaNandy
 
 paginate:         5
+paginate_path: "/page/:num"
 
 # Custom vars
 version:          1.0.0
