@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Motorized Joystick Modification for Power Wheelchair
+img: Joystick/Version1.jpg
 ---
 <img src="/images/Joystick/Version1.jpg" alt = "version1" style="position:relative" width="300">
 

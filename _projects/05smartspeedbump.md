@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Smart Speed Bump for Emergency Vehicles
+img: Sentry/Car.jpg
 ---
 <img src="/images/Sentry/Car.jpg" alt = "car" style="position:relative" width="300">
 
