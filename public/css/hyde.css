@@ -109,6 +109,11 @@ a.sidebar-nav-item:focus {
 .sidebar-nav-item.active {
   font-weight: bold;
 }
+.sidebar-nav-text {
+  display: block;
+  line-height: 1.75;
+  color: #515151;
+}
 
 /* Sticky sidebar
  *
