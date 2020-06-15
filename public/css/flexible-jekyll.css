@@ -92,9 +92,6 @@
   .project .project-content .project-title {
     margin: 0 0 5px;
   }
-  .project .project-content .project-title a {
-    font-size: 21px;
-  }
 }
 
 /* Extra Small Devices, Phones */
@@ -117,8 +114,5 @@
   }
   .project .project-content .project-title {
     margin: 0 0 5px;
-  }
-  .project .project-content .project-title a {
-    font-size: 21px;
   }
 }

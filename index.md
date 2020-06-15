@@ -4,7 +4,7 @@ title: Home
 ---
 
 <p class="message">
-  This website is still in progress - sorry for any bugs or broken links!
+  This website is always in progress - sorry for any bugs or broken links!
 </p>
 
 # About Me
