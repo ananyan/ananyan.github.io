@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Solar Skin Applicator V1 for Sistine Solar 
+title: Solar Skin applicator V1 for Sistine Solar 
 img: SistineSolar/solarskinapplicator.PNG
 ---
 <img src="/images/SistineSolar/solarskinapplicator.PNG" alt = "Applicator" style="position:relative" width="300">

@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Designing for Emerging Technologies
+title: Designing for emerging technologies
 img: DET/CuriousAndFurious.gif
 ---
 <img src="/images/DET/CuriousAndFurious.gif" alt = "RobotEatingWashers" style="position:relative">

@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Removable Platform Modification for Gait Trainer
+title: Removable platform modification for gait trainer
 img: GaitTrainer/PlatformTest.jpg
 ---
 <img src="/images/GaitTrainer/PlatformTest.jpg" alt = "platformtest" style="position:relative" width="300">

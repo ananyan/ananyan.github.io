@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Universal Package Opening Tool for Burt
+title: Universal package opening tool for Burt
 img: PackageOpener/ClosedKnife.PNG
 ---
 <img src="/images/PackageOpener/ClosedKnife.PNG" alt = "closedpackageopener" style="position:relative" width="300">
