@@ -21,7 +21,7 @@
   -webkit-align-items: stretch;
       -ms-flex-align: stretch;
           align-items: stretch;
-  min-height: 5rem;
+  min-height: 9rem;
   -webkit-border-radius: 10px;
           border-radius: 10px;
   overflow: hidden;
@@ -43,7 +43,7 @@
 .project .project-thumbnail {
   width: 30%;
   max-width: 100%;
-  min-height: 5rem;
+  min-height: 9rem;
   -webkit-background-size: cover;
           background-size: cover;
   background-position: 50% 50%;
