@@ -3,7 +3,7 @@ layout: project
 title: Motorized joystick modification for power wheelchair
 img: Joystick/Version1.jpg
 ---
-<img src="/images/Joystick/Version1.jpg" alt = "version1" style="position:relative" width="300">
+<img src="/images/Joystick/Version1.jpg" alt = "First version of the motor attachment on Rhonda's wheelchair." style="position:relative" width="300">
 
 ## Overview
 **Roles:** Mechanical Design Lead  
@@ -32,7 +32,7 @@ the speed of retraction. Then, we replaced the aluminum bars of the arm with thi
 Finally, we made the bars out of steel, as we found that it improved the robustness of the attachment, despite being slightly heavier.  
  
 ## The Result
-<img src="/images/Joystick/FinalVersion.jpg" alt = "final" style="position:relative" >
-<img src="/images/Joystick/FinalVersionInstalled.jpg" alt = "installed" style="position:relative" >
+<img src="/images/Joystick/FinalVersion.jpg" alt = "Final version of motor attachment with new, stiffer linkage" style="position:relative" >
+<img src="/images/Joystick/FinalVersionInstalled.jpg" alt = "Final prototype installed on Rhonda's wheelchair for testing" style="position:relative" >
 The initial version and the modified version are described in detail in this <a href="https://www.instructables.com/id/Developing-a-Motorized-Retractable-Joystick/" target="_blank">Instructable</a>
 which was featured on the website. The prototype was given to our user Rhonda. 

@@ -3,12 +3,12 @@ layout: project
 title: Designing for emerging technologies
 img: DET/CuriousAndFurious.gif
 ---
-<img src="/images/DET/CuriousAndFurious.gif" alt = "RobotEatingWashers" style="position:relative">
+<img src="/images/DET/CuriousAndFurious.gif" alt = "Robot Eating Washers" style="position:relative">
 
 *The GIF above is the "Curious and Furious" (and hungry) robot I made based on the Hungry Robot by EunChan Park on Youtube. If you hold the capacitive button too long, it will eat the washers!*
 ## Overview
 **Roles:** Computer Vision, Mechanical Design, VR Development, Speech Recognition  
-**Skills:** Raspberry Pi Prototyping, Python, Google Cloud API, Unity, CAD (Autodesk Fusion 360), Physical Prototyping   
+**Skills:** Raspberry Pi, Python, Google Cloud API, Unity, CAD (Autodesk Fusion 360), Physical Prototyping   
 **Time:** August - December 2019 (2 weeks  each)   
 
 Developed as part of DES INV-290-6, Designing for Emerging Technologies class at UC Berkeley.
@@ -18,7 +18,7 @@ Developed as part of DES INV-290-6, Designing for Emerging Technologies class at
 
 ## Extra-Real: Virtual Reality (using Unity on Oculus Quest)
 ### **An Ocean's Story** 
-<img src="/images/DET/Anoceansstory.png" alt = "AnOceanStory" style="position:relative" >
+<img src="/images/DET/Anoceansstory.png" alt = "An Ocean Story cover image: hermit crab surrounded by trash" style="position:relative" >
 
 An Ocean’s Story is a VR experience that explores the effects of marine debris on marine life. 
 Entering An Ocean’s Story will drop you in present-day Kamilo Point, Hawaii, where you will witness the accumulation 
@@ -44,7 +44,7 @@ your hands-turned-crab-claws and the decrease in trash as you metaphorically tra
 when pollution has been curbed due to better societal awareness and policy.
 ## Conversation: Speech Recognition (using Google Cloud Speech-to-Text on RasPi)
 ### **Soulflower**
-<img src="/images/DET/Soulflower.png" alt = "Soulflower" style="position:relative" >
+<img src="/images/DET/Soulflower.png" alt = "Soulflower cover image: sunflowers in pot on stand" style="position:relative" >
 
 SoulFlower is a potted plant that encourages healthier emotional intra- and inter- personal relationships. 
 First, it helps its owners be more in touch with their emotions, which often go overlooked during a hectic day. 
@@ -60,7 +60,7 @@ in mediating unspoken emotional communication and empathy would become especiall
 
 ## Perception: Computer Vision (using Google Cloud Vision on RasPi)
 ### **Starbucks Steve: a gesture-based coffee counter assistant** 
-<img src="/images/DET/Steve.jpg" alt = "StarbucksSteve" style="position:relative" >
+<img src="/images/DET/Steve.jpg" alt = "Starbucks Steve cover image: starbucks cup with arms on platform with screen giving choice of caffeine or decaf" style="position:relative" >
 
 Steve is a smart coffee assistant that was intended to help customers make decisions about their drinks. 
 Upon perceiving a customer, Steve prompts a series of binary questions to guide the customer to choose aspects of their drink such as flavor, caffeine, or milk. 
@@ -72,7 +72,7 @@ we hope Steve can help users make beverage choices more easily!
 
 ## Robots: Mobility (using Husqvarna Automower)
 ### **HohohoBot** 
-<img src="/images/DET/Hohohobot.png" alt = "HohohoBot" style="position:relative" >
+<img src="/images/DET/Hohohobot.png" alt = "HohohoBot cover image: rendering of moving christmas tree with the caption spreading holiday cheer from far to near" style="position:relative" >
 
 The HoHoHoBot roams through the basement halls of Etcheverry Hall, across the breezeway to Soda Hall, 
 and crosses the street to main campus, spreading holiday cheer across campus. It aims to bring people 
