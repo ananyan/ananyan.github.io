@@ -1,7 +1,14 @@
 /*! normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css */
 /* Document
    ========================================================================== */
+.clearfix::before, .clearfix::after {
+  content: "";
+  display: table;
+}
 
+.clearfix::after {
+  clear: both;
+}
 /* - - - - - - - - - - Home Page Styles - - - - - - - - - - */
 .project {
   background-color: #fff;
@@ -54,9 +61,8 @@
   width: 70%;
 }
 
-.project .project-content .project-date,
-.project .project-content .project-words {
-  font-size: 12px;
+.project-skills {
+  font-size: 0.9rem;
 }
 
 .project .project-content .project-title {
@@ -64,8 +70,27 @@
   font-size: 1.5rem;
 }
 
-.project .project-content p {
+.project .project-content .project-skills p {
   margin-top: 0;
+}
+
+.content-box {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  -webkit-box-align: stretch;
+  -webkit-align-items: stretch;
+      -ms-flex-align: stretch;
+          align-items: stretch;
 }
 
 
@@ -89,8 +114,30 @@
   .project .project-content {
     width: 100%;
   }
-  .project .project-content .project-title {
+  .project .project-content .project-skills .project-title {
     margin: 0 0 5px;
+  }
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width: 768px) {
+  .content-box {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    -webkit-box-align: stretch;
+    -webkit-align-items: stretch;
+        -ms-flex-align: stretch;
+            align-items: stretch;
   }
 }
 
@@ -112,7 +159,7 @@
   .project .project-content {
     width: 100%;
   }
-  .project .project-content .project-title {
+  .project .project-content .project-skills .project-title {
     margin: 0 0 5px;
   }
 }

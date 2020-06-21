@@ -2,6 +2,8 @@
 layout: project
 title: Motorized joystick modification for power wheelchair
 img: Joystick/Version1.jpg
+time: September - December 2018
+skills: User Interviews, User Testing, Motor Selection, Machining
 ---
 <img src="/images/Joystick/Version1.jpg" alt = "First version of the motor attachment on Rhonda's wheelchair." style="position:relative" width="300">
 

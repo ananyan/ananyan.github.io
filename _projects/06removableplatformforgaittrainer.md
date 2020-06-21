@@ -2,12 +2,14 @@
 layout: project
 title: Removable platform modification for gait trainer
 img: GaitTrainer/PlatformTest.jpg
+time: March 2019 (1 weekend)
+skills: User Interviews, User Testing, CAD (Fusion 360), Material Selection, Garage Build
 ---
 <img src="/images/GaitTrainer/PlatformTest.jpg" alt = "platformtest" style="position:relative" width="300">
 
 ## Overview
 **Roles:** Team Lead, Mechanical Design  
-**Skills:** User Interviews, User Testing, CAD (Autodesk Fusion 360), Material Selection, Garage Build  
+**Skills:** User Interviews, User Testing, CAD (Fusion 360), Material Selection, Garage Build  
 **Time:** March 2019 (1 weekend) 
 
 Developed as part ATHack 2019 at MIT

@@ -1,0 +1,109 @@
+I".<div class="content-box clearfix">
+  
+	<article class="project">
+		
+			<a class="project-thumbnail" style="background-image: url(/images/DET/CuriousAndFurious.gif)" href="/projects/07designingforemergingtech/"></a> 
+		
+		<div class="project-content">
+			<h2 class="project-title">
+			  <a href="/projects/07designingforemergingtech/">
+				Designing for emerging technologies
+			  </a>
+			</h2>
+			<p class="project-skills">Raspberry Pi, Python, Google Cloud API, Unity, CAD (Autodesk Fusion 360), Physical Prototyping</p>
+			<p class="project-date">August - December 2019 (2 weeks  each)</p>
+		</div>
+	</article>
+  
+	<article class="project">
+		
+			<a class="project-thumbnail" style="background-image: url(/images/GaitTrainer/PlatformTest.jpg)" href="/projects/06removableplatformforgaittrainer/"></a> 
+		
+		<div class="project-content">
+			<h2 class="project-title">
+			  <a href="/projects/06removableplatformforgaittrainer/">
+				Removable platform modification for gait trainer
+			  </a>
+			</h2>
+			<p class="project-skills">User Interviews, User Testing, CAD (Autodesk Fusion 360), Material Selection, Garage Build</p>
+			<p class="project-date">March 2019 (1 weekend)</p>
+		</div>
+	</article>
+  
+	<article class="project">
+		
+			<a class="project-thumbnail" style="background-image: url(/images/Sentry/Car.jpg)" href="/projects/05smartspeedbump/"></a> 
+		
+		<div class="project-content">
+			<h2 class="project-title">
+			  <a href="/projects/05smartspeedbump/">
+				Smart speed bump for emergency vehicles
+			  </a>
+			</h2>
+			<p class="project-skills">User Interviews, CAD (SolidWorks), Mechanism Selection, Material Selection, Machining</p>
+			<p class="project-date">September - December 2018</p>
+		</div>
+	</article>
+  
+	<article class="project">
+		
+			<a class="project-thumbnail" style="background-image: url(/images/SistineSolar/solarskinapplicator.PNG)" href="/projects/04solarskinapplicator/"></a> 
+		
+		<div class="project-content">
+			<h2 class="project-title">
+			  <a href="/projects/04solarskinapplicator/">
+				Solar Skin applicator V1 for Sistine Solar
+			  </a>
+			</h2>
+			<p class="project-skills">Thin-film Application, CAD (SolidWorks), Machining</p>
+			<p class="project-date">June - August 2018</p>
+		</div>
+	</article>
+  
+	<article class="project">
+		
+			<a class="project-thumbnail" style="background-image: url(/images/Joystick/Version1.jpg)" href="/projects/03motorizedwheelchairjoystick/"></a> 
+		
+		<div class="project-content">
+			<h2 class="project-title">
+			  <a href="/projects/03motorizedwheelchairjoystick/">
+				Motorized joystick modification for power wheelchair
+			  </a>
+			</h2>
+			<p class="project-skills">User Interviews, User Testing, Motor Selection, Machining</p>
+			<p class="project-date">September - December 2018</p>
+		</div>
+	</article>
+  
+	<article class="project">
+		
+			<a class="project-thumbnail" style="background-image: url(/images/Latte/Latteyoyo.png)" href="/projects/02latteyoyo/"></a> 
+		
+		<div class="project-content">
+			<h2 class="project-title">
+			  <a href="/projects/02latteyoyo/">
+				Mass-manufactured latte yo-yo
+			  </a>
+			</h2>
+			<p class="project-skills">Design for Manufacturing, CAD (SolidWorks), CAM (MasterCAM), 3D Printing, CNC Milling, Injection Molding, Quality</p>
+			<p class="project-date">September - December 2018</p>
+		</div>
+	</article>
+  
+	<article class="project">
+		
+			<a class="project-thumbnail" style="background-image: url(/images/PackageOpener/ClosedKnife.PNG)" href="/projects/01universalpackageopeningtool/"></a> 
+		
+		<div class="project-content">
+			<h2 class="project-title">
+			  <a href="/projects/01universalpackageopeningtool/">
+				Universal package opening tool for Burt
+			  </a>
+			</h2>
+			<p class="project-skills">User Interviews, User Testing, 3D Printing, Laser Cutting</p>
+			<p class="project-date">January - May 2017</p>
+		</div>
+	</article>
+  
+</div>
+:ET

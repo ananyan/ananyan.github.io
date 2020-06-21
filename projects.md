@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-<div class="projects">
+<div class="content-box clearfix">
   {% for project in site.projects reversed %}
 	<article class="project">
 		{% if project.img %}
@@ -17,6 +17,7 @@ permalink: /projects/
 				{{ project.title }}
 			  </a>
 			</h2>
+			<p class="project-skills">{{ project.skills }}</p>
 		</div>
 	</article>
   {% endfor %}

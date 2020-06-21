@@ -2,13 +2,15 @@
 layout: project
 title: Designing for emerging technologies
 img: DET/CuriousAndFurious.gif
+time: August - December 2019 (2 weeks  each) 
+skills: Raspberry Pi, Python, Google Cloud API, Unity, CAD (Fusion 360), 3D Printing
 ---
 <img src="/images/DET/CuriousAndFurious.gif" alt = "Robot Eating Washers" style="position:relative">
 
 *The GIF above is the "Curious and Furious" (and hungry) robot I made based on the Hungry Robot by EunChan Park on Youtube. If you hold the capacitive button too long, it will eat the washers!*
 ## Overview
 **Roles:** Computer Vision, Mechanical Design, VR Development, Speech Recognition  
-**Skills:** Raspberry Pi, Python, Google Cloud API, Unity, CAD (Autodesk Fusion 360), Physical Prototyping   
+**Skills:** Raspberry Pi, Python, Google Cloud API, Unity, CAD (Fusion 360), 3D Printing   
 **Time:** August - December 2019 (2 weeks  each)   
 
 Developed as part of DES INV-290-6, Designing for Emerging Technologies class at UC Berkeley.

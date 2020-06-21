@@ -2,6 +2,8 @@
 layout: project
 title: Solar Skin applicator V1 for Sistine Solar 
 img: SistineSolar/solarskinapplicator.PNG
+time: June - August 2018 
+skills: Thin-film Application, CAD (SolidWorks), Machining
 ---
 <img src="/images/SistineSolar/solarskinapplicator.PNG" alt = "Applicator" style="position:relative" width="300">
 
