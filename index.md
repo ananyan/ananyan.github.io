@@ -3,10 +3,6 @@ layout: default
 title: Home
 ---
 
-<p class="message">
-  This website is always in progress - sorry for any bugs, broken links, or outdated information!
-</p>
-
 # About Me
 
 Hey there! I am currently a graduate student at UC Berkeley, advised by <a href="http://www.kosagl.com/">Kosa Goucher-Lambert</a>.  

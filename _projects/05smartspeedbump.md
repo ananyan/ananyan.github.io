@@ -3,7 +3,7 @@ layout: project
 title: Smart speed bump for emergency vehicles
 img: Sentry/Car.jpg
 time: September - December 2018
-skills: User Interviews, CAD (SolidWorks), Mechanism Selection, Material Selection, Machining
+skills: User Interviews, CAD (SolidWorks), Mechanism Selection, Material Selection, Machining, Alpha Prototype
 ---
 <img src="/images/Sentry/Car.jpg" alt = "Car on prototype speed bump" style="position:relative" width="300">
 
