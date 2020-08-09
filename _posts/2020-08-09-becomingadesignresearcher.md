@@ -46,6 +46,6 @@ Regardless, this information can provide some idea of what you can do as a desig
 <img src="/images/Blog/BecomingADesignResearcher/IndustrySector.png" alt = "Pie graph of industry sector for those who went into industry" style="position:relative" >
 
 ## Looking forward
-Overall, there are many unanswered questions in design theory and methodology and so much potential to help augment human designers' abilities 
-- hopefully leading to innovative products that will benefit the broader population. This impact can be continued in both academia and industry after graduate school!
+Overall, there are many unanswered questions in design theory and methodology and so much potential to help augment human designers' abilities - hopefully 
+leading to innovative products that will benefit the broader population. This impact can be continued in both academia and industry after graduate school!
  
