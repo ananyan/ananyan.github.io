@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Becoming a researcher of engineering design 
+title: Research in engineering design
 excerpt_separator: <!--more-->
 ---
 Research in engineering design theory and methodology tends to be pretty hard to explain, especially
