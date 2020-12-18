@@ -13,7 +13,7 @@ skills: Raspberry Pi, Python, Google Cloud API, Unity, CAD (Fusion 360), 3D Prin
 **Skills:** Raspberry Pi, Python, Google Cloud API, Unity, CAD (Fusion 360), 3D Printing   
 **Time:** August - December 2019 (2 weeks  each)   
 
-Developed as part of DES INV-290-6, Designing for Emerging Technologies class at UC Berkeley.
+Developed as part of DES INV-290-6, Designing for Emerging Technologies at UC Berkeley.
 
 ## The Problem
 **The purpose of these projects was to design using certain emerging technologies as creative materials.**

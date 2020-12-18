@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Universal package opening tool for Burt
+title: Universal package opening tool 
 img: PackageOpener/ClosedKnife.PNG
 time: January - May 2017
 skills: User Interviews, User Testing, 3D Printing, Laser Cutting

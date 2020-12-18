@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Becoming a design theory researcher
+title: Becoming a researcher of engineering design 
 excerpt_separator: <!--more-->
 ---
-Research in design theory tends to be pretty hard to explain, especially
+Research in engineering design theory and methodology tends to be pretty hard to explain, especially
 for someone who honestly had no idea what it was until about a year ago (me). Yet, having
 spent some time exploring and contributing to it by now, I'll briefly attempt to summarize what I know about this field.
 <!--more-->
