@@ -71,4 +71,4 @@ the pizza and allowing the mobile robot to complete its task. Here are videos of
 
 Overall, this was a challenging project with several moving parts that had to all work for success at the system level. As with many projects, we likely would have figured out several of the problems given more time,
 but it was a good lesson in working with an interdisciplinary team as well as integrating software and hardware! However, we did win an award for the best software in the class!
-<img src="/images/PizzaRobot/swaward.jpg" alt = "Award for the 2.12 Introduction Robotics 2019 Term Project Competition for Robo's Pizzera Restaurant Automation. Best Software." style="position:relative">
+<img src="/images/PizzaRobot/swaward.JPG" alt = "Award for the 2.12 Introduction Robotics 2019 Term Project Competition for Robo's Pizzera Restaurant Automation. Best Software." style="position:relative">
