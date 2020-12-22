@@ -7,7 +7,7 @@ skills: ROS, Python, CAD (SolidWorks), Computer Vision, Hardware
 ---
 <img src="/images/PizzaRobot/placetopping.gif" alt = "Delta robot picks up and places a fake pepperoni" style="position:relative">
 
-*The GIF shows our robotic system, named R.E.M.Y. (Robot for Expedited Manufacturing of Ya' pizzas) at work.*
+*The GIF shows our robotic system, named R.E.M.Y. (Robot for Expedited Manufacturing of Ya' pizzas) at work (4x speed).*
 ## Overview
 **Roles:** Delta Robot Hardware, Mobile Robot Software  
 **Skills:** ROS, Python, CAD (SolidWorks), Computer Vision, Hardware   
@@ -63,7 +63,7 @@ The following is a diagram of the system.
 The final system worked on a rough level, but unfortunately, I can't find a video of the full system or even any videos we took in the later parts of the project, 
 so I guess I can't provide full proof of that! Some of the challenges were adapting to different lighting to detect the colors of the toppings and ensuring that the 
 failure of the delta robot to perfectly complete the toppings on the pizza would not prevent the robot from at least transferring 
-the pizza and allowing the mobile robot to complete its task. Here are videos of the robot functioning at least in parts during testing:
+the pizza and allowing the mobile robot to complete its task. Here are videos of the robot functioning at least in parts during testing (Last GIF is 2x speed):
 
 <img src="/images/PizzaRobot/pickuptopping.gif" alt = "Delta robot picks up and places a fake pepperoni" style="position:relative">
 <img src="/images/PizzaRobot/transferpizza.gif" alt = "Delta robot transfers pizza" style="position:relative">
@@ -71,5 +71,4 @@ the pizza and allowing the mobile robot to complete its task. Here are videos of
 
 Overall, this was a challenging project with several moving parts that had to all work for success at the system level. As with many projects, we likely would have figured out several of the problems given more time,
 but it was a good lesson in working with an interdisciplinary team as well as integrating software and hardware! However, we did win an award for the best software in the class!
-<img src="/images/PizzaRobot/award.jpg" alt = "Award for the 2.12 Introduction Robotics 2019 Term Project Competition for Robo's Pizzera Restaurant Automation. The Best Software Award 
-is presented to team R.E.M.Y. and signed by Profs Kamal Youcef-Toumi, Alberto Rodriguez, and Harry Asada and Dr. Harrison Chin." style="position:relative" >
+<img src="/images/PizzaRobot/swaward.jpg" alt = "Award for the 2.12 Introduction Robotics 2019 Term Project Competition for Robo's Pizzera Restaurant Automation. Best Software." style="position:relative">
