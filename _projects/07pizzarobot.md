@@ -1,6 +1,6 @@
 ---
 layout: project
-title:   
+title: Delta and mobile robot   
 img: PizzaRobot/placetopping.gif 
 time: February - June 2019  
 skills: ROS, Python, CAD (SolidWorks), Computer Vision, Hardware  
