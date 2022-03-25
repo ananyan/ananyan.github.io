@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2021-12-10 15:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+Presented a poster at the NeurIPS 2022 HCAI Workshop!

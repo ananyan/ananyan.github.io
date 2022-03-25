@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Decision making for disaster response
-img: Iassets/img/DR3/datavisual.jpg
+img: assets/img/DR3/datavisual.jpg
 description: User Interviews, Natural Language Processing, Speech Recognition, Data Visualization, Python, Google Cloud API
 category: UC Berkeley
 ---
