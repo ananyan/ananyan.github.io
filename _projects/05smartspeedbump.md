@@ -1,0 +1,73 @@
+---
+layout: project
+title: Smart speed bump for emergency vehicles
+img: assets/img/Sentry/Car.jpg
+description: User Interviews, CAD (SolidWorks), Mechanism Selection, Material Selection, Machining, Alpha Prototype
+category: MIT
+---
+<img src="/images/Sentry/Car.jpg" alt = "Car on prototype speed bump" style="position:relative" width="300">
+
+*The image above is from our technical review, where we demonstrated a car driving over our system (and it was also the first snow!)*
+## Overview
+**Roles:** Technical Sub-team Lead, Mechanical Design, Material Procurement  
+**Skills:** User Interviews, CAD (SolidWorks), Mechanism Selection, Material Selection, Machining  
+**Time:** September - December 2018  
+**Team:** 19 (MechE, CompSci)
+
+Developed as part of 2.009, senior capstone for mechanical engineering. 
+
+## The Problem
+Cities desire to regulate traffic while not interfering with the ability for first responders to quickly and comfortably transport patients.
+Speed bumps assist in traffic regulation (for example, near schools), but can cause jostling of patients during transportation, such that 
+emergency responders often avoid routes with speed bumps, even if they are longer. In addition, city planners sometimes cannot add the 
+extent of traffic regulation actually needed to mitigate these concerns. 
+
+Stakeholders Interviewed:  
+*EMS* - Watertown Fire Department, MIT EMS, Paramedic (Jacksonville, FL), Law Enforcement Officer (San Angelo, TX)  
+*City Planners* - Austin, TX; Seattle, WA; Bellevue, WA; Eugene, OR; Portland, OR; Richmond, VA; Washington D.C.  
+*Traffic Engineers* - Delaware, Florida, Michigan, Montana, Nebraska, North Dakota, New Hampshire, Utah, Washington Depts. of Transportation  
+*Snow Plow Operator* - Cambridge Dept. of Public Works
+
+**In order to balance the goals of both EMS and traffic regulation, we developed a dynamic speed bump that could be signaled to flatten by emergency responders (and in cities like Cambridge, during snow plows as well)**
+<img src="/images/Sentry/Logo.PNG" alt = "Sentry logo. A dynamic speed bump system that collapses for emergency services. With Sentry, cities can achieve traffic regulation without delaying emergency response times." style="position:relative" >
+
+## The Process
+There were several parts to the system that we had to consider:
+1. Detection: The system needed to sense that an emergency service was arriving and initate the system response.
+
+	This part of the system was based off of existing systems for traffic signal preemption. In our case, the electronics and sensing system (radio receiver) were integrated
+within the BUMP sign that was located near the speed bump. For our prototype, we powered the system as if it were connected to the electrical grid,
+although we considered cases where it could be solar or battery-powered. The system was designed so that EMS could initiate the signal from 1500 ft away,
+giving the speed bump approximately 20 seconds to collapse for a vehicle traveling 50 mph.    
+
+2. Signaling: There needed to be an indication of the speed bump's status (up, down, or in-motion) to anyone on the road.
+
+	LEDs on the BUMP sign were programmed to indicate the state of the bump. The default state was set to be "up" as if it was a normal speed bump (no LEDs). When signaled to flatten,
+the LEDs would flash green. In the "down" state, the LEDs on the top and bottom of the sign would turn solid green. Finally, any error or system failure would be indicated
+with the LEDs on the left and right sides turning red. Because it was important that EMS would slow down in the case the speed bump was not operational (could not collapse),
+the LEDs were chosen to operate with the assumption of an "up" state and a clear indication in the case of a successful collapse.   
+
+3. Collapsing: The bump needed to flatten in a required amount of time. 
+
+	For this part, the critical part was that the speed bump could both lift and sustain a minimum load (the weight of the largest vehicle that would be allowed on the street). 
+After considering lifting mechanisms including a pneumatic bladder, air springs, and ratchets, we decided to use 4 3-ton electric scissor jacks for our prototype, as it
+allowed the bump to flatten in 10 seconds and could hold up a car. These were attached to a base that would be placed in an excavation in the street. 
+The scissor jacks were then attached to a hinged steel plate assembly that would form the bump or flattened shape.
+
+Here's me working on the final assembly in our makeshift "excavated" road.
+<img src="/images/Sentry/AssemblyProcess.jpg" alt = "The speed bump sits in a wooden case meant to represent excavated road. I am measuring a width on the side. The steel plates from the top are off and you can see the four car jacks." style="position:relative" >
+And here is the speed bump in its almost fully assembled form.
+<img src="/images/Sentry/Assembly.PNG" alt = "A side view of the assembled speed bump without any side plates." style="position:relative" >
+
+Finally, the speed bump was covered with a protective rubber outer surface that could not only be painted with the traditional speed bump markings, but would also protective the 
+surface from rust and protect the internal mechanisms from weather and corrosion. An exploded view of the entire assembly is shown below.
+<img src="/images/Sentry/ExplodedView.PNG" alt = "An exploded view of the speed bump parts. Rubber surface, steel plates, scissor jacks, weather-proof enclosure." style="position:relative" >
+
+Although all members of the team contributed to certain parts of the system such as determining the lifting mechanism, I was specifically in charge of leading a task force of 5 members to 
+develop the active surface (the plates that attached to the lifting mechanism to form the bump and the rubber cover). 
+ 
+## The Result
+The final prototype of the entire system could successfully be signaled to lower, driven over, and lifted back up with corresponding LEDs on the sign. The photo below shows the final prototype.  
+<img src="/images/Sentry/Product.jpg" alt = "Product image of the entire speed bump including rubber cover with road markings and Bump Ahead sign with LEDs" style="position:relative" >
+In addition, we presented a demonstration of the system in front of over 1000 people:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tNz5Y4lebsY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
