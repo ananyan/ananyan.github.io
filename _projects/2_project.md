@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: page
 title: latte yo-yo
 img: assets/img/Latte/Latteyoyo.png
 description: consumer product

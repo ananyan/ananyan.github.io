@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: page
 title: Delta and mobile robot   
 img: assets/img/PizzaRobot/placetopping.gif 
 description: robotics  

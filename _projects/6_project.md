@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: page
 title: Removable platform modification for gait trainer
 img: assets/img/GaitTrainer/PlatformTest.jpg
 description: assistive technology

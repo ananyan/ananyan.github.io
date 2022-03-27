@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: page
 title: Designing for emerging technologies
 img: assets/img/DET/CuriousAndFurious.gif
 description: interactive devices
@@ -20,7 +20,7 @@ category: UC Berkeley
 **Time:** August - December 2019 (2 weeks  each)  
 **Team:** 4 each (MechE, CompSci, HCI, Psych, Arch) 
 
-The purpose of these projects was to design using certain emerging technologies as creative materials. They were developed as part of DES INV-290-6, Designing for Emerging Technologies.
+The purpose of these projects was to design interactive devices using certain emerging technologies as creative materials. They were developed as part of DES INV-290-6, Designing for Emerging Technologies.
 
 ## Extra-Real: Virtual Reality (using Unity on Oculus Quest)
 ### **An Ocean's Story** 
@@ -53,9 +53,15 @@ Outside of this basic interaction, listen for ominous music and look out for the
 your hands-turned-crab-claws and the decrease in trash as you metaphorically travel through time to the future, 
 when pollution has been curbed due to better societal awareness and policy.
 
+<a href="/assets/pdf/PROJ03_Process.pdf">PDF</a> of detailed design process.
+
 ## Conversation: Speech Recognition (using Google Cloud Speech-to-Text on RasPi)
 ### **Soulflower**
-<img src="/images/DET/Soulflower.png" alt = "Soulflower cover image: sunflowers in pot on stand" style="position:relative" >
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/DET/Soulflower.png" alt = "Soulflower cover image: sunflowers in pot on stand" class="img-fluid" %}
+    </div>
+</div>
 
 SoulFlower is a potted plant that encourages healthier emotional intra- and inter- personal relationships. 
 First, it helps its owners be more in touch with their emotions, which often go overlooked during a hectic day. 
@@ -68,6 +74,8 @@ is for a single-person bedroom, but a future iteration may also find it in multi
 in mediating unspoken emotional communication and empathy would become especially prominent.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jrJ6WAsjsq0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<a href="/assets/pdf/PROJ02_Process.pdf">PDF</a> of detailed design process.
 
 ## Perception: Computer Vision (using Google Cloud Vision on RasPi)
 ### **Starbucks Steve: a gesture-based coffee counter assistant** 
@@ -85,6 +93,8 @@ we hope Steve can help users make beverage choices more easily!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Soylf5HEnM0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[PDF](/assets/pdf/PROJ01_Process.pdf) of detailed design process.
+
 ## Robots: Mobility (using Husqvarna Automower)
 ### **HohohoBot** 
 <div class="row">
@@ -100,3 +110,5 @@ to messages from other places, the HoHoHoBot gathers messages from one location 
 in the form of a collaborative tree decorating activity.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Rudonu3daCI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<a href="/assets/pdf/PROJ04_Process.pdf">PDF</a> of detailed design process.

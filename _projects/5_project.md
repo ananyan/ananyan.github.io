@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: page
 title: Smart speed bump for emergency vehicles
 img: assets/img/Sentry/Car.jpg
 description: infrastructure product
