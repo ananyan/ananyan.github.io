@@ -2,7 +2,7 @@
 layout: project
 title: Decision making for disaster response
 img: assets/img/IDR3/datavisual.jpg
-description: User Interviews, Natural Language Processing, Speech Recognition, Data Visualization, Python, Google Cloud API
+description: data visualization
 category: UC Berkeley
 ---
 <img src="assets/images/IDR3/datavisual.jpg" alt = "Glowing globe representing information and data" style="position:relative" width="300">

@@ -2,7 +2,7 @@
 layout: project
 title: Smart speed bump for emergency vehicles
 img: assets/img/Sentry/Car.jpg
-description: User Interviews, CAD (SolidWorks), Mechanism Selection, Material Selection, Machining, Alpha Prototype
+description: infrastructure product
 category: MIT
 ---
 <img src="/images/Sentry/Car.jpg" alt = "Car on prototype speed bump" style="position:relative" width="300">

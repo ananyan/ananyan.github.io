@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Universal package opening tool 
+title: universal package opening tool 
 img: assets/img/PackageOpener/ClosedKnife.PNG
-description: User Interviews, User Testing, 3D Printing, Laser Cutting
+description: assistive technology
 category: MIT
 ---
 <img src="/images/PackageOpener/ClosedKnife.PNG" alt = "Final package opener prototype" style="position:relative" width="300">

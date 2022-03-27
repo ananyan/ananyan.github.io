@@ -2,26 +2,33 @@
 layout: project
 title: Designing for emerging technologies
 img: assets/img/DET/CuriousAndFurious.gif
-description: Raspberry Pi, Python, Google Cloud API, Unity, CAD (Fusion 360), 3D Printing
+description: interactive devices
 category: UC Berkeley
 ---
-<img src="/images/DET/CuriousAndFurious.gif" alt = "Robot Eating Washers" style="position:relative">
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/DET/CuriousAndFurious.gif" alt = "Robot Eating Washers" class="img-fluid" %}
+    </div>
+</div>
+<div class="caption">
+    *The GIF above is the "Curious and Furious" (and hungry) robot I made based on the Hungry Robot by EunChan Park on Youtube. If you hold the capacitive button too long, it will eat the washers!*
+</div>
 
-*The GIF above is the "Curious and Furious" (and hungry) robot I made based on the Hungry Robot by EunChan Park on Youtube. If you hold the capacitive button too long, it will eat the washers!*
 ## Overview
-**Roles:** Computer Vision, Mechanical Design, VR Development, Speech Recognition  
-**Skills:** Raspberry Pi, Python, Google Cloud API, Unity, CAD (Fusion 360), 3D Printing   
+**Roles:** VR Development, Computer Vision, Mechanical Design,  Speech Recognition  
+**Tools/Skills:** Raspberry Pi, Python, Google Cloud API, Unity, CAD (Fusion 360), 3D Printing   
 **Time:** August - December 2019 (2 weeks  each)  
 **Team:** 4 each (MechE, CompSci, HCI, Psych, Arch) 
 
-Developed as part of DES INV-290-6, Designing for Emerging Technologies.
-
-## The Problem
-**The purpose of these projects was to design using certain emerging technologies as creative materials.**
+The purpose of these projects was to design using certain emerging technologies as creative materials. They were developed as part of DES INV-290-6, Designing for Emerging Technologies.
 
 ## Extra-Real: Virtual Reality (using Unity on Oculus Quest)
 ### **An Ocean's Story** 
-<img src="/images/DET/Anoceansstory.png" alt = "An Ocean Story cover image: hermit crab surrounded by trash" style="position:relative" >
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/DET/Anoceansstory.png" alt = "An Ocean Story cover image: hermit crab surrounded by trash" class="img-fluid" %}
+    </div>
+</div>
 
 An Ocean’s Story is a VR experience that explores the effects of marine debris on marine life. 
 Entering An Ocean’s Story will drop you in present-day Kamilo Point, Hawaii, where you will witness the accumulation 
@@ -30,7 +37,7 @@ but instead, are viewing the beach through the eyes of a much smaller creature -
 You then begin your journey through the ocean, trying to avoid trash that may damage your shell. 
 If you suffer significant damage to your shell, you have a few opportunities to find a replacement shell. 
 Your goal is to survive until you reach the trash-free paradise at the end - our vision for the Kamilo Point of the future, 
-if we as humans take responsibility for the problem we have caused. Contact me for the APK file to download to your Quest!
+if we as humans take responsibility for the problem we have caused. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CKMGqEr92SU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -45,6 +52,7 @@ and this is reflected in the health bar. Conversely, if you find a new shell, yo
 Outside of this basic interaction, listen for ominous music and look out for the details in the terrain - 
 your hands-turned-crab-claws and the decrease in trash as you metaphorically travel through time to the future, 
 when pollution has been curbed due to better societal awareness and policy.
+
 ## Conversation: Speech Recognition (using Google Cloud Speech-to-Text on RasPi)
 ### **Soulflower**
 <img src="/images/DET/Soulflower.png" alt = "Soulflower cover image: sunflowers in pot on stand" style="position:relative" >
@@ -63,7 +71,11 @@ in mediating unspoken emotional communication and empathy would become especiall
 
 ## Perception: Computer Vision (using Google Cloud Vision on RasPi)
 ### **Starbucks Steve: a gesture-based coffee counter assistant** 
-<img src="/images/DET/Steve.jpg" alt = "Starbucks Steve cover image: starbucks cup with arms on platform with screen giving choice of caffeine or decaf" style="position:relative" >
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/DET/Steve.jpg" alt = "Starbucks Steve cover image: starbucks cup with arms on platform with screen giving choice of caffeine or decaf" class="img-fluid" %}
+    </div>
+</div>
 
 Steve is a smart coffee assistant that was intended to help customers make decisions about their drinks. 
 Upon perceiving a customer, Steve prompts a series of binary questions to guide the customer to choose aspects of their drink such as flavor, caffeine, or milk. 
@@ -75,7 +87,11 @@ we hope Steve can help users make beverage choices more easily!
 
 ## Robots: Mobility (using Husqvarna Automower)
 ### **HohohoBot** 
-<img src="/images/DET/Hohohobot.png" alt = "HohohoBot cover image: rendering of moving christmas tree with the caption spreading holiday cheer from far to near" style="position:relative" >
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/DET/Hohohobot.png" alt = "HohohoBot cover image: rendering of moving christmas tree with the caption spreading holiday cheer from far to near" class="img-fluid" %}
+    </div>
+</div>
 
 The HoHoHoBot roams through the basement halls of Etcheverry Hall, across the breezeway to Soda Hall, 
 and crosses the street to main campus, spreading holiday cheer across campus. It aims to bring people 

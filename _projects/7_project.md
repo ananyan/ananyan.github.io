@@ -2,7 +2,7 @@
 layout: project
 title: Delta and mobile robot   
 img: assets/img/PizzaRobot/placetopping.gif 
-description: ROS, Python, CAD (SolidWorks), Computer Vision, Hardware  
+description: robotics  
 category: MIT
 ---
 <img src="/images/PizzaRobot/placetopping.gif" alt = "Delta robot picks up and places a fake pepperoni" style="position:relative">

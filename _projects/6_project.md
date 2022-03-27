@@ -2,7 +2,7 @@
 layout: project
 title: Removable platform modification for gait trainer
 img: assets/img/GaitTrainer/PlatformTest.jpg
-description: User Interviews, User Testing, CAD (Fusion 360), Material Selection, Garage Build
+description: assistive technology
 category: MIT
 ---
 <img src="/images/GaitTrainer/PlatformTest.jpg" alt = "platformtest" style="position:relative" width="300">

@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Solar Skin applicator V1 for Sistine Solar 
+title: aesthetic solar panels 
 img: assets/img/SistineSolar/solarskinapplicator.PNG
-description: Thin-film Application, CAD (SolidWorks), Machining
+description: consumer product, renewable energy
 category: Work
 ---
 <img src="/images/SistineSolar/solarskinapplicator.PNG" alt = "Applicator" style="position:relative" width="300">

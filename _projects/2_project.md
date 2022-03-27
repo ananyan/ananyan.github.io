@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Mass-manufactured latte yo-yo
+title: latte yo-yo
 img: assets/img/Latte/Latteyoyo.png
-description: Design for Manufacturing, CAD (SolidWorks), CAM (MasterCAM), 3D Printing, CNC Milling, Injection Molding, Quality
+description: consumer product
 category: MIT
 ---
 <img src="/images/Latte/Latteyoyo.png" alt = "Final manufactured yoyo with and without cup" style="position:relative" width="300">

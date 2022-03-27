@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Motorized joystick modification for power wheelchair
+title: motorized joystick for power wheelchair
 img: assets/img/Joystick/Version1.jpg
-description: User Interviews, User Testing, Motor Selection, Machining
+description: assistive technology
 category: MIT
 ---
 <img src="/images/Joystick/Version1.jpg" alt = "First version of the motor attachment on Rhonda's wheelchair." style="position:relative" width="300">
