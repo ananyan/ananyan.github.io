@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Miscellaneous design projects
 nav: true
 order: 2
 display_categories: [UC Berkeley, MIT, Work]
