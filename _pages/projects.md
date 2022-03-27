@@ -4,6 +4,7 @@ title: projects
 permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
+order: 2
 display_categories: [UC Berkeley, MIT, Work]
 horizontal: false
 ---

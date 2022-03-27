@@ -2,12 +2,20 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
-nav: true
+description: 
+nav: false
 ---
 
-Human-Centered Design Methods
 
-Prototyping and Fabrication
+Graduate Student Instructor - UC Berkeley
 
-Design Methodology
+Design Methodology (Spring 2022)
+
+Prototyping and Fabrication (Summer 2021)
+
+Human-Centered Design Methods (Fall 2020) - Outstanding GSI Award
+
+Lab Assistant - MIT
+
+Design and Manufacturing II (Spring 2019)
+
