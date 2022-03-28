@@ -5,7 +5,11 @@ img: assets/img/Sentry/Car.jpg
 description: infrastructure product
 category: MIT
 ---
-<img src="/images/Sentry/Car.jpg" alt = "Car on prototype speed bump" style="position:relative" width="300">
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Sentry/Car.jpg" alt = "Car on prototype speed bump" class="img-fluid" %}
+    </div>
+</div>
 
 *The image above is from our technical review, where we demonstrated a car driving over our system (and it was also the first snow!)*
 ## Overview
@@ -29,7 +33,11 @@ Stakeholders Interviewed:
 *Snow Plow Operator* - Cambridge Dept. of Public Works
 
 **In order to balance the goals of both EMS and traffic regulation, we developed a dynamic speed bump that could be signaled to flatten by emergency responders (and in cities like Cambridge, during snow plows as well)**
-<img src="/images/Sentry/Logo.PNG" alt = "Sentry logo. A dynamic speed bump system that collapses for emergency services. With Sentry, cities can achieve traffic regulation without delaying emergency response times." style="position:relative" >
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Sentry/Logo.PNG" alt = "Sentry logo. A dynamic speed bump system that collapses for emergency services. With Sentry, cities can achieve traffic regulation without delaying emergency response times." class="img-fluid" %}
+    </div>
+</div>
 
 ## The Process
 There were several parts to the system that we had to consider:
@@ -55,19 +63,35 @@ allowed the bump to flatten in 10 seconds and could hold up a car. These were at
 The scissor jacks were then attached to a hinged steel plate assembly that would form the bump or flattened shape.
 
 Here's me working on the final assembly in our makeshift "excavated" road.
-<img src="/images/Sentry/AssemblyProcess.jpg" alt = "The speed bump sits in a wooden case meant to represent excavated road. I am measuring a width on the side. The steel plates from the top are off and you can see the four car jacks." style="position:relative" >
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Sentry/AssemblyProcess.jpg" alt = "The speed bump sits in a wooden case meant to represent excavated road. I am measuring a width on the side. The steel plates from the top are off and you can see the four car jacks." class="img-fluid" %}
+    </div>
+</div>
 And here is the speed bump in its almost fully assembled form.
-<img src="/images/Sentry/Assembly.PNG" alt = "A side view of the assembled speed bump without any side plates." style="position:relative" >
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Sentry/Assembly.PNG" alt = "A side view of the assembled speed bump without any side plates." class="img-fluid" %}
+    </div>
+</div>
 
 Finally, the speed bump was covered with a protective rubber outer surface that could not only be painted with the traditional speed bump markings, but would also protective the 
 surface from rust and protect the internal mechanisms from weather and corrosion. An exploded view of the entire assembly is shown below.
-<img src="/images/Sentry/ExplodedView.PNG" alt = "An exploded view of the speed bump parts. Rubber surface, steel plates, scissor jacks, weather-proof enclosure." style="position:relative" >
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Sentry/ExplodedView.PNG" alt = "An exploded view of the speed bump parts. Rubber surface, steel plates, scissor jacks, weather-proof enclosure." class="img-fluid" %}
+    </div>
+</div>
 
 Although all members of the team contributed to certain parts of the system such as determining the lifting mechanism, I was specifically in charge of leading a task force of 5 members to 
 develop the active surface (the plates that attached to the lifting mechanism to form the bump and the rubber cover). 
  
 ## The Result
 The final prototype of the entire system could successfully be signaled to lower, driven over, and lifted back up with corresponding LEDs on the sign. The photo below shows the final prototype.  
-<img src="/images/Sentry/Product.jpg" alt = "Product image of the entire speed bump including rubber cover with road markings and Bump Ahead sign with LEDs" style="position:relative" >
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Sentry/Product.jpg" alt = "Product image of the entire speed bump including rubber cover with road markings and Bump Ahead sign with LEDs" class="img-fluid" %}
+    </div>
+</div>
 In addition, we presented a demonstration of the system in front of over 1000 people:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tNz5Y4lebsY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

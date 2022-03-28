@@ -5,7 +5,11 @@ img: assets/img/SistineSolar/solarskinapplicator.PNG
 description: consumer product, renewable energy
 category: Work
 ---
-<img src="/images/SistineSolar/solarskinapplicator.PNG" alt = "Applicator" style="position:relative" width="300">
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/SistineSolar/solarskinapplicator.PNG" alt = "Applicator"  class="img-fluid" %}
+    </div>
+</div>
 
 ## Overview
 **Roles:** Mechanical Engineering Intern, Mechanical Design  

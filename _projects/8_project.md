@@ -11,7 +11,7 @@ category: UC Berkeley
     </div>
 </div>
 <div class="caption">
-    *The GIF above is the "Curious and Furious" (and hungry) robot I made based on the Hungry Robot by EunChan Park on Youtube. If you hold the capacitive button too long, it will eat the washers!*
+    The GIF above is the "Curious and Furious" (and hungry) robot I made based on the Hungry Robot by EunChan Park on Youtube. If you hold the capacitive button too long, it will eat the washers!
 </div>
 
 ## Overview

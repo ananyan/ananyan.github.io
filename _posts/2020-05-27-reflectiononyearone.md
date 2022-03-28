@@ -20,7 +20,11 @@ apartment in Berkeley.
 - Get acquainted with new research field and submit first ever paper to conference.
 - Start of global pandemic due to novel coronavirus.
 
-<img src="/images/Blog/ReflectionOnYearOne/ReflectionOnYearOne.png" alt = "Comic of first six timeline events" style="position:relative" >
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Blog/ReflectionOnYearOne/ReflectionOnYearOne.png" alt = "Comic of first six timeline events" class="img-fluid" %}
+    </div>
+</div>
 
 - Conference paper accepted! Unclear if conference will actually be held.
 - Global pandemic continues. Move out of apartment and back home due to uncertainty (and housing prices).

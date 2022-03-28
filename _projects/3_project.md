@@ -5,7 +5,11 @@ img: assets/img/Joystick/Version1.jpg
 description: assistive technology
 category: MIT
 ---
-<img src="/images/Joystick/Version1.jpg" alt = "First version of the motor attachment on Rhonda's wheelchair." style="position:relative" width="300">
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Joystick/Version1.jpg" alt = "First version of the motor attachment on Rhonda's wheelchair." class="img-fluid" %}
+    </div>
+</div>
 
 ## Overview
 **Roles:** Mechanical Design Lead  
@@ -35,7 +39,15 @@ the speed of retraction. Then, we replaced the aluminum bars of the arm with thi
 Finally, we made the bars out of steel, as we found that it improved the robustness of the attachment, despite being slightly heavier.  
  
 ## The Result
-<img src="/images/Joystick/FinalVersion.jpg" alt = "Final version of motor attachment with new, stiffer linkage" style="position:relative" >
-<img src="/images/Joystick/FinalVersionInstalled.jpg" alt = "Final prototype installed on Rhonda's wheelchair for testing" style="position:relative" >
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Joystick/FinalVersion.jpg" alt = "Final version of motor attachment with new, stiffer linkage" class="img-fluid" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Joystick/FinalVersionInstalled.jpg" alt = "Final prototype installed on Rhonda's wheelchair for testing" class="img-fluid" %}
+    </div>
+</div>
 The initial version and the modified version are described in detail in this <a href="https://www.instructables.com/id/Developing-a-Motorized-Retractable-Joystick/" target="_blank">Instructable</a>
 which was featured on the website. The prototype was given to our user Rhonda. 

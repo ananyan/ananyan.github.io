@@ -7,7 +7,7 @@ category: UC Berkeley
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img//IDR3/datavisual.jpg" alt = "Glowing globe representing information and data" class="img-fluid" %}
+        {% include figure.html path="assets/img/IDR3/datavisual.jpg" alt = "Glowing globe representing information and data" class="img-fluid" %}
     </div>
 </div>
 
