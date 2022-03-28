@@ -62,7 +62,7 @@ For the end effector, we decided on a granular jamming system, which would allow
 motor-actuated gripper). This granular jamming end effector was controlled using a solenoid valve and vacuum pump as shown below. 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/PizzaRobot/endeffectorlogic.jpg" alt = "Diagram showing connections between valve, end effector, and limit switches.class="img-fluid" %}
+        {% include figure.html path="assets/img/PizzaRobot/endeffectorlogic.jpg" alt = "Diagram showing connections between valve, end effector, and limit switches." class="img-fluid" %}
     </div>
 </div>
 
