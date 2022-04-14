@@ -31,11 +31,11 @@ The yo-yo was first modeled using SolidWorks.
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Latte/LatteYoyoCAD.jpeg" alt = "CAD model of blue yoyo with brown coffee and white foam art that looks like leaves." class="img-fluid" %}
     </div>
-</div>
-<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Latte/LatteYoyoWithCup.jpeg" alt = "CAD model of yoyo sitting within white cup." class="img-fluid" %}
     </div>
+</div>
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Latte/Exploded.png" alt = "Exploded view of yoyo parts (cup, base piece, connector, shim, foam piece, coffee piece)." class="img-fluid" %}
     </div>
@@ -47,13 +47,9 @@ a CNC mill and a CNC lathe. A mold was 3D printed using an SLA printer for therm
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Latte/Milling.jpeg" alt = "CNC milling the mold for the yoyo base piece." class="img-fluid" %}
     </div>
-</div>
-<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Latte/BaseMold.jpeg" alt = "Finished yoyo base mold with magnets to hold the shim." class="img-fluid" %}
     </div>
-</div>
-<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Latte/CoffeeMold.jpeg" alt = "Finished CNC milled mold for the coffee piece with a negative pattern for the latte art." class="img-fluid" %}
     </div>
@@ -77,8 +73,6 @@ The final yo-yo is shown with and without its "cup" below. The yo-yos were subje
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Latte/FinalYoyo.jpeg" alt = "Final manufactured yoyo without cup" class="img-fluid" %}
     </div>
-</div>
-<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Latte/WithCup.jpeg" alt = "Final manufactured yoyo inside thermoformed cup" class="img-fluid" %}
     </div>

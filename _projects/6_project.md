@@ -34,8 +34,6 @@ the 3D model.
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/GaitTrainer/CAD.jpg" alt = "Rendering of CAD for gait trainer with attachment to slide platform in." class="img-fluid" %}
     </div>
-</div>
-<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/GaitTrainer/CadPlatform.jpg" alt = "Rendering of CAD for gait trainer with platform installed." class="img-fluid" %}
     </div>
