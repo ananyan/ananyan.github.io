@@ -59,10 +59,10 @@ In the left column is the calculated workspace for the (top) original ball joint
 For the end effector, we decided on a granular jamming system, which would allow us to relatively easily pick up the various topping shapes and sizes (compared to a 
 motor-actuated gripper). This granular jamming end effector was controlled using a solenoid valve and vacuum pump as shown below. The physical device was fabricated using a balloon, coffee grounds, and a 3D printed housing. 
 <div class="row justify-content-sm-center">
-    <div class="col-sm mt-8 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/PizzaRobot/endeffectorlogic.jpg" alt = "Diagram showing connections between valve, end effector, and limit switches." class="img-fluid" %}
     </div>
-    <div class="col-sm mt-4 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/PizzaRobot/endeffector.jpg" alt = "End effector with balloon, coffee grounds, and 3D printed housing." class="img-fluid" %}
     </div>
 </div>
@@ -72,10 +72,10 @@ they should be dropped (left). Software was developed for the mobile robot to na
 communicated with each other through ROS nodes. The mobile robot would independently reach the table, but only continue on its path to the end once the delta robot was finished 
 placing toppings and had transferred the pizza. On the right is a diagram of the system.
 <div class="row justify-content-sm-center">
-    <div class="col-sm mt-4 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/PizzaRobot/toppingcv.png" alt = "Top view of pizza and toppings with green outlines and color labels." class="img-fluid" %}
     </div>
-    <div class="col-sm mt-8 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/PizzaRobot/robotsoftware.jpg" alt = "Block diagram of robot system software architecture." class="img-fluid" %}
     </div>
 </div>
@@ -87,17 +87,17 @@ failure of the delta robot to perfectly complete the toppings on the pizza would
 the pizza and allowing the mobile robot to complete its task. Here are videos of the robot functioning at least in parts during testing (Last GIF is 2x speed):
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm mt-4 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/PizzaRobot/pickuptopping.gif" alt = "Delta robot picks up and places a fake pepperoni" class="img-fluid" %}
     </div>
-    <div class="col-sm mt-8 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         <div class="row">
-            <div class="col-sm mt-8 mt-md-0">
+            <div class="col-sm-8 mt-8 mt-md-0">
                 {% include figure.html path="assets/img/PizzaRobot/transferpizza.gif" alt = "Delta robot transfers pizza" class="img-fluid" %}
             </div>
         </div>
         <div class="row">
-            <div class="col-sm mt-8 mt-md-0">
+            <div class="col-sm-8 mt-3 mt-md-0">
                 {% include figure.html path="assets/img/PizzaRobot/mobilerobotrun.gif" alt = "Mobile robot passes waiter obstacle and reaches end" class="img-fluid" %}
             </div>
         </div>
