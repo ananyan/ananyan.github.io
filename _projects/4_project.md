@@ -2,7 +2,7 @@
 layout: page
 title: aesthetic solar panels 
 img: assets/img/SistineSolar/solarskinapplicator.PNG
-description: consumer product, renewable energy
+description: consumer product
 category: Work
 ---
 <div class="row">
