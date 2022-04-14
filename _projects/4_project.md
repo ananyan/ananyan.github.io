@@ -6,7 +6,7 @@ description: consumer product
 category: Work
 ---
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="w-50 p-3">
         {% include figure.html path="assets/img/SistineSolar/solarskinapplicator.PNG" alt = "Applicator"  class="img-fluid" %}
     </div>
 </div>

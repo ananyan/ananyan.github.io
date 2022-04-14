@@ -6,14 +6,14 @@ description: assistive technology
 category: MIT
 ---
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="w-50 p-3">
         {% include figure.html path="assets/img/GaitTrainer/PlatformTest.jpg" alt = "platformtest" class="img-fluid" %}
     </div>
 </div>
 
 ## Overview
 **Roles:** Team Lead, Mechanical Design  
-**Skills:** User Interviews, User Testing, CAD (Fusion 360), Material Selection, Garage Build  
+**Skills:** User Interviews, User Testing, CAD (Fusion 360), Material Selection 
 **Time:** March 2019 (1 weekend)  
 **Team:** 3 (MechE, AeroAstro, Chem) 
 
@@ -47,7 +47,7 @@ of any special tools. A detailed description of the process can be found in this
 ## The Result
 The photo below shows the final prototype of the removable platform. 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="w-50 p-3">
         {% include figure.html path="assets/img/GaitTrainer/Final.jpg" alt = "Final prototype of platform and attachment installed on Julian's gait trainer." class="img-fluid" %}
     </div>
 </div>

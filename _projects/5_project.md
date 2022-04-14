@@ -6,7 +6,7 @@ description: infrastructure product
 category: MIT
 ---
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="w-50 p-3">
         {% include figure.html path="assets/img/Sentry/Car.jpg" alt = "Car on prototype speed bump" class="img-fluid" %}
     </div>
 </div>
@@ -62,15 +62,12 @@ After considering lifting mechanisms including a pneumatic bladder, air springs,
 allowed the bump to flatten in 10 seconds and could hold up a car. These were attached to a base that would be placed in an excavation in the street. 
 The scissor jacks were then attached to a hinged steel plate assembly that would form the bump or flattened shape.
 
-Here's me working on the final assembly in our makeshift "excavated" road.
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+Here's me working on the final assembly in our makeshift "excavated" road and the speed bump in its almost fully assembled form..
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Sentry/AssemblyProcess.jpg" alt = "The speed bump sits in a wooden case meant to represent excavated road. I am measuring a width on the side. The steel plates from the top are off and you can see the four car jacks." class="img-fluid" %}
     </div>
-</div>
-And here is the speed bump in its almost fully assembled form.
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Sentry/Assembly.PNG" alt = "A side view of the assembled speed bump without any side plates." class="img-fluid" %}
     </div>
 </div>

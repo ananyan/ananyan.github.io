@@ -6,7 +6,7 @@ description: consumer product
 category: MIT
 ---
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="w-50 p-3">
         {% include figure.html path="assets/img/Latte/Latteyoyo.png" alt = "Final manufactured yoyo with and without cup" class="img-fluid" %}
     </div>
 </div>
@@ -36,8 +36,6 @@ The yo-yo was first modeled using SolidWorks.
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Latte/LatteYoyoWithCup.jpeg" alt = "CAD model of yoyo sitting within white cup." class="img-fluid" %}
     </div>
-</div>
-<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Latte/Exploded.png" alt = "Exploded view of yoyo parts (cup, base piece, connector, shim, foam piece, coffee piece)." class="img-fluid" %}
     </div>

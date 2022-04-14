@@ -6,7 +6,7 @@ description: robotics
 category: MIT
 ---
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="w-50 p-3">
         {% include figure.html path="assets/img/PizzaRobot/placetopping.gif" alt = "Delta robot picks up and places a fake pepperoni" class="img-fluid" %}
     </div>
 </div>

@@ -6,7 +6,7 @@ description: interactive devices
 category: UC Berkeley
 ---
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="w-50 p-3">
         {% include figure.html path="assets/img/DET/CuriousAndFurious.gif" alt = "Robot Eating Washers" class="img-fluid" %}
     </div>
 </div>
