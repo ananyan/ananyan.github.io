@@ -13,7 +13,7 @@ category: MIT
 
 ## Overview
 **Roles:** Team Lead, Mechanical Design  
-**Skills:** User Interviews, User Testing, CAD (Fusion 360), Material Selection 
+**Skills:** User Interviews, User Testing, CAD (Fusion 360), Material Selection  
 **Time:** March 2019 (1 weekend)  
 **Team:** 3 (MechE, AeroAstro, Chem) 
 
