@@ -45,13 +45,9 @@ Regardless, this information can provide some idea of what you can do as a desig
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Blog/BecomingADesignResearcher/FirstJob.png" alt = "Pie graph of design theory researcher first jobs"  class="img-fluid" %}
     </div>
-</div>
-<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Blog/BecomingADesignResearcher/CurrentJob.png" alt = "Pie graph of design theory researcher current jobs" class="img-fluid" %}
     </div>
-</div>
-<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Blog/BecomingADesignResearcher/IndustrySector.png" alt = "Pie graph of industry sector for those who went into industry" class="img-fluid" %}
     </div>
