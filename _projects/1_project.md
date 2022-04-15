@@ -52,7 +52,7 @@ We researched existing products that could either open or puncture bags, but non
 Based on interviewing Burt and outlining the advantages and disadvantages of the existing products, we determined a list of design requirements for a portable device that Burt could use to open packages.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/PackageOpener/PackageOpener/Requirements.png" alt = "Design requirements. Safety first! Effective at opening packages. Easy to manipulate without fine finger dexterity. Lightweight. Must not look like a disability device." class="img-fluid" %}
+        {% include figure.html path="assets/img/PackageOpener/Requirements.png" alt = "Design requirements. Safety first! Effective at opening packages. Easy to manipulate without fine finger dexterity. Lightweight. Must not look like a disability device." class="img-fluid" %}
     </div>
 </div>
 Then, we created several prototypes using laser cut pieces and the same curved Xacto blade he was used to at home.

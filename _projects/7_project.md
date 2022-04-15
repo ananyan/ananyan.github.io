@@ -92,12 +92,12 @@ the pizza and allowing the mobile robot to complete its task. Here are videos of
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
         <div class="row">
-            <div class="col-sm-8 mt-8 mt-md-0">
+            <div class="col-sm mt-3 mt-md-0">
                 {% include figure.html path="assets/img/PizzaRobot/transferpizza.gif" alt = "Delta robot transfers pizza" class="img-fluid" %}
             </div>
         </div>
         <div class="row">
-            <div class="col-sm-8 mt-3 mt-md-0">
+            <div class="col-sm mt-3 mt-md-0">
                 {% include figure.html path="assets/img/PizzaRobot/mobilerobotrun.gif" alt = "Mobile robot passes waiter obstacle and reaches end" class="img-fluid" %}
             </div>
         </div>
