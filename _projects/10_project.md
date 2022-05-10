@@ -2,7 +2,7 @@
 layout: page
 title: Immersive Computing and Virtual Reality
 img: assets/img/ICVR/questheadset.jpg
-description: virtual reality
+description: ar/vr
 category: UC Berkeley
 ---
 <div class="row">
