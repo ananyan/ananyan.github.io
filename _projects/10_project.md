@@ -31,4 +31,4 @@ VR/AR prototypes developed as part of COMPSCI294-137, Immersive Computing and Vi
 </div>
 
 ## AR Game
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=rLoPeKM-KjM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rLoPeKM-KjM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

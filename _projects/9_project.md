@@ -37,10 +37,11 @@ See [audio-only prototype](https://www.youtube.com/watch?v=zcWoiJ9FfkA).
         {% include figure.html path="assets/img/IDR3/AfterZachPrototype.png" alt = "NLP Prototype with Audio and Text" class="img-fluid" %}
     </div>
 </div>
-See [text-only prototype](https://www.youtube.com/watch?v=3I1f-lYJSmY). The integrated example of audio and text tagging and mapping is shown below:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v3BKnIvi7BM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+See [text-only prototype](https://www.youtube.com/watch?v=3I1f-lYJSmY). 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/IDR3/AfterAnanyaPrototype.png" alt = "Future Steps" class="img-fluid" %}
     </div>
 </div> 
+The integrated example of audio and text tagging and mapping is shown below:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v3BKnIvi7BM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

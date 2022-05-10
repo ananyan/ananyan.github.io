@@ -50,5 +50,5 @@ The photo below shows the final prototype of the removable platform.
     </div>
 </div>
 We tested the platform with Julian, though testing was limited so we could not assure the durability of the prototype. The final prototype
-was given to Julian.  
+was given to Julian (we asked for permission to include this video).  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cS5NEhcHEIk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
