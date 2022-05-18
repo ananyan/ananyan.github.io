@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Miscellaneous design projects
+description: Miscellaneous design projects from classes, research, internships, etc.
 nav: true
 order: 2
 display_categories: [UC Berkeley, MIT, Work]
