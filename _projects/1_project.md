@@ -88,10 +88,10 @@ final prototype, which was given to Burt after a final design critique, is  show
 
 ## Reflection
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/PackageOpener/DFA.jpg" alt = "My teammate and I in the process of prototyping the laser cut designs" class="img-fluid" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
 This project was eye-opening in several ways. First, I gained an appreciation for rapid prototyping and how it could be used to learn for the actual user we were designing with.
 By allowing Burt to use the quickly made prototypes, we were able to synthesize what aspects of each were important to him. For example, we were able to quickly see if he 
 had trouble using some of the opening mechanisms. In the original version of the folding design that we ended up choosing in the end, the tab for opening the blade was directly attached to the blade. However, designing the
