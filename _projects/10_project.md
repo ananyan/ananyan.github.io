@@ -20,9 +20,12 @@ category: UC Berkeley
 **Time:** August - December 2021  
 **Team:** 5 (MechE, CompSci, Design)/Individual   
 
-VR/AR prototypes developed as part of COMPSCI294-137, Immersive Computing and Virtual Reality.
+VR/AR prototypes developed as part of COMPSCI294-137, Immersive Computing and Virtual Reality. 
 
 ## GeneratiVR
+The goal of this work was to leverage the advantages of VR to explore a large-scale design space. To that end, we used the example of furniture (storage shelving) to demonstrate
+different interactions that can allow users to better search through a design space. We developed a direct manipulation filter that allows users to specify the geometry of their preferred design, using
+a virtual environment to reference scale, and a functionality filter that allows users to sort through designs based on the ability of the shelf to hold their desired items. This is a work in progress.
 **This work was accepted as Late Breaking Work and presented at CHI 2022.**
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -31,4 +34,5 @@ VR/AR prototypes developed as part of COMPSCI294-137, Immersive Computing and Vi
 </div>
 
 ## AR Game
+This was a fun AR game I created in Unity based on the classic Whack-a-Mole game :) 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rLoPeKM-KjM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

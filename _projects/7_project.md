@@ -18,7 +18,7 @@ category: MIT
 **Time:** February - June 2019   
 **Team:** 9 (MechE, CompSci)
 
-Developed as part of 2.12, Introduction to Robotics.
+Developed as part of 2.12, Introduction to Robotics. My primary roles were in building the delta robot and developing the software for the mobile robot. 
 
 ## The Problem
 This project had several goals:
@@ -28,8 +28,6 @@ This project had several goals:
 - Develop software for the "chef" delta robot to identify, pick up, and place "toppings" on a "pizza"
 - Develop software for the "waiter" mobile robot to navigate a board to deliver the "pizza"
 - Develop integration and communication so the delta robot transfers the finished "pizza" to the mobile robot for delivery 
-
-My primary roles were in building the delta robot and developing the software for the mobile robot. 
 
 ## The Process
 The first step was to build the delta robot. We were provided with a base design, which we modified for improvement. We redesigned the frame so that
@@ -82,9 +80,7 @@ placing toppings and had transferred the pizza. On the right is a diagram of the
 
 ## The Result
 The final system worked on a rough level, but unfortunately, I can't find a video of the full system or even any videos we took in the later parts of the project, 
-so I guess I can't provide full proof of that! Some of the challenges were adapting to different lighting to detect the colors of the toppings and ensuring that the 
-failure of the delta robot to perfectly complete the toppings on the pizza would not prevent the robot from at least transferring 
-the pizza and allowing the mobile robot to complete its task. Here are videos of the robot functioning at least in parts during testing (Last GIF is 2x speed):
+so I guess I can't provide full proof of that! Here are videos of the robot functioning at least in parts during testing (Last GIF is 2x speed):
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -104,7 +100,9 @@ the pizza and allowing the mobile robot to complete its task. Here are videos of
     </div>
 </div>
 
-Overall, this was a challenging project with several moving parts that had to all work for success at the system level. As with many projects, we likely would have figured out several of the problems given more time,
+## Reflection
+Overall, this was a challenging project with several moving parts that had to all work for success at the system level. Some of the challenges were adapting to different lighting to detect the colors of the toppings and ensuring that the 
+failure of the delta robot to perfectly complete the toppings on the pizza would not prevent the robot from at least transferring the pizza and allowing the mobile robot to complete its task. As with many projects, we likely would have figured out several of the problems given more time,
 but it was a good lesson in working with an interdisciplinary team as well as integrating software and hardware! However, we did win an award for the best software in the class!
 <div class="row">
     <div class="w-75 p-3">

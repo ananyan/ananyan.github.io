@@ -18,7 +18,8 @@ category: MIT
 **Time:** September - December 2018  
 **Team:** 19 (MechE, CompSci)
 
-Developed as part of 2.009, senior capstone for mechanical engineering. 
+Developed as part of 2.009, senior capstone for mechanical engineering. Although all members of the team contributed to some parts of the system such as determining the lifting mechanism, I was specifically in charge of leading a task force of 5 members to 
+develop the active surface (the plates that attached to the lifting mechanism to form the bump and the rubber cover). 
 
 ## The Problem
 Cities desire to regulate traffic while not interfering with the ability for first responders to quickly and comfortably transport patients.
@@ -79,9 +80,6 @@ surface from rust and protect the internal mechanisms from weather and corrosion
         {% include figure.html path="assets/img/Sentry/ExplodedView.PNG" alt = "An exploded view of the speed bump parts. Rubber surface, steel plates, scissor jacks, weather-proof enclosure." class="img-fluid" %}
     </div>
 </div>
-
-Although all members of the team contributed to certain parts of the system such as determining the lifting mechanism, I was specifically in charge of leading a task force of 5 members to 
-develop the active surface (the plates that attached to the lifting mechanism to form the bump and the rubber cover). 
  
 ## The Result
 The final prototype of the entire system could successfully be signaled to lower, driven over, and lifted back up with corresponding LEDs on the sign. The photo below shows the final prototype.  
@@ -92,3 +90,9 @@ The final prototype of the entire system could successfully be signaled to lower
 </div>
 In addition, we presented a demonstration of the system in front of over 1000 people:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tNz5Y4lebsY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Reflection
+This was the first time I worked on a team of this size and it was a great exercise in figuring out how to divide into sub-teams while ensuring the subsystems could be integrated in the end. An important part of the 
+process for this project was talking to and learning from many different stakeholders. Since the problem here is at a larger scale than a typical consumer product, a device such as Sentry would be facing 
+many more types of stakeholders than anything I had worked on in the past. In addition, working on an infrastructure-related product allowed me to get a system-level view of design, thinking about
+not only the technical aspects, but also service-related aspects, such as how maintenance would work or how any failures would be handled. 

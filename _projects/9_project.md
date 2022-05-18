@@ -17,7 +17,7 @@ category: UC Berkeley
 **Time:** January - May 2021  
 **Team:** 5 (MechE, CogSci, DataSci, Business)   
 
-Developed as part of ME292C, Innovation in Disaster Response, Recovery, and Resilience.
+Developed as part of ME292C, Innovation in Disaster Response, Recovery, and Resilience. I conducted several stakeholder interviews and led the development of the prototype for NLP-based tagging and spatial mapping.
 
 ## The Problem
 **For this project, we focused on information sharing for decision-makers in disaster response scenarios, working with NIWC Pacific.**

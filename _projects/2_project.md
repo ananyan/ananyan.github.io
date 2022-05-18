@@ -17,7 +17,8 @@ category: MIT
 **Time:** September - December 2018  
 **Team:** 5 (MechE) 
 
-Developed as part of 2.008, Design & Manufacturing II.
+Developed as part of 2.008, Design & Manufacturing II. My role in this project involved designing the mold for the thermoformed "foam," machining the mold for the coffee part (using both conversational milling and CAM), 
+optimizing the parameters for injection molding the base,  manufacturing the injection-molded base, and assisting with assembly.  
 
 ## The Problem
 The goal of this project was to design a yo-yo for manufacturing at scale.  

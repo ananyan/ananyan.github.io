@@ -17,7 +17,7 @@ category: MIT
 **Time:** January - May 2017  
 **Team:** 4 (MechE) 
 
-This project was done as part of Design for America for a local Boston community member. 
+This project was done as part of Design for America for a local Boston community member. My role involved conducting the user interviews and testing with my teammates, as well as laser cutting the initial prototypes and assembling the final 3D printed version.
 
 ## The Problem
 Burt's image is obscured for privacy purposes. 
@@ -78,10 +78,28 @@ After synthesizing information from Burt, we came up with the final design.
 
 ## The Result
 The final prototype was made using 3D printing and an existing curved Xacto blade. A slot was included in the body to make sure the blade would be covered when closed and tab was added to allow the blade to be pushed out easily.
-The blade was hinged using a bolt with sufficient friction so that the blade would not fall out but would also not requiring a lot of strength. Finally,a large hole for Burt's finger was covered with gripping tape for comfort. The
+The blade was hinged using a bolt with sufficient friction so that the blade would not fall out but would also not requiring a lot of strength. Finally, a large hole for Burt's finger was covered with gripping tape for comfort. The
 final prototype, which was given to Burt after a final design critique, is  shown below.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/PackageOpener/Closedandopen.png" alt = "Final 3D printed prototype in closed and open positions" class="img-fluid" %}
     </div>
 </div>
+
+## Reflection
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/PackageOpener/DFA.jpg" alt = "My teammate and I in the process of prototyping the laser cut designs" class="img-fluid" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+This project was eye-opening in several ways. First, I gained an appreciation for rapid prototyping and how it could be used to learn for the actual user we were designing with.
+By allowing Burt to use the quickly made prototypes, we were able to synthesize what aspects of each were important to him. For example, we were able to quickly see if he 
+had trouble using some of the opening mechanisms. In the original version of the folding design that we ended up choosing in the end, the tab for opening the blade was directly attached to the blade. However, designing the
+a pivot so only the tab (when closed) or the blade (when opened) was sticking out, instead of both, made the device easier to use while maintaining compactness and simplicity.
+Second, although we created this design for a singular user, it did make us think about universal design more critically. For instance, even without limited FFD, a compact and simple
+device like this might be used more easily than a traditional pocket knife or letter opener. Overall, the project allowed me to really listen to Burt's concerns and perspective to inform the design, which is critical when designing inclusively. 
+The image shows my teammate and I assembling the laser cut initial prototypes. 
+    </div>
+</div>
+
+

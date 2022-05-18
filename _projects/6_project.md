@@ -17,7 +17,7 @@ category: MIT
 **Time:** March 2019 (1 weekend)  
 **Team:** 3 (MechE, AeroAstro, Chem) 
 
-Developed as part ATHack 2019.
+Developed as part ATHack 2019. I led this project and conducted the initial interviews as well as a majority of the manufacturing of the final device.
 
 ## The Problem
 **The purpose of this project was to design a base to support our user's feet and allow him to be in a more seated position.**
