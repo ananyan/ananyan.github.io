@@ -94,8 +94,7 @@ final prototype, which was given to Burt after a final design critique, is  show
     <div class="col-sm-8 mt-3 mt-md-0">
 This project was eye-opening in several ways. First, I gained an appreciation for rapid prototyping and how it could be used to learn for the actual user we were designing with.
 By allowing Burt to use the quickly made prototypes, we were able to synthesize what aspects of each were important to him. For example, we were able to quickly see if he 
-had trouble using some of the opening mechanisms. In the original version of the folding design that we ended up choosing in the end, the tab for opening the blade was directly attached to the blade. However, designing the
-a pivot so only the tab (when closed) or the blade (when opened) was sticking out, instead of both, made the device easier to use while maintaining compactness and simplicity.
+had trouble using some of the opening mechanisms.
 Second, although we created this design for a singular user, it did make us think about universal design more critically. For instance, even without limited FFD, a compact and simple
 device like this might be used more easily than a traditional pocket knife or letter opener. Overall, the project allowed me to really listen to Burt's concerns and perspective to inform the design, which is critical when designing inclusively. 
 The image shows my teammate and I assembling the laser cut initial prototypes. 
