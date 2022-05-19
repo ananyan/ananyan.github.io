@@ -13,9 +13,9 @@
 		<!-- Entry teaser -->
 		{%- if entry.teaser -%}
           {% if entry.teaser contains '://' -%}
-          <img class="teaser" src="{{ entry.teaser }}" style="object-fit: contain">
+          <img class="img-fluid" src="{{ entry.teaser }}" style="object-fit: contain">
           {%- else -%}
-          <img class="teaser" src="{{ entry.teaser | prepend: '/assets/img/paper_teasers/' | relative_url }}" style="object-fit: contain">
+          <img class="img-fluid" src="{{ entry.teaser | prepend: '/assets/img/paper_teasers/' | relative_url }}" style="object-fit: contain">
           {%- endif -%}
         {%- endif -%}
         </div>
