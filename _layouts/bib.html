@@ -3,7 +3,7 @@
 <!-- _layouts/bib.html -->
 <div class ="container-fluid">
       <div class="row">
-        <div class="col-sm-2 col abbr">
+        <div class="col-sm-2 col-12 abbr">
 		<div class="container-fluid">
 		<div class="row">
         {%- if entry.abbr -%}
@@ -30,7 +30,7 @@
         </div>
 
         <!-- Entry bib key -->
-        <div id="{{entry.key}}" class="col-sm-8 col">
+        <div id="{{entry.key}}" class="col-sm-8 col-12">
         {% if entry.type == "thesis" -%}
           {{reference}}
         {%- else %}
