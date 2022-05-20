@@ -3,7 +3,7 @@
 <!-- _layouts/bib.html -->
 <div class ="container-fluid">
       <div class="row">
-        <div class="col-sm-2 abbr">
+        <div class="col-sm-2 col abbr">
 		<div class="container-fluid">
 		<div class="row">
         {%- if entry.abbr -%}
@@ -20,9 +20,9 @@
 		<!-- Entry teaser -->
 		{%- if entry.teaser -%}
           {% if entry.teaser contains '://' -%}
-          <img class="img-fluid" src="{{ entry.teaser }}" style="object-fit: scale-down">
+          <img class="img-fluid" src="{{ entry.teaser }}" style="object-fit: contain">
           {%- else -%}
-          <img class="img-fluid" src="{{ entry.teaser | prepend: '/assets/img/paper_teasers/' | relative_url }}" style="object-fit: scale-down">
+          <img class="img-fluid" src="{{ entry.teaser | prepend: '/assets/img/paper_teasers/' | relative_url }}" style="object-fit: contain">
           {%- endif -%}
         {%- endif -%}
 		</div>
@@ -30,7 +30,7 @@
         </div>
 
         <!-- Entry bib key -->
-        <div id="{{entry.key}}" class="col-sm-8">
+        <div id="{{entry.key}}" class="col-sm-8 col">
         {% if entry.type == "thesis" -%}
           {{reference}}
         {%- else %}
