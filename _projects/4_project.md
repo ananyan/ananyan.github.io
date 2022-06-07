@@ -3,7 +3,7 @@ layout: page
 title: aesthetic solar panels 
 img: assets/img/SistineSolar/solarskinapplicator.PNG
 description: consumer product
-category: Work
+category: MIT
 ---
 <div class="row">
     <div class="w-50 p-3">

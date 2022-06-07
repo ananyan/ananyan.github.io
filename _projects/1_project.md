@@ -88,17 +88,15 @@ final prototype, which was given to Burt after a final design critique, is  show
 
 ## Reflection
 <div class="row">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/PackageOpener/DFA.jpg" alt = "My teammate and I in the process of prototyping the laser cut designs" class="img-fluid" %}
     </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
 This project was eye-opening in several ways. First, I gained an appreciation for rapid prototyping and how it could be used to learn for the actual user we were designing with.
 By allowing Burt to use the quickly made prototypes, we were able to synthesize what aspects of each were important to him. For example, we were able to quickly see if he 
 had trouble using some of the opening mechanisms.
 Second, although we created this design for a singular user, it did make us think about universal design more critically. For instance, even without limited FFD, a compact and simple
 device like this might be used more easily than a traditional pocket knife or letter opener. Overall, the project allowed me to really listen to Burt's concerns and perspective to inform the design, which is critical when designing inclusively. 
 The image shows my teammate and I assembling the laser cut initial prototypes. 
-    </div>
 </div>
 
 
