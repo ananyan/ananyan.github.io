@@ -1,11 +1,11 @@
 ---
 layout: post
 date: 2022-07-11 07:59:00-0400
-title: Back from a wonderful Design Computing and Cognition ‘22 in Glasgow, where our paper won the Best Paper Award in Design Cognition!
+title: Back from a wonderful DCC‘22 in Glasgow, where our paper won the Best Paper Award in Design Cognition!
 inline: false
 ---
 
-Back from a wonderful Design Computing and Cognition ‘22 in Glasgow, where our paper won the Best Paper Award in Design Cognition!
+Back from a wonderful Design Computing and Cognition ‘22 in Glasgow, Scotland! Our paper, "How does machine advice influence design choice? The effect of error on design decision making," won the Best Paper Award in Design Cognition!
 
 
 Pictured from left to right: Ashley Hartwell (MIT) with Best Design Computing Paper Award, me with Best Design Cognition/Neurocognition Paper Award, and Peter Rosso (Bristol) with Best Poster Award. This photo was taken at the conference dinner where we all happened to sit at the same table!
