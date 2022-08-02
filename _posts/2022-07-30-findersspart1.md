@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Frontiers in Design Representation Summer School (Part I): 3D Point Cloud Alignment with Optimal Transport" 
+title: "Frontiers in Design Representation Summer School (Part I): 3D point cloud alignment with optimal transport" 
 description: Part I of technical concepts learned for data-driven design
 excerpt_separator: <!--more-->
 ---
@@ -12,7 +12,7 @@ excerpt_separator: <!--more-->
 ## Motivation
 I wanted to try techniques for working with 3D data since I know it is difficult to work with but much of design data is encoded into 3D objects such as CAD models or physical artifacts. One of the challenge problems was to try to match aorta scans between patients at different time points (younger and older) which seemed like a difficult and interesting task. Furthermore, this challenge did not have much data (only 8 .stl files) associated with it, allowing me to see how techniques might work in the face of limited data. I knew that it would not be possible to explore what I learned about generative models such as GANs with this amount of data. Furthermore, the techniques I learned from information geometry would be difficult to apply since it requires knowing and being able to specify the manifold the data lies on. Thus, what I learned about optimal transport was a good option to try on this data. 
 
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Blog/FinderPart1/aortapointcloudgraphs.jpg" alt = "Visual of the eight point clouds of patient aortas as described in the motivation and data sections" class="img-fluid" %}
     </div>
@@ -24,7 +24,7 @@ Each aorta was converted to a point cloud using the open3d library and 1000 poin
 ## Optimal Transport
 This concept was introduced to us by Dr. Jean Feydy in the context of ways to transform points from source to target. More broadly, optimal transport is essentially a generalization of sorting to dimensions that are greater than one. It can be used, for example, to find the distance between unordered point clouds where you do not know the mapping between the points. To implement this idea in the context of the aorta 3D scans, I used the tutorial notebook provided by Dr. Feydy (available at [here](https://www.jeanfeydy.com/research.html) under Talks: Frontiers in Design Representation, University of Maryland) that demonstrated optimal transport in 2D, and extended it to 3D. When applying the concept of optimal transport, the loss was defined as follows:
 
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Blog/FinderPart1/otlossequation.jpg" alt = "Loss(x_1 to x_n; y_1 to y_n) = 1 divided by 2 times N multiplied by the minimum over permutations sigma of the sum, from i = 1 to N, of the squared distances between x_i and y_sigma(i) " class="img-fluid" %}
     </div>
@@ -35,7 +35,7 @@ This concept was introduced to us by Dr. Jean Feydy in the context of ways to tr
 
 Notably, the Wasserstein distance is the square root of OT(A,B). Then, optimization needs to be performed to minimize this loss. This optimization can be conducted using gradient descent on the loss with respect to the features on the source object. In the tutorial, Dr. Feydy introduces the Sinkhorn algorithm, which I do not understand that well yet. Initially, I used the xyz-coordinates of the point cloud as the features (as an extension of the tutorial), despite knowing that it may not be the best representation for the structure of the aorta. The cost function in this case is the squared distance between the points of the two point clouds. Notably, optimal transport currently only works well for these types of simple cost functions.
 
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Blog/FinderPart1/otoptimization.jpg" alt = "visual of the movement of source points to target points between two aortas over timesteps 0, 0.25, 0.5, 1, 2, and 5"  class="img-fluid" %}
     </div>
@@ -44,7 +44,7 @@ Notably, the Wasserstein distance is the square root of OT(A,B). Then, optimizat
 ## Outcome
 Since the 3D .stl files were available, a visual inspection could be performed to qualitatively assign each aorta to its respective pair, though the ground truth was initially unknown.
 
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Blog/FinderPart1/pairedaortas.jpg" alt = "3d models of aortas sorted by visually assessed pairs: 2 & 5, 4 & 1, 8 & 7, 6 & 3, where the second aorta is the smaller one"  class="img-fluid" %}
     </div>
@@ -58,7 +58,7 @@ Since the 3D .stl files were available, a visual inspection could be performed t
 
 Then, the optimal transport loss was minimized over 100 time steps for each pair of aortas as the 1000-point point cloud as mentioned above. Below is a visualization of the optimal transport loss after 20 iterations. When the source and target were switched, the loss values were actually different (the optimization ended with a different permutation of points being mapped to each other). This is something I would further have to investigate to understand if/how it might impact the results. 
 
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Blog/FinderPart1/otloss_noregistration.jpg" alt = "full confusion matrix"  class="img-fluid" %}
     </div>
@@ -72,7 +72,7 @@ Then, the optimal transport loss was minimized over 100 time steps for each pair
 
 I then realized that some of the aortas were not aligned in 3D space, which is a problem for calculating a distance with xyz-coordinates as features. To fix this issue, I decided to use open3d to perform global registration on the point clouds. This global registration is determined using fast point feature histograms, which are essentially features of each point based on its geometric neighbors. These features are matched to determine a transformation from source to target that aligns the point clouds. 
 
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Blog/FinderPart1/pcd_noreg.jpg" alt = "two unaligned aorta point clouds"  class="img-fluid" %}
     </div>
@@ -83,7 +83,7 @@ I then realized that some of the aortas were not aligned in 3D space, which is a
 
 Again, the optimal transport loss was minimized and visualized, this time with the xyz-coordinates of the globally registered point clouds as features.
 
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Blog/FinderPart1/otloss_reg.jpg" alt = "full confusion matrix"  class="img-fluid" %}
     </div>

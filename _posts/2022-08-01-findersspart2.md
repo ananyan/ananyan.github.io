@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Frontiers in Design Representation Summer School (Part II): 3D Point Cloud Classification using Graph Neural Networks"
+title: "Frontiers in Design Representation Summer School (Part II): 3D point cloud classification using graph neural networks"
 description: Part II of technical concepts learned for data-driven design
 excerpt_separator: <!--more-->
 ---
@@ -15,7 +15,7 @@ While I wanted to explore 3D data, I was also curious about how graph neural net
 ## Data
 Each bracket, excluding those categories labeled as “other,” was converted to a point cloud using the open3d library and 2000 points sampled from the .obj file. The dataset was formatted to PyTorch Geometric data by recording the point positions and the associated bracket category to be used later for testing.
 
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Blog/FinderPart2/knngraph_b1.jpg" alt = "visual of block like bracket point cloud connected by edges"  class="img-fluid" %}
     </div>
@@ -36,7 +36,7 @@ The downsampling is used in a normal implementation but I didn’t include it in
 
 The neural network’s architecture is as follows: two PointNet layers, which take the 3 input features and map to 32 features, followed by a linear classifier that classifies the output into 5 classes. More details are available in the original PointNet++ paper as well as the tutorial I followed.
 
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Blog/FinderPart2/pointnetarch.jpg" alt = "layers of neural net: sampling & grouping, pointnet, sampling & grouping, pointnet, output" class="img-fluid" %}
     </div>
@@ -54,7 +54,7 @@ The final accuracy on the test set was 0.5263 and is visualized in the confusion
 2. There are only hundreds of training examples instead of thousands or more. 
 3. The labels in the dataset were determined qualitatively by the researchers who created the dataset. Unlikely common objects like chairs or tables in ShapeNet, there is actually no ground truth for the “types” of brackets. Therefore, it is possible that a good PointNet++ embedding could result in classification that actually makes more sense based on visual similarity than the human categorization. In this case comparing to the human labels is not a good accuracy measure.
 
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Blog/FinderPart2/confmat.jpg" alt = "full confusion matrix showing true and predicted bracket category labels. important results are summarized in the text"  class="img-fluid" %}
     </div>
@@ -65,15 +65,15 @@ I looked at the confusion matrix more closely to try to understand what the issu
 2. The flat designs were not terribly categorized, though they were often mistaken for a block design and in rarer cases, an arch or beam design.  
 Visual inspection showed why some brackets may not have been categorized correctly, pointing towards problems when the ground truth is unknown. Below is the example of the bracket in the test set that had a true label as an arch, but was categorized as a block.
 
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Blog/FinderPart2/b415.jpg" alt = "Bracket 415 3D model"  class="img-fluid" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Blog/FinderPart2/b417.jpeg" alt = "Bracket 417 3D model"  class="img-fluid" %}
+        {% include figure.html path="assets/img/Blog/FinderPart2/b417.jpg" alt = "Bracket 417 3D model"  class="img-fluid" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Blog/FinderPart2/b316.jpeg" alt = "Bracket 316 3D model"  class="img-fluid" %}
+        {% include figure.html path="assets/img/Blog/FinderPart2/b316.jpg" alt = "Bracket 316 3D model"  class="img-fluid" %}
     </div>
 </div>
 <div class="caption">
@@ -82,7 +82,7 @@ Visual inspection showed why some brackets may not have been categorized correct
 
 Another example is several brackets that had true labels as flat, but were categorized as something else. 
 
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Blog/FinderPart2/b39.jpg" alt = "Bracket 39 3D model"  class="img-fluid" %}
     </div>
@@ -97,7 +97,7 @@ Another example is several brackets that had true labels as flat, but were categ
     <i>Left: bracket 39, classified as block; middle: bracket 28, classified as beam; right: bracket 198, classified as arch. Below are all brackets that were correctly identified as flat.</i>
 </div>
 
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Blog/FinderPart2/b564.jpg" alt = "Bracket 564 3D model"  class="img-fluid" %}
     </div>
