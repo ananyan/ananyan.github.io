@@ -66,13 +66,13 @@ I looked at the confusion matrix more closely to try to understand what the issu
 Visual inspection showed why some brackets may not have been categorized correctly, pointing towards problems when the ground truth is unknown. Below is the example of the bracket in the test set that had a true label as an arch, but was categorized as a block.
 
 <div class="row">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Blog/FinderPart2/b415.jpg" alt = "Bracket 415 3D model"  class="img-fluid" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Blog/FinderPart2/b417.jpeg" alt = "Bracket 417 3D model"  class="img-fluid" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Blog/FinderPart2/b316.jpeg" alt = "Bracket 316 3D model"  class="img-fluid" %}
     </div>
 </div>
@@ -83,13 +83,13 @@ Visual inspection showed why some brackets may not have been categorized correct
 Another example is several brackets that had true labels as flat, but were categorized as something else. 
 
 <div class="row">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Blog/FinderPart2/b39.jpg" alt = "Bracket 39 3D model"  class="img-fluid" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Blog/FinderPart2/b28.jpg" alt = "Bracket 28 3D model"  class="img-fluid" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Blog/FinderPart2/b198.jpg" alt = "Bracket 198 3D model"  class="img-fluid" %}
     </div>
 </div>
@@ -98,13 +98,13 @@ Another example is several brackets that had true labels as flat, but were categ
 </div>
 
 <div class="row">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Blog/FinderPart2/b564.jpg" alt = "Bracket 564 3D model"  class="img-fluid" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Blog/FinderPart2/b205.jpg" alt = "Bracket 205 3D model"  class="img-fluid" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Blog/FinderPart2/b548.jpg" alt = "Bracket 548 3D model"  class="img-fluid" %}
     </div>
 </div>
