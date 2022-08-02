@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A reflection on year one of graduate school
+description: An outline and lessons learned from the first year of my PhD
 excerpt_separator: <!--more-->
 ---
 The academic year has wrapped up and with that, so has my first year of graduate school (almost). 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Research in engineering design
+description: An overview of my interest in design and the field of design theory and methodology
 excerpt_separator: <!--more-->
 ---
 Research in engineering design theory and methodology tends to be pretty hard to explain, especially
