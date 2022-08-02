@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Frontiers in Design Representation Summer School (Part I): 3D Point Cloud Classification using Graph Neural Networks
+title: "Frontiers in Design Representation Summer School (Part I): 3D Point Cloud Classification using Graph Neural Networks"
 description: Part II of technical concepts learned for data-driven design
 excerpt_separator: <!--more-->
 ---

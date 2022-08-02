@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Frontiers in Design Representation Summer School (Part I): 3D Point Cloud Alignment with Optimal Transport 
+title: "Frontiers in Design Representation Summer School (Part I): 3D Point Cloud Alignment with Optimal Transport" 
 description: 
 excerpt_separator: <!--more-->
 ---
