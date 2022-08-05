@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 order: 1
-description: 
+description: PDFs are accepted but not copyedited, HTMLs are official published versions
 years: [2022, 2021, 2020, 2019]
 nav: true
 ---
