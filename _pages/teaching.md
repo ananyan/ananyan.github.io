@@ -9,6 +9,8 @@ nav: false
 
 **Graduate Student Instructor - UC Berkeley**
 
+Human-Centered Design Methods (Fall 2022)
+
 Design Methodology (Spring 2022) - Guest Lecture: Concept Exploration and Prototyping
 
 Prototyping and Fabrication (Summer 2021)

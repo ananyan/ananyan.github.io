@@ -27,11 +27,7 @@ The goal of this work was to leverage the advantages of VR to explore a large-sc
 different interactions that can allow users to better search through a design space. We developed a direct manipulation filter that allows users to specify the geometry of their preferred design, using
 a virtual environment to reference scale, and a functionality filter that allows users to sort through designs based on the ability of the shelf to hold their desired items. This is a work in progress.
 **This work was accepted as Late Breaking Work and presented at CHI 2022.**
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ICVR/CHI-LBW-Poster.png" alt = "GeneratiVR poster" class="img-fluid" %}
-    </div>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3K3QM1NFHqU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## AR Game
 This was a fun AR game I created in Unity based on the classic Whack-a-Mole game :) 

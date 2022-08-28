@@ -18,3 +18,10 @@ Co-Design lab at the Gateway Arch in St. Louis!
         {% include figure.html path="assets/img/News/announcement_8/stlouisarch.jpg" alt = "from left to right, selfie of Nicole, Elisa, and me (Ananya) in front of the metal St. Louis Gateway Arch with blue sky and clouds in the background" class="img-fluid" %}
     </div>
 </div>
+
+Meeting with Prof. Fuge and other FinDeR Summer School students at IDETC!
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/News/announcement_8/finderreunion_idetc.jpg" alt = "group of students in front of plants in conference hotel" class="img-fluid" %}
+    </div>
+</div>
