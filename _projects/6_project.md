@@ -3,7 +3,7 @@ layout: page
 title: Removable platform for gait trainer
 img: assets/img/GaitTrainer/PlatformTest.jpg
 description: assistive technology
-category: MIT
+category: 2019
 ---
 <div class="row">
     <div class="w-50 p-3">

@@ -3,7 +3,7 @@ layout: page
 title: latte yo-yo
 img: assets/img/Latte/Latteyoyo.png
 description: consumer product
-category: MIT
+category: 2018
 ---
 <div class="row">
     <div class="w-50 p-3">

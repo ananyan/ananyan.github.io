@@ -3,7 +3,7 @@ layout: page
 title: Decision making for disaster response
 img: assets/img/IDR3/datavisual.jpg
 description: data visualization
-category: UC Berkeley
+category: 2021
 ---
 <div class="row">
     <div class="w-50 p-3">

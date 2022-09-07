@@ -3,7 +3,7 @@ layout: page
 title: Designing for emerging technologies
 img: assets/img/DET/CuriousAndFurious.gif
 description: interactive devices
-category: UC Berkeley
+category: 2019
 ---
 <div class="row">
     <div class="w-50 p-3">
