@@ -3,7 +3,7 @@ layout: page
 title: latte yo-yo
 img: assets/img/Latte/Latteyoyo.png
 description: consumer product
-category: 2018
+category: 2017
 ---
 <div class="row">
     <div class="w-50 p-3">
@@ -14,7 +14,7 @@ category: 2018
 ## Overview
 **Roles:** Mold Design (3D Printed and Machined), Manufacturing (Injection-molded base)  
 **Skills:** Design for Manufacturing, CAD (SolidWorks), CAM (MasterCAM), 3D Printing, CNC Milling, Injection Molding, Quality  
-**Time:** September - December 2018  
+**Time:** September - December 2017  
 **Team:** 5 (MechE) 
 
 Developed as part of 2.008, Design & Manufacturing II. My role in this project involved designing the mold for the thermoformed "foam," machining the mold for the coffee part (using both conversational milling and CAM), 
