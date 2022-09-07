@@ -52,3 +52,6 @@ The photo below shows the final prototype of the removable platform.
 We tested the platform with Julian, though testing was limited so we could not assure the durability of the prototype. The final prototype
 was given to Julian (we asked for permission to include this video).  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cS5NEhcHEIk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Reflection
+This quick hackathon was a challenge because of the short amount of time we had to build our final solution, despite having some time ahead of time to work with Julian's family to determine exactly what they needed and the challenges they were facing. Although we were able to come up with a relatively good solution, we could have made something of higher quality that would last longer given some more time. I think that this is a challenge of working with assistive technology since you want to deliver something that is useful to the people who you are working with, who are giving their valuable time and energy as well. However, it is not always possible to provide continued support or assistance with maintenance, which may lead to the hacked solution being discarded. Hopefully, Julian was able to use the platform at least for some amount of time!

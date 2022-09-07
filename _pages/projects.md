@@ -1,7 +1,7 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: design
+permalink: /design/
 description: Miscellaneous design projects from classes, research, internships, etc.
 nav: true
 order: 2

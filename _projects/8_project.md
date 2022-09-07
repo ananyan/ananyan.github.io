@@ -112,3 +112,6 @@ in the form of a collaborative tree decorating activity.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Rudonu3daCI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <a href="/assets/pdf/PROJ04_Process.pdf">PDF</a> of detailed design process.
+
+## Reflection
+All of these projects were fun because they allowed us to exercise our creativity and to speculate on unique ways in which technology can be used for various purposes and begin to see if they are actually feasible!

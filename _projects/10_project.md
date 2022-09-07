@@ -32,3 +32,6 @@ a virtual environment to reference scale, and a functionality filter that allows
 ## AR Game
 This was a fun AR game I created in Unity based on the classic Whack-a-Mole game :) 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rLoPeKM-KjM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Reflection
+VR/AR is an emerging technology that has a lot of potential, but also many challenges! I was surprised to see how quickly I was able to prototype some of the aspects of interactions in VR/AR. I can see both VR and AR being beneficial to designers and design processes given that they can allow more immersion.

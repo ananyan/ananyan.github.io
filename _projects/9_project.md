@@ -45,3 +45,6 @@ See [text-only prototype](https://www.youtube.com/watch?v=3I1f-lYJSmY).
 </div> 
 The integrated example of audio and text tagging and mapping is shown below:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v3BKnIvi7BM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Reflection
+It was interesting to work with NIWC on this project because they had a lot of domain expertise on the technical side, while we took a more user-centric approach to this complex problem. I think we were able to blend together both sides into our final prototypes, although it is likely that some of the problems such as latency and low-bandwidth in communication have to be solved by those with more technical expertise.

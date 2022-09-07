@@ -78,3 +78,6 @@ The final yo-yo is shown with and without its "cup" below. The yo-yos were subje
         {% include figure.html path="assets/img/Latte/WithCup.jpeg" alt = "Final manufactured yoyo inside thermoformed cup" class="img-fluid" %}
     </div>
 </div>
+
+## Reflection
+This project taught the lesson of keeping manufacturing in mind from the beginning of designing 3D geometry. We had to modify our molds after our initial machining since the coffee part would not fit into the base part. In our case, this involved removing some material. However, if it was the reverse, we would have had to remake the entire mold which would be costly in the real world. Understanding the material and process parameters for injection molding was key to determining if and how much the final part would shrink, something that might not be thought of when using CAD to design. 

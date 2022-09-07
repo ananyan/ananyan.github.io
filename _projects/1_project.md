@@ -1,6 +1,6 @@
 ---
 layout: page
-title: universal package opening tool 
+title: custom package opening tool 
 img: assets/img/PackageOpener/ClosedKnife.PNG
 description: assistive technology
 category: MIT

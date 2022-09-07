@@ -53,7 +53,7 @@ The initial version and the modified version are described in detail in this <a 
 which was featured on the website. The prototype was given to our user Rhonda. 
 
 ## Reflection
-There were many lessons learned from this project, particularly about how a theoretically design and the design in reality may not match up. Despite having access to a
+There were many lessons learned from this project, particularly about how a theoretical design and the design in reality may not match up. Despite having access to a
 test wheelchair arm and specifying a motor with a safety factor, we found that our motor could not handle the load and friction that was present in reality on Rhonda's wheelchair. Thus, we were
 forced to make our device operate more slowly so that it would operate at all. I learned how translating a design into its actual operating conditions can shed light on unforeseen problems and on
 the trade-offs that often need to be made when designing for performance. Performing frequent testing under the operating environment was impossible because it would disturb Rhonda's daily life, but it
