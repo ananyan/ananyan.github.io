@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 order: 1
-description: "PDFs are accepted final manuscripts before copyediting, HTMLs are official published versions. Some of the analysis code associated with these publications can be found on my Github page"
+description: "PDFs are accepted final manuscripts before copyediting, HTMLs are official published versions."
 years: [2022, 2021, 2020, 2019]
 nav: true
 ---
