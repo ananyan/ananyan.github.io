@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Frontiers in Design Representation Summer School (Part I): 3D point cloud alignment with optimal transport" 
+title: "FinDeR Summer School (Part I): 3D point cloud alignment with optimal transport" 
 description: Part I of technical concepts learned for data-driven design
 excerpt_separator: <!--more-->
 ---
-**What was the Frontiers in Design Representation Summer School?** Hosted by Prof. Mark Fuge at UMD College Park, it was a week long “summer school” where graduate students (including me) came together to learn and discuss how we represent design data for computation. The topics specific to this year’s summer school were optimal transport, information geometry, and generative models (e.g., VAEs, GANs). These topics were introduced in the context of how they may apply to data-driven design. 
+**What was the Frontiers in Design Representation Summer School (FinDeR)?** Hosted by Prof. Mark Fuge at UMD College Park, it was a week long “summer school” where graduate students (including me) came together to learn and discuss how we represent design data for computation. The topics specific to this year’s summer school were optimal transport, information geometry, and generative models (e.g., VAEs, GANs). These topics were introduced in the context of how they may apply to data-driven design. 
 <!--more-->
 
 ---
