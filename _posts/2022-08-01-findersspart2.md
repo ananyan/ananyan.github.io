@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FFinDeR Summer School (Part II): 3D point cloud classification using graph neural networks"
+title: "FinDeR Summer School (Part II): 3D point cloud classification using graph neural networks"
 description: Part II of technical concepts learned for data-driven design
 excerpt_separator: <!--more-->
 ---
