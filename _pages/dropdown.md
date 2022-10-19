@@ -10,6 +10,7 @@ children:
     - title: divider
     - title: blog
       permalink: /blog/
+    - title: divider
     - title: cv
       permalink: /assets/pdf/AnanyaNandyCV_101722.pdf
 
