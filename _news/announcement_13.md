@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-04-23 07:59:00-0400
+date: 2023-04-23 07:59:00-0400
 title: "Had fun teaching with labmates Nicole & Elisa through Splash this weekend! We created a 1 hr intro class for high school students called Creative + Sustainable Product Design"
 inline: false
 ---
