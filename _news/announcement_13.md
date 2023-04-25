@@ -12,7 +12,7 @@ Our classroom!
     </div>
 </div>
 
-Students sharing their concepts to select one to prototype.
+Some students sharing their concepts to select one to prototype. We had a total of 16 students across our 2 sections!
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/News/announcement_13/splash2.png" alt = "students ideating using post-its on the walls" class="img-fluid" %}
