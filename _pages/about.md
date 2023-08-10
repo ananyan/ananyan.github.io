@@ -13,6 +13,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hey there! I am currently a PhD student in the [Cognition and Computation in Design (Co-Design) Lab](https://codesign.berkeley.edu/) at UC Berkeley, advised by Kosa Goucher-Lambert. I have a B.S. in Mechanical Engineering from MIT. Through my research, I try to understand how humans represent and interact with different types of design information, with the goal of advancing human-centered computing in engineering design. I'm actively working to apply my research to impactful problems such as those related to sustainable or inclusive design!
+Hey there! I am currently a PhD candidate in the [Cognition and Computation in Design (Co-Design) Lab](https://codesign.berkeley.edu/) at UC Berkeley, advised by Kosa Goucher-Lambert. I have a B.S. in Mechanical Engineering from MIT. 
+
+I am interested in studying perception and decision making during complex, creative contexts: specifically, engineering and product design. I draw from *design theory and methodology* (e.g., functional modeling, product semantics), *cognitive science* (e.g., analogy, similarity), and *computer science* (e.g., low-dimensional embeddings, preference learning, interactive interfaces), in order to capture how people make sense of design-relevant information. My work simultaneously involves developing better models of human behavior during design and developing computational interactions/methods for design that better align with human representations, with the goal of advancing human-centered computing in engineering design. 
+
+By capturing what people are doing during design, my aim is to help people more easily translate their ideas into reality across modalities, moving towards expanding the accessibility of design towards all populations. 
 
 Outside of research and work, you can find me reading fiction :books:, searching for new coffee shops :coffee:, or trying out new recipes :curry:.
