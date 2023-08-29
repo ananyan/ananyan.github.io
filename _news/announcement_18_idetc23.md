@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-07-28 07:59:00-0400
+date: 2023-08-25 07:59:00-0400
 title: Back from Boston, where I presented our latest work on adaptively quantifying subjective attributes at IDETC '23! 
 inline: false
 ---
