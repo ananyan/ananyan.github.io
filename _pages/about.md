@@ -13,8 +13,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hey there! I am currently a PhD candidate in the [Cognition and Computation in Design (Co-Design) Lab](https://codesign.berkeley.edu/) at UC Berkeley, advised by Kosa Goucher-Lambert. I have a B.S. in Mechanical Engineering from MIT. 
+Hey there! I am currently a PhD candidate in the [Co-Design Lab](https://codesign.berkeley.edu/) at UC Berkeley, advised by Prof. Kosa Goucher-Lambert. 
 
-I'm interested in human-centered computing for engineering design, specifically, developing models of human behavior during design processes, and finding computational methods for design that align with human representations of information. Broadly, this involves studying perception and decision making during complex, creative contexts, drawing from **design theory and methodology** (e.g., functional modeling, product semantics), **cognitive science** (e.g., analogy, similarity), and **computer science** (e.g., low-dimensional embeddings, preference learning, interactive interfaces).
+My work primarily focuses on understanding cognitive and computational representations of design information, drawing from **design theory and methodology**, **cognitive science**, and **computer science**. Broadly, I'm interested in human-centered computing, particularly applied to complex, creative contexts. 
 
-Outside of research and work, you can find me reading fiction :books: or searching for new coffee shops :coffee:.
+During my PhD, I have worked as a research intern in the Human-Centered AI Division at [TRI](https://www.tri.global/our-work/human-centered-ai). I have a B.S. in Mechanical Engineering from MIT, where I worked on various human-centered design projects often focused on assistive technology and health. Outside of research and work, you can find me reading fiction :books: or searching for new coffee shops :coffee:.
