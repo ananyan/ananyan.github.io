@@ -6,7 +6,7 @@ order: 3
 dropdown: true
 children:
     - title: cv
-      permalink: /assets/pdf/AnanyaNandy_CV_08142023.pdf
+      permalink: /assets/pdf/AnanyaNandy_CV_2Page_NoAddress.pdf
     - title: divider
     - title: teaching/outreach
       permalink: /teaching/ 
