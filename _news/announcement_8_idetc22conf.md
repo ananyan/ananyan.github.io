@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-08-18 07:59:00-0400
-title: Back from IDETC'22 in St. Louis, MO! Had a great time connecting with all of the amazing researchers in the design community in person!
+title: Back from IDETC'22 in St. Louis, MO! Had a great time connecting with all of the researchers in the design community in person!
 inline: false
 ---
 
