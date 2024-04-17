@@ -5,7 +5,7 @@ permalink: /design/
 description: Miscellaneous design projects from classes, research, internships, etc.
 nav: true
 order: 2
-display_categories: [2021, 2019, 2018, 2017]
+display_categories: [2022, 2021, 2019, 2018, 2017]
 horizontal: false
 ---
 
