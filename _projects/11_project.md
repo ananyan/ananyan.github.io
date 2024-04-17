@@ -3,7 +3,7 @@ layout: page
 title: Spatial Interactions for Interactive Design Space Exploration in 2D and VR
 img: assets/img/ICVR/generatiVRimage.png
 description: ar/vr
-category: 2023
+category: 2022
 ---
 <div class="row">
     <div class="w-50 p-3">
