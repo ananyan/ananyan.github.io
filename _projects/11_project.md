@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Spatial Interactions for Interactive Design Space Exploration
+title: Spatial Interactions for Design Space Exploration
 img: assets/img/ICVR/generatiVRimage.png
 description: ar/vr
 category: 2022
@@ -24,7 +24,7 @@ Second iteration of interactions developed for GeneratiVR project and used in a 
 
 ## VR Demo
 Example of using the interactions to narrow down to a desired design (context: a shelf to display projects or books in a Design Institute's lobby).
-<iframe width="560" height="315" src="https://drive.google.com/file/d/1_fd6jwaStWsA72pomCqgWaR6ba-WQVsn/view?usp=sharing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/VCn3S_4W6OU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Skip to Timestamp 01:39 - 02:29 for a demonstration of the Direct Manipulation Filter, which allows gestural specification of geometry  
 Skip to Timestamp 04:43 - 05:24 for a demonstration of the Functionality Filter, which allows the placement of objects to specify how the design will function (how the shelf will hold items)  
