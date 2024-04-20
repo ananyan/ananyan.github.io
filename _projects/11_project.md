@@ -24,11 +24,11 @@ Second iteration of interactions developed for GeneratiVR project and used in a 
 
 ## VR Demo
 Example of using the interactions to narrow down to a desired design (context: a shelf to display projects or books in a Design Institute's lobby).
-<iframe width="560" height="315" src="https://youtu.be/VCn3S_4W6OU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VCn3S_4W6OU?si=t_RMg_Vgl76Re6J_" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Skip to Timestamp 01:39 - 02:29 for a demonstration of the Direct Manipulation Filter, which allows gestural specification of geometry  
-Skip to Timestamp 04:43 - 05:24 for a demonstration of the Functionality Filter, which allows the placement of objects to specify how the design will function (how the shelf will hold items)  
-Skip to Timestamp 5:45 - 7:00 for a demonstration of using both the Direct Manipulation Filter and Functionality Filter to constrain the design space based on both form and function  
+**Skip to Timestamp 01:39 - 02:29** for a demonstration of the Direct Manipulation Filter, which allows gestural specification of geometry  
+**Skip to Timestamp 04:43 - 05:24** for a demonstration of the Functionality Filter, which allows the placement of objects to specify how the design will function (how the shelf will hold items)  
+**Skip to Timestamp 5:45 - 7:00** for a demonstration of using both the Direct Manipulation Filter and Functionality Filter to constrain the design space based on both form and function  
 
 ## Reflection
 This was an interesting exploration of how we might want to specify constraints or requirements using modalities other than text. In this case, VR allows an immersive way to specify desired functionality or size, as well as view the designs from different perspectives. However, a challenge with using VR in the way we implemented the interactions is that you cannot see the design from a "bird's eye view," which is a convenience of traditional 3D software. In addition, people are not used to interacting with design spaces in this way (at a higher-level of abstraction, based on use and gestural specification of geometry) compared to modifications at a parameter level. Therefore, more work would have to be done to understand how people can create a better mental model of how to leverage such an approach and what capabilities it may enable.
