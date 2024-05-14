@@ -2,7 +2,7 @@
 layout: page
 title: Decision making for disaster response
 img: assets/img/IDR3/datavisual.jpg
-description: data visualization
+description: data visualization and nlp
 category: 2021
 ---
 <div class="row">
