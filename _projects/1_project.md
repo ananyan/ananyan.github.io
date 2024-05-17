@@ -92,11 +92,5 @@ By allowing Burt to use the quickly made prototypes, we were able to synthesize 
 had trouble using some of the opening mechanisms.
 Second, although we created this design for a singular user, it did make us think about universal design more critically. For instance, even without limited FFD, a compact and simple
 device like this might be used more easily than a traditional pocket knife or letter opener. Overall, the project allowed me to really listen to Burt's concerns and perspective to inform the design, which is critical when designing inclusively. 
-The image shows my teammate and I assembling the laser cut initial prototypes. 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/PackageOpener/DFA.jpg" alt = "My teammate and I in the process of prototyping the laser cut designs" class="img-fluid" height="100" %}
-    </div>
-</div>
 
 
