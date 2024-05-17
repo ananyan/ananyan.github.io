@@ -95,7 +95,7 @@ device like this might be used more easily than a traditional pocket knife or le
 The image shows my teammate and I assembling the laser cut initial prototypes. 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/PackageOpener/DFA.jpg" alt = "My teammate and I in the process of prototyping the laser cut designs" class="img-fluid" %}
+        {% include figure.html path="assets/img/PackageOpener/DFA.jpg" alt = "My teammate and I in the process of prototyping the laser cut designs" class="img-fluid" height="100" %}
     </div>
 </div>
 
