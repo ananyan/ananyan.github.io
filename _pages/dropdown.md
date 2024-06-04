@@ -2,7 +2,7 @@
 layout: page
 title: other
 nav: true
-order: 3
+order: 4
 dropdown: true
 children:
     - title: teaching/outreach
