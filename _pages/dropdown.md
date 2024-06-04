@@ -5,9 +5,6 @@ nav: true
 order: 3
 dropdown: true
 children:
-    - title: cv
-      permalink: /assets/pdf/AnanyaNandy_CV_051724.pdf
-    - title: divider
     - title: teaching/outreach
       permalink: /teaching/ 
     - title: divider
