@@ -1,18 +1,8 @@
 ---
 layout: page
-title: other
+title: blog
 nav: true
 order: 4
+permalink: /blog/
 dropdown: true
-children:
-    - title: teaching/outreach
-      permalink: /teaching/ 
-    - title: divider
-    - title: blog
-      permalink: /blog/
-
-
-
-
-
 ---
