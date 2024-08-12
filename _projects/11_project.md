@@ -15,13 +15,16 @@ category: 2022
 </div>
 
 ## Overview
-**Roles:** VR Development, Design Generation and Evaluation, User Study Design  
-**Skills:** Unity, Rhino3D/Grasshopper, C-Sharp, User Study   
+**My Role:** I contributed across a variety of parts: generating the designs and creating the pipeline to transfer them between the 3D modeling software and the VR application, creating the VR environments, setting up the data logging for the user study, designing the user study, administering the user study, analyzing the quantitative and qualitative behavioral data
+**Skills:** Unity, Rhino3D/Grasshopper, C-Sharp, Python   
 **Time:** August - December 2022  
-**Team:** 3 (MechE, HCI)/Individual   
+**Team:** 5 (MechE, Design, HCI) 
+
+## GeneratiVR
+The goal of this work was to leverage the advantages of VR to explore a large-scale design space. To that end, we used the example of furniture (storage shelving) to demonstrate different interactions that can allow users to better search through a design space. We developed a direct manipulation filter that allows users to specify the geometry of their preferred design, using a virtual environment to reference scale, and a functionality filter that allows users to sort through designs based on the ability of the shelf to hold their desired items. This is a work in progress. **This work was accepted as Late Breaking Work and presented at CHI 2022.**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3K3QM1NFHqU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Second iteration of interactions developed for GeneratiVR project and used in a user study (published in ICED '23).
-
 ## VR Demo
 Example of using the interactions to narrow down to a desired design (context: a shelf to display projects or books in a Design Institute's lobby).
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VCn3S_4W6OU?si=t_RMg_Vgl76Re6J_" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
