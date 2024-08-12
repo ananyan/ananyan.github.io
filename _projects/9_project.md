@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Decision making for disaster response
+title: Multimodal tagging for disaster response
 img: assets/img/IDR3/datavisual.jpg
-description: data visualization and nlp
+description: data vis, nlp
 category: 2021
 ---
 <div class="row">
