@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Designing for emerging technologies
+title: Designing for emerging tech
 img: assets/img/DET/CuriousAndFurious.gif
 description: interactive devices
 category: 2019
