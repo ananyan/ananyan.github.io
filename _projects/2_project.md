@@ -1,6 +1,6 @@
 ---
 layout: page
-title: latte yo-yo
+title: Latte yo-yo
 img: assets/img/Latte/Latteyoyo.png
 description: design, manufacturing
 category: 2017
