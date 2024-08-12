@@ -4,6 +4,7 @@ title: Package opening tool
 img: assets/img/PackageOpener/ClosedKnife.PNG
 description: assistive tech
 category: 2017
+importance: 1
 ---
 <div class="row">
     <div class="w-50 p-3">
