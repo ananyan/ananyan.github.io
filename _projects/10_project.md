@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Immersive Computing and Virtual Reality
+title: Immersive computing and virtual reality
 img: assets/img/ICVR/questheadset.jpg
 description: ar/vr
 category: 2021
