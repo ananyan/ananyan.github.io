@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FinDeR Summer School (Part II): 3D point cloud classification using graph neural networks"
+title: "3D point cloud classification of engineering designs using graph neural networks"
 description: Part II of technical concepts learned for data-driven design
 excerpt_separator: <!--more-->
 ---
@@ -50,7 +50,7 @@ The neural network’s architecture is as follows: 2 PointNet layers, which take
 I shuffled the data and split it into approximately a 90/10 ratio for training and testing. I left the default learning rate of 0.01 for the Adam optimizer, the default loss as the Cross Entropy loss, as well as the default batch size of 10. I let the model train for 50 epochs initially, but after observing that the loss was still decreasing, I decided to increase the training to 200 epochs. The initial loss was 1.5779 and by epoch 200 it was 0.4869. However, at around epoch 193, the loss was at its lowest at 0.1033 before it started to increase again. I would have to look more closely at this behavior to understand the exact problem, but it seems there was overfitting. 
 
 ## Outcome
-The final accuracy on the test set was 0.5263 and is visualized in the confusion matrix below. Obviously, this accuracy is not very good, though with 5 classes, it is better than random guessing. Additionally, the test set classes are a bit unbalanced, with only one test set example being the arch or butterfly bracket. This is in line with the dataset, which had fewer submitted designs of this type (as they tended to have lower mass but also lower strength). I will update this with the AUC metric instead of accuracy to address this point. However, the results were somewhat expected for several reasons:  
+The final accuracy on the test set was 0.5263 and is visualized in the confusion matrix below. Obviously, this accuracy is not very good, though with 5 classes, it is better than random guessing. Additionally, the test set classes are a bit unbalanced, with only one test set example being the arch or butterfly bracket. This is in line with the dataset, which had fewer submitted designs of this type (as they tended to have lower mass but also lower strength). I would need to use the AUC metric instead of accuracy to address this point. However, the results were somewhat expected for several reasons:  
 1. The PointNet++ implementation is not complete or tuned, having been taken directly from the tutorial. 
 2. There are only hundreds of training examples instead of thousands or more. 
 3. The labels in the dataset were determined qualitatively by the researchers who created the dataset. Unlikely common objects like chairs or tables in ShapeNet, there is actually no ground truth for the “types” of brackets. Therefore, it is possible that a good PointNet++ embedding could result in classification that actually makes more sense based on visual similarity than the human categorization. In this case comparing to the human labels is not a good accuracy measure.
