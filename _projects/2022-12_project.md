@@ -4,6 +4,7 @@ title: Design space exploration in VR
 img: assets/img/ICVR/generatiVRimage.png
 description: ar/vr
 category: 2022
+importance: 1
 ---
 <div class="row">
     <div class="w-50 p-3">
