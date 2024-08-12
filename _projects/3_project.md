@@ -2,7 +2,7 @@
 layout: page
 title: motorized joystick for power wheelchair
 img: assets/img/Joystick/Version1.jpg
-description: assistive technology
+description: assistive tech
 category: 2018
 ---
 <div class="row">
