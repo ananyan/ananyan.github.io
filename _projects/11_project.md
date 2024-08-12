@@ -17,7 +17,7 @@ category: 2022
 ## Overview
 **My Role:** I contributed across a variety of parts: generating the designs and creating the pipeline to transfer them between the 3D modeling software and the VR application, creating the VR environments, setting up the data logging for the user study, designing the user study, administering the user study, analyzing the quantitative and qualitative behavioral data  
 **Skills:** Unity, Rhino3D/Grasshopper, C-Sharp, Python   
-**Time:** August - December 2022  
+**Time:** August 2021 - December 2022  
 **Team:** 5 (MechE, Design, HCI) 
 
 ## GeneratiVR
