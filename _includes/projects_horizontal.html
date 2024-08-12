@@ -7,11 +7,12 @@
     <div class="card h-100 hoverable">
       <div class="row no-gutters">
         {%- if project.img -%}
-        <div class="card-img col-md-6">
+        <div class="col-md-6">
           {% responsive_image_block %}
             path: {{ project.img }}
             sizes="(min-width: 768px) 156px, 50vw"
             alt: "project thumbnail"
+            class="card-img"
           {% endresponsive_image_block %}
         </div>
         <div class="col-md-6">
