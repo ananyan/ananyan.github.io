@@ -8,12 +8,11 @@
       <div class="row no-gutters">
         {%- if project.img -%}
         <div class="col-md-6">
-          {% responsive_image_block %}
+          {%- include figure.html
             path: {{ project.img }}
             sizes="(min-width: 768px) 156px, 50vw"
             alt: "project thumbnail"
-            class="card-img"
-          {% endresponsive_image_block %}
+            class="card-img" -%}
         </div>
         <div class="col-md-6">
         {%- else -%}
