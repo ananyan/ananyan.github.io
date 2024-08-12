@@ -1,6 +1,6 @@
 ---
 layout: page
-title: aesthetic solar panels 
+title: Aesthetic solar panels 
 img: assets/img/SistineSolar/solarskinapplicator.PNG
 description: design, manufacturing
 category: 2018
