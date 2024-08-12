@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Spatial Interactions for Design Space Exploration
+title: Design space exploration in VR
 img: assets/img/ICVR/generatiVRimage.png
 description: ar/vr
 category: 2022
