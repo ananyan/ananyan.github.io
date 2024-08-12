@@ -2,7 +2,7 @@
 layout: page
 title: Smart speed bump for emergency vehicles
 img: assets/img/Sentry/Car.jpg
-description: infrastructure product
+description: design, manufacturing
 category: 2018
 ---
 <div class="row">
