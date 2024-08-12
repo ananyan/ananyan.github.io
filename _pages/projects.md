@@ -5,7 +5,6 @@ permalink: /projects/
 description: Miscellaneous design and research projects
 nav: true
 order: 2
-display_categories: [2022, 2021, 2019, 2018, 2017]
 horizontal: false
 ---
 
