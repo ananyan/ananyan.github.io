@@ -1,8 +1,8 @@
 ---
 layout: page
-title: design
-permalink: /design/
-description: Miscellaneous design projects from classes, research, internships, etc.
+title: projects
+permalink: /projects/
+description: Miscellaneous design and research projects
 nav: true
 order: 2
 display_categories: [2022, 2021, 2019, 2018, 2017]
