@@ -9,8 +9,8 @@
         {%- if project.img -%}
         <div class="col-md-6">
           {%- include figure.html
-            path: {{ project.img }}
-            alt: "project thumbnail"
+            path=project.img
+            alt="project thumbnail"
             class="card-img" -%}
         </div>
         <div class="col-md-6">
