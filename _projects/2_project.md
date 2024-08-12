@@ -2,7 +2,7 @@
 layout: page
 title: latte yo-yo
 img: assets/img/Latte/Latteyoyo.png
-description: consumer product
+description: design, manufacturing
 category: 2017
 ---
 <div class="row">
