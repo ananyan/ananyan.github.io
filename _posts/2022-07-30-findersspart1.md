@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FinDeR Summer School (Part I): 3D point cloud alignment with optimal transport" 
+title: "3D point cloud alignment with optimal transport" 
 description: Part I of technical concepts learned for data-driven design
 excerpt_separator: <!--more-->
 ---
