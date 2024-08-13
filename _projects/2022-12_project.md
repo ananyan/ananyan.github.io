@@ -10,12 +10,9 @@ category: 2022
         {% include figure.html path="assets/img/ICVR/generatiVRimage.png" alt = "Many shelf design alternatives constrained based on desired placement of items" class="img-fluid" %}
     </div>
 </div>
-<div class="caption">
-    Example of constraining the design space using the functionality filter in VR to place items where a user would want them on the shelf
-</div>
 
 ## Overview
-**My Role:** I contributed across a variety of parts: generating the designs and creating the pipeline to transfer them between the 3D modeling software and the VR application, creating the VR environments, setting up the data logging for the user study, designing the user study, administering the user study, analyzing the quantitative and qualitative behavioral data  
+**My Role:** I contributed to all aspects of the project both as a researcher and developer by: generating the designs and creating the pipeline to transfer them between the 3D modeling software and the VR application, creating the VR environments, setting up the data logging for the user study, designing the user study, administering the user study, analyzing the quantitative and qualitative behavioral data  
 **Skills:** Unity, Rhino3D/Grasshopper, C-Sharp, Python   
 **Timeline:** August 2021 - December 2022 (17 months)    
 **Team:** 5 (MechE, Design, HCI) 
