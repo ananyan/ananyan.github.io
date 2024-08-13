@@ -83,16 +83,16 @@ In order to evaluate the interactions and the interface modality, we developed *
 We provided training on how to use each interface before allowing participants to complete each task. We collected **action logs** of what participants did, **survey responses after each task**, and an overall **post-study survey**.
 
 ## Key insights and impact
-#### **Logs reveal differences in use of functionality interaction**
+#### **1. Logs reveal differences in use of functionality interaction**
 Logs of when people used the interactions during the task revealed that some people used the interactions as expected and some people did not. For example, the functionality filter was originally developed so that users could specify high-level abstractions of function first, rather than low-level design parameters. Two broad types of users emerged for this interaction:  
 
 **“Function first”:** Used the functionality filter at the start to narrow design space to fewer, but visually diverse possibilities  
 **“Function checker”:** Increased their use of the functionality filter at the end, often after a final design had been selected (e.g., to check if objects could be placed as desired)  
 
-#### **Expressing function-based intent directly is challenging, but an immersive interface may help** 
+#### **2. Expressing function-based intent directly is challenging, but an immersive interface may help** 
 Furthermore, the use of the functionality filter revealed where there the interactions are influenced by different interface modalities. While the direct manipulation filters were rated similarly for usefulness across both screen-based and VR modalities, the functionality filter had slightly higher ratings of usefulness when it was used in the VR vs. screen-based interface. At the same time, overall reviews of the functionality filter was mixed - some people found it very useful and others found it not useful at all. 
 
-#### **VR may not support breadth of exploration, but instead enable in-depth consideration of an option’s benefits and constraints (e.g., by sense of scale, simulating function)**
+#### **3. VR may not support breadth of exploration, but instead enable in-depth consideration of an option’s benefits and constraints (e.g., by sense of scale, simulating function)**
 Additionally, commenting on completing the task in the two different interface modalities overall, participants noted that the screen-based interface let them feel less limited in exploration:  
 
 “By being able to physically, or in this case, virtually, experience the designs in person gave it a greater sense of how a user would be interacting with the design constrain[ing] heavily the ranges of designs I could consider. **With 2D, I didn’t feel like I was in the space and constrained, which allowed me to look at more designs…**"   
