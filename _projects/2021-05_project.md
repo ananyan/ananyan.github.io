@@ -6,7 +6,7 @@ description: data vis, nlp
 category: 2021
 ---
 <div class="row">
-    <div class="w-50 p-3">
+    <div class="w-50 p-3" style="margin:auto">
         {% include figure.html path="assets/img/IDR3/datavisual.jpg" alt = "Glowing globe representing information and data" class="img-fluid" %}
     </div>
 </div>
