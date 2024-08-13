@@ -78,6 +78,9 @@ blockquote {
       align-items: center;
       padding-bottom: 10px;
     }
+    .col {
+      padding-bottom: 10px;
+    }
   }
 }
 
@@ -388,6 +391,9 @@ footer.sticky-bottom {
     .row {
       display: flex;
       align-items: center;
+    }
+    .col {
+      padding-bottom: 10px;
     }
   }
 
