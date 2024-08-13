@@ -11,13 +11,12 @@ category: 2019
     </div>
 </div>
 
-## Overview
+## <u>Overview</u>
 **My Role:** I led this project and conducted the initial interviews as well as a majority of the manufacturing of the final device    
 **Tools/Skills:** User Interviews, User Testing, CAD (Fusion 360), Material Selection  
-**Timeline:** March 2019 (1 weekend)  
+**Timeline:** March 2019 (1 weekend as part ATHack 2019)    
 **Team:** 3 (MechE, AerospaceE, Chemistry) 
 
-Developed as part ATHack 2019. 
 ## <u>Goal</u>
 **The purpose of this project was to design a base to support our user's feet and allow him to be in a more seated position.**
    
