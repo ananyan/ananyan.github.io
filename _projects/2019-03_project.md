@@ -12,7 +12,7 @@ category: 2019
 </div>
 
 ## Overview
-**My Role:** I led this project and conducted the initial interviews as well as a majority of the manufacturing of the final device.  
+**My Role:** I led this project and conducted the initial interviews as well as a majority of the manufacturing of the final device    
 **Tools/Skills:** User Interviews, User Testing, CAD (Fusion 360), Material Selection  
 **Timeline:** March 2019 (1 weekend)  
 **Team:** 3 (MechE, AerospaceE, Chemistry) 
