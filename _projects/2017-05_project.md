@@ -6,20 +6,18 @@ description: assistive tech
 category: 2017
 ---
 <div class="row">
-    <div class="w-50 p-3">
+    <div class="w-50 p-3" style="margin:auto">
         {% include figure.html path="assets/img/PackageOpener/ClosedKnife.PNG" alt = "Final package opener prototype" class="img-fluid" %}
     </div>
 </div>
 
-## Overview
-**Roles:** Project Team Member, Human Centered Design, Rapid Prototyping  
-**Skills:** User Interviews, User Testing, 3D Printing, Laser Cutting  
+## <u>Overview</u>
+**My Role:** My role involved conducting the user interviews, developing concepts, laser cutting and testing the initial prototypes, and assembling the final 3D printed version.  
+**Tools/Skills:** User Interviews, User Testing, 3D Printing, Laser Cutting  
 **Time:** January - May 2017  
 **Team:** 4 (MechE) 
 
-This project was done as part of Design for America for a local Boston community member. My role involved conducting the user interviews and testing with my teammates, as well as laser cutting the initial prototypes and assembling the final 3D printed version.
-
-## The Problem
+## <u>Goal</u>
 Burt's image is obscured for privacy purposes. 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -40,7 +38,7 @@ We found that Burt would gain a significant amount of independence if he was abl
     </div>
 </div>
 
-## The Process
+## <u>Design Process</u>
 First, we observed how Burt opened packages at home, where he used a regular curved Xacto knife that he could brace against a surface and pull across a package if it was handed to him. 
 We researched existing products that could either open or puncture bags, but none of them were suited for Burt as they required grip or were too small. 
 <div class="row">
@@ -76,7 +74,7 @@ After synthesizing information from Burt, we came up with the final design.
     </div>
 </div>
 
-## The Result
+## <u>Outcomes</u>
 The final prototype was made using 3D printing and an existing curved Xacto blade. A slot was included in the body to make sure the blade would be covered when closed and tab was added to allow the blade to be pushed out easily.
 The blade was hinged using a bolt with sufficient friction so that the blade would not fall out but would also not requiring a lot of strength. Finally, a large hole for Burt's finger was covered with gripping tape for comfort. The
 final prototype, which was given to Burt after a final design critique, is  shown below.
@@ -86,11 +84,8 @@ final prototype, which was given to Burt after a final design critique, is  show
     </div>
 </div>
 
-## Reflection
-This project was eye-opening in several ways. First, I gained an appreciation for rapid prototyping and how it could be used to learn for the actual user we were designing with.
-By allowing Burt to use the quickly made prototypes, we were able to synthesize what aspects of each were important to him. For example, we were able to quickly see if he 
-had trouble using some of the opening mechanisms.
-Second, although we created this design for a singular user, it did make us think about universal design more critically. For instance, even without limited FFD, a compact and simple
+## <u>Reflection</u>
+This project was eye-opening in several ways (done as part of Design for America for a local Boston community member). First, I gained an appreciation for rapid prototyping and how it could be used to learn for the actual user we were designing with. By allowing Burt to use the quickly made prototypes, we were able to synthesize what aspects of each were important to him. For example, we were able to quickly see if he had trouble using some of the opening mechanisms. Second, although we created this design for a singular user, it did make us think about universal design more critically. For instance, even without limited FFD, a compact and simple
 device like this might be used more easily than a traditional pocket knife or letter opener. Overall, the project allowed me to really listen to Burt's concerns and perspective to inform the design, which is critical when designing inclusively. 
 
 
