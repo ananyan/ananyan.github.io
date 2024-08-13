@@ -47,7 +47,8 @@ We developed 2 primary interactions:
         {% include figure.html path="assets/img/ICVR/DirectManipulationFilter.png" alt = "figure demonstrating direct manipulation to narrow design space" class="img-fluid" %}
     </div>
 </div>
-3) A functionality filter that allows users to sort through designs based on the ability of the shelf to hold their desired items
+
+2) A functionality filter that allows users to sort through designs based on the ability of the shelf to hold their desired items
 <div class="row">
     <div class="w-50 p-3" style="margin:auto">
         {% include figure.html path="assets/img/ICVR/FunctionalityFilter.png" alt = "figure demonstrating items being placed on shelf to narrow design space" class="img-fluid" %}
@@ -60,11 +61,11 @@ The video below shows the initial version of our interactions, which were presen
 ## Iterating on the interactions
 Based on pilot testing of people using the interactions, we improved the interactions and added a few additional features that could be evaluated in a user study.
 
-1) Users could originally visually filter down by seeing the overlay of transparent shelves that represented the design space and then had to look elsewhere to see the number of designs remaining after filtering. Having easier access to the exact number could help people set their filters more precisely so that they would not over-constrain the space too soon. Placing the number as a tag on the tool and updating it in real-time allowed users to get an at-glance summary of the impact of their actions on the resulting design space.
-2) Users originally made their decisions in an empty virtual environment. However, adding a room environment that could simulate how the design would be used in-context was beneficial for further utilizing the spatial benefits of VR. Then, users could place the shelf in the room and walk around to see how it would be used within an actual space. 
-3) Users were embodied as themselves when entering the VR environment. However, another benefit of VR is the ability to change embodiment. In order to facilitate design from other perspectives, we added a small feature that allowed users to modify their height (taller or shorter) to better explore how the shelves might be used by people different from themselves. 
+1) Users could originally visually filter down by seeing the overlay of transparent shelves that represented the design space and then had to look elsewhere to see the number of designs remaining after filtering. Having easier access to the exact number could help people set their filters more precisely so that they would not over-constrain the space too soon. Placing the number as a tag on the tool and updating it in real-time allowed users to get an at-glance summary of the impact of their actions on the resulting design space.  
+2) Users originally made their decisions in an empty virtual environment. However, adding a room environment that could simulate how the design would be used in-context was beneficial for further utilizing the spatial benefits of VR. Then, users could place the shelf in the room and walk around to see how it would be used within an actual space.  
+3) Users were embodied as themselves when entering the VR environment. However, another benefit of VR is the ability to change embodiment. In order to facilitate design from other perspectives, we added a small feature that allowed users to modify their height (taller or shorter) to better explore how the shelves might be used by people different from themselves.   
 
-Using those insights, the interactions were refined and then used in a user study (presented at ICED '23 and published). An example of using the refined interactions to narrow down to a desired design is shwon below:
+Using those insights, the interactions were refined and then used in a user study (presented at ICED '23 and published). An example of using the refined interactions to narrow down to a desired design is shwon below:  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VCn3S_4W6OU?si=t_RMg_Vgl76Re6J_" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -79,10 +80,10 @@ We provided training on how to use each interface before allowing participants t
 
 ## Key insights and impact
 # Logs reveal differences in use of functionality interaction
-Logs of when people used the interactions during the task revealed that some people used the interactions as expected and some people did not. For example, the functionality filter was originally developed so that users could specify high-level abstractions of function first, rather than low-level design parameters. Two broad types of users emerged for this interaction:
+Logs of when people used the interactions during the task revealed that some people used the interactions as expected and some people did not. For example, the functionality filter was originally developed so that users could specify high-level abstractions of function first, rather than low-level design parameters. Two broad types of users emerged for this interaction:  
 
-“Function first”: Used the functionality filter at the start to narrow design space to fewer, but visually diverse possibilities
-“Function checker”: Increased their use of the functionality filter at the end, often after a final design had been selected (e.g., to check if objects could be placed as desired)
+“Function first”: Used the functionality filter at the start to narrow design space to fewer, but visually diverse possibilities  
+“Function checker”: Increased their use of the functionality filter at the end, often after a final design had been selected (e.g., to check if objects could be placed as desired)  
 
 # Expressing function-based intent directly is challenging, but an immersive interface may help 
 Furthermore, the use of the functionality filter revealed where there the interactions are influenced by different interface modalities. While the direct manipulation filters were rated similarly for usefulness across both screen-based and VR modalities, the functionality filter had slightly higher ratings of usefulness when it was used in the VR vs. screen-based interface. At the same time, overall reviews of the functionality filter was mixed - some people found it very useful and others found it not useful at all. 
