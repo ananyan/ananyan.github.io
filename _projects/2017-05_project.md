@@ -14,7 +14,7 @@ category: 2017
 ## <u>Overview</u>
 **My Role:** My role involved conducting the user interviews, developing concepts, laser cutting and testing the initial prototypes, and assembling the final 3D printed version.  
 **Tools/Skills:** User Interviews, User Testing, 3D Printing, Laser Cutting  
-**Time:** January - May 2017  
+**Timeline:** January - May 2017  
 **Team:** 4 (MechE) 
 
 ## <u>Goal</u>
