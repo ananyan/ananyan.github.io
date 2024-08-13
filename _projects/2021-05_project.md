@@ -13,7 +13,7 @@ category: 2021
 
 ## <u>Overview</u>
 **My Role:** I contributed to this project by conducting several stakeholder interviews and leading the development of the prototype for NLP-based tagging and spatial mapping   
-**Skills:** User Interviews, Natural Language Processing, Speech Recognition, Data Visualization, Python, Google Cloud API    
+**Tools/Skills:** User Interviews, Natural Language Processing, Speech Recognition, Data Visualization, Python, Google Cloud API    
 **Timeline:** January - May 2021    
 **Team:** 5 (MechE, Cognitive Science, Data Science, Business)   
 
