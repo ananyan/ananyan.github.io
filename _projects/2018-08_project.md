@@ -12,7 +12,7 @@ category: 2018
 </div>
 
 ## <u>Overview</u>
-**My Role:** Mechanical Engineering Intern
+**My Role:** Mechanical Engineering Intern   
 **Skills:** Thin-film Application, CAD (SolidWorks), Machining  
 **Time:** June - August 2018  
 **Team:** N/A 
