@@ -46,7 +46,7 @@ We developed 2 primary interactions:
     <div class="w-50 p-3" style="margin:auto">
         {% include figure.html path="assets/img/ICVR/DirectManipulationFilter.png" alt = "figure demonstrating direct manipulation to narrow design space" class="img-fluid" %}
     </div>
-</div>
+</div>  
 
 2) A functionality filter that allows users to sort through designs based on the ability of the shelf to hold their desired items
 <div class="row">
