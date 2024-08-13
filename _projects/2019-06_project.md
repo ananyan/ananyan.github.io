@@ -6,21 +6,18 @@ description: robotics
 category: 2019
 ---
 <div class="row">
-    <div class="w-50 p-3">
+    <div class="w-50 p-3" style="margin:auto">
         {% include figure.html path="assets/img/PizzaRobot/placetopping.gif" alt = "Delta robot picks up and places a fake pepperoni" class="img-fluid" %}
     </div>
 </div>
 
-*The GIF shows our robotic system, named R.E.M.Y. (Robot for Expedited Manufacturing of Ya' pizzas) at work (4x speed).*
-## Overview
-**Roles:** Delta Robot Hardware, Mobile Robot Software  
+## <u>Overview</u>
+**Roles:** My primary roles were in building the delta robot and developing the software for the mobile robot. 
 **Skills:** ROS, Python, CAD (SolidWorks), Computer Vision, Hardware   
-**Time:** February - June 2019   
-**Team:** 9 (MechE, CompSci)
+**Timeline:** February - June 2019   
+**Team:** 9 (MechE, Computer Science)
 
-Developed as part of 2.12, Introduction to Robotics. My primary roles were in building the delta robot and developing the software for the mobile robot. 
-
-## The Problem
+## <u>Goal</u>
 This project had several goals:
 
 - Build a delta robot from a given base design
@@ -29,7 +26,7 @@ This project had several goals:
 - Develop software for the "waiter" mobile robot to navigate a board to deliver the "pizza"
 - Develop integration and communication so the delta robot transfers the finished "pizza" to the mobile robot for delivery 
 
-## The Process
+## <u>Design Process</u>
 The first step was to build the delta robot. We were provided with a base design, which we modified for improvement. We redesigned the frame so that
 it would be more stable and created a fixture for the table so that it would be placed in the same place every time. In addition, we wanted our workspace
 to be larger than what the base design could reach. To do this, we changed the length of the linkages, used ball joints with a larger angular range, and decreased
@@ -78,7 +75,7 @@ placing toppings and had transferred the pizza. On the right is a diagram of the
     </div>
 </div>
 
-## The Result
+## <u>Outcomes</u>
 The final system worked on a rough level, but unfortunately, I can't find a video of the full system or even any videos we took in the later parts of the project, 
 so I guess I can't provide full proof of that! Here are videos of the robot functioning at least in parts during testing (Last GIF is 2x speed):
 
@@ -100,12 +97,11 @@ so I guess I can't provide full proof of that! Here are videos of the robot func
     </div>
 </div>
 
-## Reflection
-Overall, this was a challenging project with several moving parts that had to all work for success at the system level. Some of the challenges were adapting to different lighting to detect the colors of the toppings and ensuring that the 
-failure of the delta robot to perfectly complete the toppings on the pizza would not prevent the robot from at least transferring the pizza and allowing the mobile robot to complete its task. As with many projects, we likely would have figured out several of the problems given more time,
-but it was a good lesson in working with an interdisciplinary team as well as integrating software and hardware! However, we did win an award for the best software in the class!
+## <u>Reflection</u>
+Overall, this was a challenging project with several moving parts that had to all work for success at the system level. Some of the challenges were adapting to different lighting to detect the colors of the toppings and ensuring that the failure of the delta robot to perfectly complete the toppings on the pizza would not prevent the robot from at least transferring the pizza and allowing the mobile robot to complete its task. As with many projects, we likely would have figured out several of the problems given more time, but it was a good lesson in working with an interdisciplinary team as well as integrating software and hardware! However, we did win an award for the best software in the class (2.12, Introduction to Robotics)! The GIF at the top shows our robotic system, named R.E.M.Y. (Robot for Expedited Manufacturing of Ya' pizzas) at work (4x speed).
+
 <div class="row">
-    <div class="w-75 p-3">
+    <div class="w-50 p-3" style="margin:auto">
         {% include figure.html path="assets/img/PizzaRobot/swaward.JPG" alt = "Award for the 2.12 Introduction Robotics 2019 Term Project Competition for Robo's Pizzera Restaurant Automation. Best Software." class="img-fluid" %}
     </div>
 </div>
