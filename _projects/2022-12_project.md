@@ -6,7 +6,7 @@ description: ar/vr
 category: 2022
 ---
 <div class="row">
-    <div class="w-50 p-3">
+    <div class="w-50 p-3" style="text-align:center">
         {% include figure.html path="assets/img/ICVR/generatiVRimage.png" alt = "Many shelf design alternatives constrained based on desired placement of items" class="img-fluid" %}
     </div>
 </div>
