@@ -6,23 +6,21 @@ description: interactive devices
 category: 2019
 ---
 <div class="row">
-    <div class="w-50 p-3">
+    <div class="w-50 p-3" style="margin:auto">
         {% include figure.html path="assets/img/DET/CuriousAndFurious.gif" alt = "Robot Eating Washers" class="img-fluid" %}
     </div>
 </div>
-<div class="caption">
-    The GIF above is the "Curious and Furious" (and hungry) robot I made based on the Hungry Robot by EunChan Park on Youtube. If you hold the capacitive button too long, it will eat the washers!
-</div>
 
-## Overview
-**Roles:** VR Development, Computer Vision, Mechanical Design,  Speech Recognition  
+## <u>Overview</u>
+**My Role:** I contributed to aspects related to VR Development, computer vision, mechanical design, and speech recognition  
 **Tools/Skills:** Raspberry Pi, Python, Google Cloud API, Unity, CAD (Fusion 360), 3D Printing   
-**Time:** August - December 2019 (2 weeks  each)  
-**Team:** 4 each (MechE, CompSci, HCI, Psych, Arch) 
+**Timeline:** August - December 2019 (2 weeks  each)  
+**Team:** 4 each (MechE, Computer Science, HCI, Psychology, Architecture) 
 
-The purpose of these projects was to design interactive devices using certain emerging technologies as creative materials. They were developed as part of DES INV-290-6, Designing for Emerging Technologies.
+## <u>Goal</u>
+The purpose of these projects was to design interactive devices using certain emerging technologies as creative materials. 
 
-## Extra-Real: Virtual Reality (using Unity on Oculus Quest)
+## <u>Extra-Real: Virtual Reality (using Unity on Oculus Quest)
 ### **An Ocean's Story** 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -55,7 +53,7 @@ when pollution has been curbed due to better societal awareness and policy.
 
 <a href="/assets/pdf/PROJ03_Process.pdf">PDF</a> of detailed design process.
 
-## Conversation: Speech Recognition (using Google Cloud Speech-to-Text on RasPi)
+## <u>Conversation: Speech Recognition (using Google Cloud Speech-to-Text on RPi)</u>
 ### **Soulflower**
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -77,7 +75,7 @@ in mediating unspoken emotional communication and empathy would become especiall
 
 <a href="/assets/pdf/PROJ02_Process.pdf">PDF</a> of detailed design process.
 
-## Perception: Computer Vision (using Google Cloud Vision on RasPi)
+## <u>Perception: Computer Vision (using Google Cloud Vision on RPi)</u>
 ### **Starbucks Steve: a gesture-based coffee counter assistant** 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -95,7 +93,7 @@ we hope Steve can help users make beverage choices more easily!
 
 [PDF](/assets/pdf/PROJ01_Process.pdf) of detailed design process.
 
-## Robots: Mobility (using Husqvarna Automower)
+## <u>Robots: Mobility (using Husqvarna Automower)</u>
 ### **HohohoBot** 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -114,4 +112,4 @@ in the form of a collaborative tree decorating activity.
 <a href="/assets/pdf/PROJ04_Process.pdf">PDF</a> of detailed design process.
 
 ## Reflection
-All of these projects were fun because they allowed us to exercise our creativity and to speculate on unique ways in which technology can be used for various purposes and begin to see if they are actually feasible!
+All of these projects were developed as part of DES INV-290-6, Designing for Emerging Technologies. They allowed us to exercise our creativity and to speculate on unique ways in which technology can be used for various purposes and begin to see if they are actually feasible! Note: The GIF at the top is the "Curious and Furious" (and hungry) robot I made based on the Hungry Robot by EunChan Park on Youtube. If you hold the capacitive button too long, it will eat the washers!
