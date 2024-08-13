@@ -33,14 +33,18 @@ The goal of this work was to prototype interactions that leveraged unique aspect
 
 ## Outcomes
 1) Developed interactions that allowed users to narrow down from a space of over 3000 options to a final option in a short amount of time (~15 minutes)
+
 2) Evaluated the interactions for their usability, finding that they were generally intuitive, except for the functionality-based approach which users had a hard time understanding and would require more training or a paradigm shift in approach
+
 3) Evaluated the interface modality (screen-based and VR), finding that certain aspects of search and exploration are better suited for one interface type over the other
+
 4) Identified potential future directions
 
 ## Developing the interactions
 We used the example of furniture (storage shelving) to demonstrate different interactions that can allow users to better search through a design space.
 
 We developed 2 primary interactions:
+
 1) A direct manipulation filter that allows users to specify the geometry of their preferred design, using a virtual environment to reference scale
 <div class="row">
     <div class="w-50 p-3" style="margin:auto">
@@ -58,11 +62,14 @@ We developed 2 primary interactions:
 The video below shows the initial version of our interactions, which were presented at CHI 2022 as Late Breaking Work:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3K3QM1NFHqU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 ## Iterating on the interactions
 Based on pilot testing of people using the interactions, we improved the interactions and added a few additional features that could be evaluated in a user study.
 
 1) Users could originally visually filter down by seeing the overlay of transparent shelves that represented the design space and then had to look elsewhere to see the number of designs remaining after filtering. Having easier access to the exact number could help people set their filters more precisely so that they would not over-constrain the space too soon. Placing the number as a tag on the tool and updating it in real-time allowed users to get an at-glance summary of the impact of their actions on the resulting design space.  
+
 2) Users originally made their decisions in an empty virtual environment. However, adding a room environment that could simulate how the design would be used in-context was beneficial for further utilizing the spatial benefits of VR. Then, users could place the shelf in the room and walk around to see how it would be used within an actual space.  
+
 3) Users were embodied as themselves when entering the VR environment. However, another benefit of VR is the ability to change embodiment. In order to facilitate design from other perspectives, we added a small feature that allowed users to modify their height (taller or shorter) to better explore how the shelves might be used by people different from themselves.   
 
 Using those insights, the interactions were refined and then used in a user study (presented at ICED '23 and published). An example of using the refined interactions to narrow down to a desired design is shwon below:  
@@ -74,27 +81,27 @@ Using those insights, the interactions were refined and then used in a user stud
 **Skip to Timestamp 5:45 - 7:00** for a demonstration of using both the Direct Manipulation Filter and Functionality Filter to constrain the design space based on both form and function  
 
 ## User study - quantitative and qualitative evaluation
-In order to evaluate the interactions and the interface modality, we developed 2 tasks for participants (N=28, each having at least a little design experience) to complete. Participants were given two design tasks: select a shelf to display projects in a Design Institute's entry and select a shelf for a small library in the lobby. All participants completed the two tasks in the same order, but either completed the first task using VR or a screen-based version of the interface with the same interactions (adapted slightly so they wouldn't be disadvantaged completely by the modality). The order in which the interfaces were used was assigned randomly. 
+In order to evaluate the interactions and the interface modality, we developed **2 tasks for participants** (N=28, each having at least a little design experience) to complete. Participants were given two design tasks: select a shelf to display projects in a Design Institute's entry and select a shelf for a small library in the lobby. All participants completed the two tasks in the same order, but either completed the first task **using VR or a screen-based version of the interface** with the same interactions (adapted slightly so they wouldn't be disadvantaged completely by the modality). The order in which the interfaces were used was assigned randomly. 
 
-We provided training on how to use each interface before allowing participants to complete each task. We collected action logs of what participants did, survey responses after each task, and an overall post-study survey.
+We provided training on how to use each interface before allowing participants to complete each task. We collected **action logs** of what participants did, **survey responses after each task**, and an overall **post-study survey**.
 
 ## Key insights and impact
-### Logs reveal differences in use of functionality interaction
+#### **Logs reveal differences in use of functionality interaction**
 Logs of when people used the interactions during the task revealed that some people used the interactions as expected and some people did not. For example, the functionality filter was originally developed so that users could specify high-level abstractions of function first, rather than low-level design parameters. Two broad types of users emerged for this interaction:  
 
-“Function first”: Used the functionality filter at the start to narrow design space to fewer, but visually diverse possibilities  
-“Function checker”: Increased their use of the functionality filter at the end, often after a final design had been selected (e.g., to check if objects could be placed as desired)  
+**“Function first”:** Used the functionality filter at the start to narrow design space to fewer, but visually diverse possibilities  
+**“Function checker”:** Increased their use of the functionality filter at the end, often after a final design had been selected (e.g., to check if objects could be placed as desired)  
 
-### Expressing function-based intent directly is challenging, but an immersive interface may help 
+#### **Expressing function-based intent directly is challenging, but an immersive interface may help** 
 Furthermore, the use of the functionality filter revealed where there the interactions are influenced by different interface modalities. While the direct manipulation filters were rated similarly for usefulness across both screen-based and VR modalities, the functionality filter had slightly higher ratings of usefulness when it was used in the VR vs. screen-based interface. At the same time, overall reviews of the functionality filter was mixed - some people found it very useful and others found it not useful at all. 
 
-### VR may not support breadth of exploration, but instead enable in-depth consideration of an option’s benefits and constraints (e.g., by sense of scale, simulating function)
+#### **VR may not support breadth of exploration, but instead enable in-depth consideration of an option’s benefits and constraints (e.g., by sense of scale, simulating function)**
 Additionally, commenting on completing the task in the two different interface modalities overall, participants noted that the screen-based interface let them feel less limited in exploration:  
 
-“By being able to physically, or in this case, virtually, experience the designs in person gave it a greater sense of how a user would be interacting with the design constrain[ing] heavily the ranges of designs I could consider. With 2D, I didn’t feel like I was in the space and constrained, which allowed me to look at more designs…"   
+“By being able to physically, or in this case, virtually, experience the designs in person gave it a greater sense of how a user would be interacting with the design constrain[ing] heavily the ranges of designs I could consider. **With 2D, I didn’t feel like I was in the space and constrained, which allowed me to look at more designs…**"   
 
 But the VR interface enabled them to understand the different alternatives and how they would be used better:  
-"Although it took a while to get used to the control, I was able to better imagine myself using the design and get a better sense of scale. There were times where I couldn’t reach the top of the shelve[s], and that helped me choose what height shelves I should use."
+"Although it took a while to get used to the control, I was able to **better imagine myself using the design** and get a better sense of scale. There were **times where I couldn’t reach the top of the shelve[s]**, and that helped me choose what height shelves I should use."
 
 **These insights can be applied to guide decisions about which type of interface modality should be used for search and exploration tasks, both in and outside of design, as well as guide the development of top-down, intent-based expression, which can be challenging for users to conceptualize.**
 
