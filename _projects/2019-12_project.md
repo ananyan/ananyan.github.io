@@ -111,5 +111,5 @@ in the form of a collaborative tree decorating activity.
 
 <a href="/assets/pdf/PROJ04_Process.pdf">PDF</a> of detailed design process.
 
-## Reflection
+## <u>Reflection</u>
 All of these projects were developed as part of DES INV-290-6, Designing for Emerging Technologies. They allowed us to exercise our creativity and to speculate on unique ways in which technology can be used for various purposes and begin to see if they are actually feasible! Note: The GIF at the top is the "Curious and Furious" (and hungry) robot I made based on the Hungry Robot by EunChan Park on Youtube. If you hold the capacitive button too long, it will eat the washers!
