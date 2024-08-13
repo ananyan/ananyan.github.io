@@ -14,7 +14,7 @@ category: 2017
 ## <u>Overview</u>
 **My Role:** My role in this project involved designing the mold for the thermoformed "foam," machining the mold for the coffee part (using both conversational milling and CAM) optimizing the parameters for injection molding the base,  manufacturing the injection-molded base, and assisting with assembly  
 **Tools/Skills:** Design for Manufacturing, CAD (SolidWorks), CAM (MasterCAM), 3D Printing, CNC Milling, Injection Molding, Quality  
-**Timeline:** September - December 2017
+**Timeline:** September - December 2017 (4 months)    
 **Team:** 5 (MechE) 
 
 ## <u>Goal</u>
