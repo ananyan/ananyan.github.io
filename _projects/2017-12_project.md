@@ -2,7 +2,7 @@
 layout: page
 title: Latte yo-yo
 img: assets/img/Latte/Latteyoyo.png
-description: design, manufacturing
+description: design, manufacturing, course
 category: 2017
 ---
 <div class="row">
