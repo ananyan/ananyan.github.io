@@ -2,7 +2,7 @@
 layout: page
 title: Designing for emerging tech
 img: assets/img/DET/CuriousAndFurious.gif
-description: design, interactive devices, course
+description: design, prototyping, interactive devices, course
 category: 2019
 ---
 <div class="row">
