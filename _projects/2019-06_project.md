@@ -2,7 +2,7 @@
 layout: page
 title: Delta and mobile robot   
 img: assets/img/PizzaRobot/placetopping.gif 
-description: robotics  
+description: design, manufacturing, robotics, course  
 category: 2019
 ---
 <div class="row">
