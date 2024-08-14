@@ -2,7 +2,7 @@
 layout: page
 title: Removable platform for gait trainer
 img: assets/img/GaitTrainer/PlatformTest.jpg
-description: assistive tech
+description: design, prototyping, assistive tech
 category: 2019
 ---
 <div class="row">
