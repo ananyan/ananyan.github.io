@@ -14,7 +14,7 @@ category: 2019
 ## <u>Overview</u>
 **Roles:** My primary roles were in building the delta robot and developing the software for the mobile robot   
 **Tools/Skills:** ROS, Python, CAD (SolidWorks), Computer Vision, Hardware   
-**Timeline:** February - June 2019   
+**Timeline:** February - June 2019 (5 months)    
 **Team:** 9 (MechE, Computer Science)
 
 ## <u>Goal</u>
