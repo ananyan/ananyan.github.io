@@ -2,7 +2,7 @@
 layout: page
 title: Multimodal tagging for disaster response
 img: assets/img/IDR3/datavisual.jpg
-description: data vis, nlp
+description: design, data vis, nlp, course
 category: 2021
 ---
 <div class="row">
@@ -14,7 +14,7 @@ category: 2021
 ## <u>Overview</u>
 **My Role:** I contributed to this project by conducting several stakeholder interviews and leading the development of the prototype for NLP-based tagging and spatial mapping   
 **Tools/Skills:** User Interviews, Natural Language Processing, Speech Recognition, Data Visualization, Python, Google Cloud API    
-**Timeline:** January - May 2021    
+**Timeline:** January - May 2021 (5 months)    
 **Team:** 5 (MechE, Cognitive Science, Data Science, Business)   
 
 ## <u>Goal</u>
