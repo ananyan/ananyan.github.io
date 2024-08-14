@@ -2,7 +2,7 @@
 layout: page
 title: Package opening tool 
 img: assets/img/PackageOpener/ClosedKnife.PNG
-description: assistive tech
+description: design, prototyping, assistive tech
 category: 2017
 ---
 <div class="row">
