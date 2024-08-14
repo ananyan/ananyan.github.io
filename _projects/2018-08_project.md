@@ -2,7 +2,7 @@
 layout: page
 title: Aesthetic solar panels 
 img: assets/img/SistineSolar/solarskinapplicator.PNG
-description: design, manufacturing
+description: design, prototyping, internship
 category: 2018
 ---
 <div class="row">
