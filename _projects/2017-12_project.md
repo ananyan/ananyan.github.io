@@ -12,15 +12,13 @@ category: 2017
 </div>
 
 ## <u>Overview</u>
-**My Role:** My role in this project involved designing the mold for the thermoformed "foam," machining the mold for the coffee part (using both conversational milling and CAM) optimizing the parameters for injection molding the base,  manufacturing the injection-molded base, and assisting with assembly  
+**My Role:** Designing the mold for the thermoformed "foam," machining the mold for the coffee part (using both conversational milling and CAM) optimizing the parameters for injection molding the base, manufacturing the injection-molded base, and assisting with assembly  
 **Tools/Skills:** Design for Manufacturing, CAD (SolidWorks), CAM (MasterCAM), 3D Printing, CNC Milling, Injection Molding, Quality  
 **Timeline:** September - December 2017 (4 months)    
 **Team:** 5 (MechE) 
 
 ## <u>Goal</u>
-The goal of this project was to design a yo-yo for manufacturing at scale.  
-
-Due to a shared love of coffee shops, my team designed a yo-yo based on a latte. The yo-yo required a base with a fitted metal shim for weighting, a snap-fit between the "coffee" and the base, a fit between an injection molded "coffee" and the thermoformed part "foam", and a thermoformed "cup." 
+The goal of this project was to design a yo-yo for manufacturing at scale. Due to a shared love of coffee shops, my team designed a yo-yo based on a latte. The yo-yo required a base with a fitted metal shim for weighting, a snap-fit between the "coffee" and the base, a fit between an injection molded "coffee" and the thermoformed part "foam", and a thermoformed "cup." 
 
 ## <u>Outcomes</u>
 The final yo-yo is shown with and without its "cup" below. The yo-yos were subject to a drop test to ensure that they did not fall apart.
@@ -73,7 +71,9 @@ modified a couple of times to improve the snap-fit. Finally, we did a production
 </div>
 
 The full process is shown in the video below.
+<div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UWJcgpvfgeg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## <u>Reflection</u>
 This project (developed as part of 2.008, Design & Manufacturing II) taught the lesson of keeping manufacturing in mind from the beginning of designing 3D geometry. We had to modify our molds after our initial machining since the coffee part would not fit into the base part. In our case, this involved removing some material. However, if it was the reverse, we would have had to remake the entire mold which would be costly in the real world. Understanding the material and process parameters for injection molding was key to determining if and how much the final part would shrink, something that might not be thought of when using CAD to design. 
