@@ -2,7 +2,7 @@
 layout: page
 title: Multimodal tagging for disaster response
 img: assets/img/IDR3/datavisual.jpg
-description: design, data vis, nlp, course
+description: design, course (Berkeley)
 category: 2021
 ---
 <div class="row">
@@ -21,6 +21,14 @@ category: 2021
 For this project, we focused on improving information sharing for decision-makers in disaster response scenarios, working with NIWC Pacific.
 See intro video [here](https://www.youtube.com/watch?v=Ht6Z9KFl1yE). 
 
+## <u>Outcomes</u>
+1) Interviewed several stakeholders to understand the difficulties of communicating and synthesizing information during and after a disaster
+
+2) Developed a mockup for a dashboard that enables automatic data organization and visualization for decision makers
+
+3) Developed a prototype for tagging unstructured audio and text from disaster-related incidents, then mapping them geospatially. The integrated example of audio and text tagging and mapping is shown below:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v3BKnIvi7BM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## <u>Design Process</u>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -28,7 +36,6 @@ See intro video [here](https://www.youtube.com/watch?v=Ht6Z9KFl1yE).
     </div>
 </div>
 
-## <u>Outcomes</u>
 See [audio-only prototype](https://www.youtube.com/watch?v=zcWoiJ9FfkA).
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -41,8 +48,6 @@ See [text-only prototype](https://www.youtube.com/watch?v=3I1f-lYJSmY).
         {% include figure.html path="assets/img/IDR3/AfterAnanyaPrototype.png" alt = "Future Steps" class="img-fluid" %}
     </div>
 </div> 
-The integrated example of audio and text tagging and mapping is shown below:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v3BKnIvi7BM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## <u>Reflection</u>
 It was interesting to work with NIWC on this project (as part of ME292C, Innovation in Disaster Response, Recovery, and Resilience) because they had a lot of domain expertise on the technical side, while we took a more user-centric approach to this complex problem. I think we were able to blend together both sides into our final prototypes, although it is likely that some of the problems such as latency and low-bandwidth in communication have to be solved by from the more technical side.
