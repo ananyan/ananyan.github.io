@@ -2,7 +2,7 @@
 layout: page
 title: Package opening tool 
 img: assets/img/PackageOpener/ClosedKnife.PNG
-description: design, prototyping, assistive tech
+description: design
 category: 2017
 ---
 <div class="row">
@@ -35,6 +35,16 @@ We found that Burt would gain a significant amount of independence if he was abl
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/PackageOpener/HMW.png" alt = "How can we design a pocket knife with FFD limitations in mind?" class="img-fluid" %}
+    </div>
+</div>
+
+## <u>Outcomes</u>
+The final prototype was made using 3D printing and an existing curved Xacto blade. A slot was included in the body to make sure the blade would be covered when closed and tab was added to allow the blade to be pushed out easily.
+The blade was hinged using a bolt with sufficient friction so that the blade would not fall out but would also not requiring a lot of strength. Finally, a large hole for Burt's finger was covered with gripping tape for comfort. The
+final prototype, which was given to Burt after a final design critique, is  shown below.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/PackageOpener/Closedandopen.png" alt = "Final 3D printed prototype in closed and open positions" class="img-fluid" %}
     </div>
 </div>
 
@@ -71,16 +81,6 @@ After synthesizing information from Burt, we came up with the final design.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/PackageOpener/Final.png" alt = "Final Design. Folding mechanism with large tab lever to open blade. Large hole for grip. Curved blade." class="img-fluid" %}
-    </div>
-</div>
-
-## <u>Outcomes</u>
-The final prototype was made using 3D printing and an existing curved Xacto blade. A slot was included in the body to make sure the blade would be covered when closed and tab was added to allow the blade to be pushed out easily.
-The blade was hinged using a bolt with sufficient friction so that the blade would not fall out but would also not requiring a lot of strength. Finally, a large hole for Burt's finger was covered with gripping tape for comfort. The
-final prototype, which was given to Burt after a final design critique, is  shown below.
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/PackageOpener/Closedandopen.png" alt = "Final 3D printed prototype in closed and open positions" class="img-fluid" %}
     </div>
 </div>
 
