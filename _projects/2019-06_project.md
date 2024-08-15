@@ -2,7 +2,7 @@
 layout: page
 title: Delta and mobile robot   
 img: assets/img/PizzaRobot/placetopping.gif 
-description: design, prototyping, robotics, course  
+description: design, prototyping, course (MIT)  
 category: 2019
 ---
 <div class="row">
@@ -24,7 +24,28 @@ This project had several goals:
 - Design and implement an end effector for the delta robot
 - Develop software for the "chef" delta robot to identify, pick up, and place "toppings" on a "pizza"
 - Develop software for the "waiter" mobile robot to navigate a board to deliver the "pizza"
-- Develop integration and communication so the delta robot transfers the finished "pizza" to the mobile robot for delivery 
+- Develop integration and communication so the delta robot transfers the finished "pizza" to the mobile robot for delivery
+
+## <u>Outcomes</u>
+The final system worked on a rough level, but unfortunately, I can't find a video of the full system or even any videos we took in the later parts of the project, so I guess I can't provide full proof of that! Here are videos of the robot functioning at least in parts during testing (Last GIF is 2x speed):
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/PizzaRobot/pickuptopping.gif" alt = "Delta robot picks up and places a fake pepperoni" class="img-fluid" %}
+    </div>
+    <div class="col-sm-7 mt-3 mt-md-0">
+        <div class="row">
+            <div class="col-sm mt-3 mt-md-0">
+                {% include figure.html path="assets/img/PizzaRobot/transferpizza.gif" alt = "Delta robot transfers pizza" class="img-fluid" %}
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm mt-3 mt-md-0">
+                {% include figure.html path="assets/img/PizzaRobot/mobilerobotrun.gif" alt = "Mobile robot passes waiter obstacle and reaches end" class="img-fluid" %}
+            </div>
+        </div>
+    </div>
+</div> 
 
 ## <u>Design Process</u>
 The first step was to build the delta robot. We were provided with a base design, which we modified for improvement. We redesigned the frame so that
@@ -72,28 +93,6 @@ placing toppings and had transferred the pizza. On the right is a diagram of the
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/PizzaRobot/robotsoftware.jpg" alt = "Block diagram of robot system software architecture." class="img-fluid" %}
-    </div>
-</div>
-
-## <u>Outcomes</u>
-The final system worked on a rough level, but unfortunately, I can't find a video of the full system or even any videos we took in the later parts of the project, 
-so I guess I can't provide full proof of that! Here are videos of the robot functioning at least in parts during testing (Last GIF is 2x speed):
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/PizzaRobot/pickuptopping.gif" alt = "Delta robot picks up and places a fake pepperoni" class="img-fluid" %}
-    </div>
-    <div class="col-sm-7 mt-3 mt-md-0">
-        <div class="row">
-            <div class="col-sm mt-3 mt-md-0">
-                {% include figure.html path="assets/img/PizzaRobot/transferpizza.gif" alt = "Delta robot transfers pizza" class="img-fluid" %}
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-sm mt-3 mt-md-0">
-                {% include figure.html path="assets/img/PizzaRobot/mobilerobotrun.gif" alt = "Mobile robot passes waiter obstacle and reaches end" class="img-fluid" %}
-            </div>
-        </div>
     </div>
 </div>
 
