@@ -57,8 +57,9 @@ We developed 2 primary interactions:
 </div>
 
 The video below shows the initial version of our interactions, which were presented at CHI 2022 as Late Breaking Work:
+<div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3K3QM1NFHqU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</div>
 
 ## <u>Iterating on the interactions</u>
 Based on pilot testing of people using the interactions, we improved the interactions and added a few additional features that could be evaluated in a user study.
@@ -71,7 +72,9 @@ Based on pilot testing of people using the interactions, we improved the interac
 
 Using those insights, the interactions were refined and then used in a user study (presented at ICED '23 and published). An example of using the refined interactions to narrow down to a desired design is shwon below:  
 
+<div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VCn3S_4W6OU?si=t_RMg_Vgl76Re6J_" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 **Skip to Timestamp 01:39 - 02:29** for a demonstration of the Direct Manipulation Filter, which allows gestural specification of geometry  
 **Skip to Timestamp 04:43 - 05:24** for a demonstration of the Functionality Filter, which allows the placement of objects to specify how the design will function (how the shelf will hold items)  
