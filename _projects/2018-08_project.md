@@ -31,6 +31,10 @@ would take to apply the Solar Skin.
 
 **The goal was that a solar panel installer would be able to apply the Solar Skin to the solar panel bubble-free quickly and as an individual operation.**
 
+## <u>Outcomes</u>
+The final prototype was an applicator that could allow a single person to apply the Solar Skin to the solar panel, bubble-free, in about 30 seconds. This was more than 10 times shorter than the previous method. In addition, it was adjustable to the frame and did not require water while still being accurate in alignment. A demo is in the video below:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HJIptpXXuyg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## <u>Design Process</u>
 There was an initial rough model in place that utilized roller blade wheels, a cardboard tube, and spring hinges to form a machine that could roll
 along the panel to create even pressure for application. However, this was not successful because the solar panel glass had a slight curve to it.
@@ -48,11 +52,6 @@ I sketched several versions of a new applicator machine and discussed them with 
 I cut, machined, and assembled parts as needed and created the first prototype. Testing revealed several improvements that could be made and I updated the prototype to reflect these
 changes. Making this first prototype revealed insights that led to a substantially modified, but similar in concept, design for the second prototype. The sketching and material procurement
 process was repeated and finally, it was time to test. 
-
-## <u>Outcomes</u>
-The final prototype was an applicator that could allow a single person to apply the Solar Skin to the solar panel, bubble-free, in about 30 seconds. This was more than 10 times shorter
-than the previous method. In addition, it was adjustable to the frame and did not require water while still being accurate in alignment. A demo is in the video below:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HJIptpXXuyg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## <u>Reflection</u>
 This was my first time applying design skills in the setting of a startup (and actually, a company in general). One difficulty was the lack of access to the people who would be using the device, as they were the target customers to begin with! As such, only an initial prototype could be made to see if the functionality of the device was feasible, while other user-related considerations had to be left to future development. Overall, it was interesting and challenging to work with such a small team, as I had to work quite independently in both designing and building the prototype. However, this was rewarding in the end!
