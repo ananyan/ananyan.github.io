@@ -2,7 +2,7 @@
 layout: page
 title: Designing for emerging tech
 img: assets/img/DET/CuriousAndFurious.gif
-description: design, prototyping, course (Berkeley)
+description: design, course (Berkeley)
 category: 2019
 ---
 <div class="row">
