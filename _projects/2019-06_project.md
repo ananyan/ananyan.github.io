@@ -2,7 +2,7 @@
 layout: page
 title: Delta and mobile robot   
 img: assets/img/PizzaRobot/placetopping.gif 
-description: design, prototyping, course (MIT)  
+description: design, course (MIT)  
 category: 2019
 ---
 <div class="row">
