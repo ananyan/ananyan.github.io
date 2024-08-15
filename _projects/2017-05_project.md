@@ -12,13 +12,13 @@ category: 2017
 </div>
 
 ## <u>Overview</u>
-**My Role:** My role involved conducting the user interviews, developing concepts, laser cutting and testing the initial prototypes, and assembling the final 3D printed version    
+**My Role:** Conducting user interviews, developing concepts, laser cutting and testing the initial prototypes, and assembling the final 3D printed version    
 **Tools/Skills:** User Interviews, User Testing, 3D Printing, Laser Cutting  
 **Timeline:** January - May 2017  
 **Team:** 4 (MechE) 
 
-## <u>Goal</u>
-Burt's image is obscured for privacy purposes. 
+## <u>Context</u>
+Burt, a local Boston community member, reached out to our Design for America team to help solve one of the challenges he was facing in his life. Burt's image is obscured for privacy purposes. 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/PackageOpener/Burt.png" alt = "Burt's background. Retired professor with doctorate in rehabilition. Power wheelchair user. Limited range of motion. Fine finger dexterity limitations (FFD)." class="img-fluid" %}
@@ -32,6 +32,7 @@ Burt's image is obscured for privacy purposes.
 </div>
 We found that Burt would gain a significant amount of independence if he was able to open packages by himself when he was not at home. 
 
+## <u>Goal</u>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/PackageOpener/HMW.png" alt = "How can we design a pocket knife with FFD limitations in mind?" class="img-fluid" %}
@@ -85,7 +86,7 @@ After synthesizing information from Burt, we came up with the final design.
 </div>
 
 ## <u>Reflection</u>
-This project was eye-opening in several ways (done as part of Design for America for a local Boston community member). First, I gained an appreciation for rapid prototyping and how it could be used to learn for the actual user we were designing with. By allowing Burt to use the quickly made prototypes, we were able to synthesize what aspects of each were important to him. For example, we were able to quickly see if he had trouble using some of the opening mechanisms. Second, although we created this design for a singular user, it did make us think about universal design more critically. For instance, even without limited FFD, a compact and simple
+This project was eye-opening in several ways. First, I gained an appreciation for rapid prototyping and how it could be used to learn for the actual user we were designing with. By allowing Burt to use the quickly made prototypes, we were able to synthesize what aspects of each were important to him. For example, we were able to quickly see if he had trouble using some of the opening mechanisms. Second, although we created this design for a singular user, it did make us think about universal design more critically. For instance, even without limited FFD, a compact and simple
 device like this might be used more easily than a traditional pocket knife or letter opener. Overall, the project allowed me to really listen to Burt's concerns and perspective to inform the design, which is critical when designing inclusively. 
 
 
