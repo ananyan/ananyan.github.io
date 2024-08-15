@@ -2,7 +2,7 @@
 layout: page
 title: Removable platform for gait trainer
 img: assets/img/GaitTrainer/PlatformTest.jpg
-description: design, prototyping, assistive tech
+description: design, prototyping
 category: 2019
 ---
 <div class="row">
@@ -24,6 +24,17 @@ This would increase the ease of transportation so that he would not have to be c
 At the same time, the platform would be removable, allowing our user, Julian, to stand within the gait trainer when desired. 
 The platform was designed to attach to Julian's existing outdoor gait trainer with no permanent modifications to the frame.
 
+## <u>Outcomes</u>
+The photo below shows the final prototype of the removable platform. 
+<div class="row">
+    <div class="w-50 p-3">
+        {% include figure.html path="assets/img/GaitTrainer/Final.jpg" alt = "Final prototype of platform and attachment installed on Julian's gait trainer." class="img-fluid" %}
+    </div>
+</div>
+We tested the platform with Julian, though testing was limited so we could not assure the durability of the prototype. The final prototype
+was given to Julian (we asked for permission to include this video).  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cS5NEhcHEIk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## <u>Design Process</u>
 The challenge of this project was attaching to the existing frame, which was an unusual shape. In addition, we did not have 
 constant access to the frame during prototyping. For this reason, the frame was rebuilt in CAD and the design was developed using 
@@ -39,17 +50,6 @@ the 3D model.
 
 In addition, in order to make sure the design was accessible, we tried to use off-the-shelf parts and minimize the use
 of any special tools. A detailed description of the process can be found in this <a href="https://www.instructables.com/id/Removable-Platform-for-Gait-Trainer/" target="_blank">Instructable</a>.
- 
-## <u>Outcomes</u>
-The photo below shows the final prototype of the removable platform. 
-<div class="row">
-    <div class="w-50 p-3">
-        {% include figure.html path="assets/img/GaitTrainer/Final.jpg" alt = "Final prototype of platform and attachment installed on Julian's gait trainer." class="img-fluid" %}
-    </div>
-</div>
-We tested the platform with Julian, though testing was limited so we could not assure the durability of the prototype. The final prototype
-was given to Julian (we asked for permission to include this video).  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cS5NEhcHEIk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## <u>Reflection</u>
 This quick hackathon was a challenge because of the short amount of time we had to build our final solution, despite having some time ahead of time to work with Julian's family to determine exactly what they needed and the challenges they were facing. Although we were able to come up with a relatively good solution, we could have made something of higher quality that would last longer given some more time. I think that this is a challenge of working with assistive technology since you want to deliver something that is useful to the people who you are working with, who are giving their valuable time and energy as well. However, it is not always possible to provide continued support or assistance with maintenance, which may lead to the hacked solution being discarded. Hopefully, Julian was able to use the platform at least for some amount of time!
