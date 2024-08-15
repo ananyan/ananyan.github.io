@@ -2,7 +2,7 @@
 layout: page
 title: Motorized joystick for power wheelchair
 img: assets/img/Joystick/Version1.jpg
-description: design, prototyping, course (MIT)
+description: design, course (MIT)
 category: 2018
 ---
 <div class="row">
