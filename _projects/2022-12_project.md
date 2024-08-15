@@ -12,7 +12,7 @@ category: 2022
 </div>
 
 ## <u>Overview</u>
-**My Role:** I contributed to all aspects of the project both as a researcher and developer by: generating the designs and creating the pipeline to transfer them between the 3D modeling software and the VR application, creating the VR environments, setting up the data logging for the user study, designing the user study, administering the user study, analyzing the quantitative and qualitative behavioral data  
+**My Role:** Contributions both as a researcher and developer: generating the designs and creating the pipeline to transfer them between the 3D modeling software and the VR application, creating the VR environments, setting up the data logging for the user study, designing the user study, administering the user study, analyzing the quantitative and qualitative behavioral data  
 **Tools/Skills:** User Study, Unity, Rhino3D/Grasshopper, C-Sharp, Python   
 **Timeline:** August 2021 - December 2022 (17 months)    
 **Team:** 5 (MechE, Design, HCI) 
