@@ -7,22 +7,31 @@ category: 2021
 ---
 <div class="row">
     <div class="w-50 p-3" style="margin:auto">
-        {% include figure.html path="assets/img/IDR3/datavisual.jpg" alt = "Glowing globe representing information and data" class="img-fluid" %}
+        {% include figure.html path="assets/img/IDR3/finalprototype.jpg" alt = "Visual of a map with tagged disaster incidents" class="img-fluid" %}
     </div>
 </div>
 
 ## <u>Overview</u>
-**My Role:** I contributed to this project by conducting several stakeholder interviews and leading the development of the prototype for NLP-based tagging and spatial mapping   
+**My Role:** Conducting several stakeholder interviews and leading the development of the prototype for NLP-based tagging and spatial mapping   
 **Tools/Skills:** User Interviews, Natural Language Processing, Speech Recognition, Data Visualization, Python, Google Cloud API    
 **Timeline:** January - May 2021 (5 months)    
 **Team:** 5 (MechE, Cognitive Science, Data Science, Business)   
 
+## <u>Context</u>
+Military branches, such as the US Navy, are often tasked with emergency response during natural disasters. However, in addition to the military, the government agency FEMA, local police and firefighters, and even civilians must work together to address rapidly shifting incidents within an environment constrained by latency and low bandwidth. Therefore, emergency responders across the board face the challenge of ensuring that information from a wide variety of sources is properly organized, prioritized, and acted upon. 
+
+<div class="row">
+    <div class="w-50 p-3" style="margin:auto">
+        {% include figure.html path="assets/img/IDR3/datavisual.jpg" alt = "Glowing globe representing information and data" class="img-fluid" %}
+    </div>
+</div>
+
 ## <u>Goal</u>
-For this project, we focused on improving information sharing for decision-makers in disaster response scenarios, working with NIWC Pacific.
+For this project, we focused on how technology could be used to improve information sharing for decision-makers in disaster response scenarios, working with Naval Information Warfare Center (NIWC) Pacific.
 See intro video [here](https://www.youtube.com/watch?v=Ht6Z9KFl1yE). 
 
 ## <u>Outcomes</u>
-1) Interviewed several stakeholders to understand the difficulties of communicating and synthesizing information during and after a disaster
+1) Pinpointed the difficulties of communicating and synthesizing information during and after a disaster through stakeholder interviews
 
 2) Developed a mockup for a dashboard that enables automatic data organization and visualization for decision makers
 
