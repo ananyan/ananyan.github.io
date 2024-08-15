@@ -2,7 +2,7 @@
 layout: page
 title: Removable platform for gait trainer
 img: assets/img/GaitTrainer/PlatformTest.jpg
-description: design, prototyping
+description: design
 category: 2019
 ---
 <div class="row">
