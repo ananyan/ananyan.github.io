@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Multimodal tagging for disaster response
-img: assets/img/IDR3/datavisual.jpg
+img: assets/img/IDR3/finalprototype.jpg
 description: design, course (Berkeley)
 category: 2021
 ---
@@ -36,7 +36,9 @@ See intro video [here](https://www.youtube.com/watch?v=Ht6Z9KFl1yE).
 2) Developed a mockup for a dashboard that enables automatic data organization and visualization for decision makers
 
 3) Developed a prototype for tagging unstructured audio and text from disaster-related incidents, then mapping them geospatially. The integrated example of audio and text tagging and mapping is shown below:
+<div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v3BKnIvi7BM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## <u>Design Process</u>
 <div class="row">
