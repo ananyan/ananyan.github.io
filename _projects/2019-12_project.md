@@ -2,7 +2,7 @@
 layout: page
 title: Designing for emerging tech
 img: assets/img/DET/CuriousAndFurious.gif
-description: design, prototyping, interactive devices, course
+description: design, prototyping, course (Berkeley)
 category: 2019
 ---
 <div class="row">
@@ -12,13 +12,13 @@ category: 2019
 </div>
 
 ## <u>Overview</u>
-**My Role:** I contributed to aspects related to VR Development, computer vision, mechanical design, and speech recognition  
+**My Role:** I contributed to VR Development, computer vision, mechanical design, and speech recognition  
 **Tools/Skills:** Raspberry Pi, Python, Google Cloud API, Unity, CAD (Fusion 360), 3D Printing   
 **Timeline:** August - December 2019 (2 weeks  each)  
 **Team:** 4 each (MechE, Computer Science, HCI, Psychology, Architecture) 
 
 ## <u>Goal</u>
-The purpose of these projects was to design interactive devices using certain emerging technologies as creative materials. 
+The purpose of these projects was to design interactive devices using certain emerging technologies as creative materials. The outcomes of each project are shown below.
 
 ## <u>Extra-Real: Virtual Reality (using Unity on Oculus Quest)
 ### **An Ocean's Story** 
