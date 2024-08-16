@@ -30,7 +30,15 @@ Design an applicator such that a solar panel installer can apply the Solar Skin 
 - As an individual operation
 
 ## <u>Outcomes</u>
-The final prototype was an applicator that could allow a single person to apply the Solar Skin to the solar panel, bubble-free, in about 30 seconds. This was more than 10 times shorter than the previous method. In addition, it was adjustable to the frame and did not require water while still being accurate in alignment. A demo is in the video below:
+The final prototype was an applicator that could allow a single person to apply the Solar Skin to the solar panel, bubble-free, in about 30 seconds, achieving the following improvements:
+
+1) Application time 10 times shorter than the previous application method
+   
+2) Adjustable to different solar panel frame sizes
+   
+3) Does not require water for application, while still being accurate in alignment
+
+A demo is in the video below:
 <div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HJIptpXXuyg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
