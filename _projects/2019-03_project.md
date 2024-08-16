@@ -18,13 +18,13 @@ category: 2019
 **Team:** 3 (MechE, AerospaceE, Chemistry) 
 
 ## <u>Context</u>
-We worked with the family of Julian, who used a gait trainer as an assistive mobility device. Conversations with them revealed that while Julian could use the gait trainer to independently stand at times, his caregiver faced the challenge of having to constantly lift him up and down during transportation. 
+We worked with the family of Julian, who used a gait trainer as an assistive mobility device. Conversations with them revealed that while Julian could use the gait trainer to independently stand at times, his caregiver faced the challenge of having to constantly lift him up and down during transportation. Having a way to allow him to stand or be seated in his gait trainer would increase the ease of transportation (the trainer could be rolled with him in it). At the same time, a solution would need to allow him to stand within the gait trainer when desired. 
 
 ## <u>Goal</u>
-**The purpose of this project was to design a base to support Julian's feet and allow him to be in a more seated position.** This would increase the ease of transportation so that he would not have to be constantly lifted up and down by others to move around (the trainer could be rolled instead). At the same time, the platform would be removable, allowing him to stand within the gait trainer when desired. The platform was designed to attach to Julian's existing outdoor gait trainer with no permanent modifications to the frame so that it could be removed if needed.
+Design a base to support Julian's feet and allow him to be in a more seated position
 
 ## <u>Outcomes</u>
-The photo below shows the final prototype of the removable platform. 
+The photo below shows the final prototype of the removable platform, designed to attach to Julian's existing outdoor gait trainer with no permanent modifications to the frame. 
 <div class="row">
     <div class="w-50 p-3">
         {% include figure.html path="assets/img/GaitTrainer/Final.jpg" alt = "Final prototype of platform and attachment installed on Julian's gait trainer." class="img-fluid" %}
