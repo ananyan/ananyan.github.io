@@ -36,7 +36,7 @@ Design a base to support Julian's feet and allow him to be in a more seated posi
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cS5NEhcHEIk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
   
-4) Gave the final prototype to Julian and his family 
+3) Gave the final prototype to Julian and his family 
 
 ## <u>Design Process</u>
 The challenge of this project was attaching to the existing frame, which was an unusual shape. In addition, we did not have constant access to the frame during prototyping. For this reason, the frame was rebuilt in CAD and the design was developed using the 3D model. 
