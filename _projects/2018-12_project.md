@@ -14,7 +14,7 @@ category: 2018
 ## <u>Overview</u>
 **My Role:** Interviewing/observing Rhonda initially and testing with her, designing and manufacturing the mechanical attachments that interfaced between the motor and Rhonda's joystick arm    
 **Tools/Skills:** User Interviews, User Testing, Motor Selection, Machining  
-**Time:** September - May 2019 (8 months)    
+**Timeline:** September - May 2019 (8 months)    
 **Team:** 4 (MechE, EE)   
 
 ## <u>Context</u>
