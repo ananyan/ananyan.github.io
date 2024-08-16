@@ -25,6 +25,12 @@ category: 2019
 - Develop integration and communication so the delta robot transfers the finished "pizza" to the mobile robot for delivery
 
 ## <u>Outcomes</u>
+1) Manufactured the frame and mechanism for a delta robot
+2) Designed a granular jamming end effector to pick up items with the delta robot
+3) Used computer vision to identify toppings based on color
+4) Developed navigation software for the delivery robot
+5) Integrated the systems to enable collaboration between the two robots
+
 <div class="row justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/PizzaRobot/pickuptopping.gif" alt = "Delta robot picks up and places a fake pepperoni" class="img-fluid" %}
@@ -45,9 +51,7 @@ category: 2019
 
 ## <u>Design Process</u>
 The first step was to build the delta robot. We were provided with a base design, which we modified for improvement. We redesigned the frame so that
-it would be more stable and created a fixture for the table so that it would be placed in the same place every time. In addition, we wanted our workspace
-to be larger than what the base design could reach. To do this, we changed the length of the linkages, used ball joints with a larger angular range, and decreased
-the size of the end plate. 
+it would be more stable and created a fixture for the table so that it would be placed in the same place every time. In addition, we wanted our workspace to be larger than what the base design could reach. To do this, we changed the length of the linkages, used ball joints with a larger angular range, and decreased the size of the end plate. 
 
 In the left column is the calculated workspace for the (top) original ball joints (20 degrees) and (bottom) new ball joints (55 degrees). We also redesigned the spacers used to attach the linkages and joints together to reduce friction. The final robot is pictured on the right.
 <div class="row">
@@ -68,8 +72,7 @@ In the left column is the calculated workspace for the (top) original ball joint
     </div>
 </div>
 
-For the end effector, we decided on a granular jamming system, which would allow us to relatively easily pick up the various topping shapes and sizes (compared to a 
-motor-actuated gripper). This granular jamming end effector was controlled using a solenoid valve and vacuum pump as shown below. The physical device was fabricated using a balloon, coffee grounds, and a 3D printed housing. 
+For the end effector, we decided on a granular jamming system, which would allow us to relatively easily pick up the various topping shapes and sizes (compared to a motor-actuated gripper). This granular jamming end effector was controlled using a solenoid valve and vacuum pump as shown below. The physical device was fabricated using a balloon, coffee grounds, and a 3D printed housing. 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/PizzaRobot/endeffectorlogic.jpg" alt = "Diagram showing connections between valve, end effector, and limit switches." class="img-fluid" %}
