@@ -21,7 +21,7 @@ category: 2019
 Technology, from algorithms that can recognize faces, voices, or gestures to robots that can share a workspace with humans, has the potential to fundamentally change how humans experience the world they live in. It is important to have the technical fluency and creativity to design solutions that embed these technological advances into society's daily activities in ways that improve the quality of life.
 
 ## <u>Goal</u>
-The purpose of these projects was to design speculative experiences and devices using emerging technologies, such as mixed reality, machine learning, and robotics, as creative materials. The outcomes of each project are shown below.
+Design speculative experiences and devices using emerging technologies, such as mixed reality, machine learning, and robotics, as creative materials
 
 ## <u>Extra-Real: Virtual Reality (using Unity on Oculus Quest)
 ### **An Ocean's Story** 
