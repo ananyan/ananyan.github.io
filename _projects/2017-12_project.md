@@ -18,9 +18,11 @@ category: 2017
 **Team:** 5 (MechE) 
 
 ## <u>Goal</u>
-The goal of this project was to design a yo-yo for manufacturing at scale. Due to a shared love of coffee shops, my team designed a yo-yo based on a latte. The yo-yo required a base with a fitted metal shim for weighting, a snap-fit between the "coffee" and the base, a fit between an injection molded "coffee" and the thermoformed part "foam", and a thermoformed "cup." 
+Design a yo-yo for manufacturing at scale  
 
 ## <u>Outcomes</u>
+Due to a shared love of coffee shops, my team designed a yo-yo based on a latte. The yo-yo required a base with a fitted metal shim for weighting, a snap-fit between the "coffee" and the base, a fit between an injection molded "coffee" and the thermoformed part "foam", and a thermoformed "cup."
+
 The final yo-yo is shown with and without its "cup" below. The yo-yos were subject to a drop test to ensure that they did not fall apart.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
