@@ -26,7 +26,8 @@ Virtual reality enables the creation of realistic environments and the ability t
 </div>
 
 ## <u>Goal</u>
-The goal of this work was to prototype interactions that leveraged unique aspects of VR to explore a large-scale design space, as well as evaluate the utility of VR for such a task in comparison to screen-based interfaces.
+- Prototype interactions that leverage unique aspects of VR to explore a large-scale design space
+- Evaluate the utility of VR for such a task in comparison to screen-based interfaces
 
 ## <u>Outcomes</u>
 1) Developed interactions that allowed users to narrow down from a space of over 3000 options to a final option in a short amount of time (~15 minutes)
