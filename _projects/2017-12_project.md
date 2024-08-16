@@ -29,7 +29,7 @@ The final yo-yo is shown with and without its "cup" below. The yo-yos were subje
         {% include figure.html path="assets/img/Latte/FinalYoyo.jpeg" alt = "Final manufactured yoyo without cup" class="img-fluid h-100" %}
     </div>
     <div class="col">
-        {% include figure.html path="assets/img/Latte/WithCup.jpeg" alt = "Final manufactured yoyo inside thermoformed cup" class="img-fluid h-100" %}
+        {% include figure.html path="assets/img/Latte/WithCup.jpeg" alt = "Final manufactured yoyo inside thermoformed cup" class="img-fluid h-75" %}
     </div>
 </div>
 
