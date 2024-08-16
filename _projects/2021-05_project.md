@@ -18,7 +18,7 @@ category: 2021
 **Team:** 5 (MechE, Cognitive Science, Data Science, Business)   
 
 ## <u>Context</u>
-Military branches, such as the US Navy, are often tasked with emergency response during natural disasters. However, in addition to the military, the government agency FEMA, local police and firefighters, and even civilians must work together to address rapidly shifting incidents within an environment constrained by latency and low bandwidth. Therefore, emergency responders across the board face the challenge of ensuring that information from a wide variety of sources is properly organized, prioritized, and acted upon. 
+Military branches, such as the US Navy, are often tasked with emergency response during natural disasters. However, in addition to the military, the government agency FEMA, local police and firefighters, and even civilians must work together to address rapidly shifting incidents within an environment constrained by latency and low bandwidth. Therefore, emergency responders across the board face the challenge of ensuring that information from a wide variety of sources is properly organized, prioritized, and acted upon. We worked with Naval Information Warfare Center (NIWC) Pacific to tackle this challenge (see intro video [here](https://www.youtube.com/watch?v=Ht6Z9KFl1yE)) 
 
 <div class="row">
     <div class="w-50 p-3" style="margin:auto">
@@ -27,8 +27,7 @@ Military branches, such as the US Navy, are often tasked with emergency response
 </div>
 
 ## <u>Goal</u>
-For this project, we focused on how technology could be used to improve information sharing for decision-makers in disaster response scenarios, working with Naval Information Warfare Center (NIWC) Pacific.
-See intro video [here](https://www.youtube.com/watch?v=Ht6Z9KFl1yE). 
+Use technology to improve information sharing for decision-makers in disaster response scenarios 
 
 ## <u>Outcomes</u>
 1) Pinpointed the difficulties of communicating and synthesizing information during and after a disaster through stakeholder interviews
