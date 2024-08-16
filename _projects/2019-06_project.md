@@ -12,7 +12,7 @@ category: 2019
 </div>
 
 ## <u>Overview</u>
-**Roles:** My primary roles were in building the delta robot and developing the software for the mobile robot   
+**Roles:** Building the delta robot, developing the software for the mobile robot   
 **Tools/Skills:** ROS, Python, CAD (SolidWorks), Computer Vision, Hardware   
 **Timeline:** February - June 2019 (5 months)    
 **Team:** 9 (MechE, Computer Science)
@@ -83,10 +83,7 @@ motor-actuated gripper). This granular jamming end effector was controlled using
     </div>
 </div>
 
-Using a camera mounted to the top of the frame, software was developed using OpenCV to detect the colors and shapes of the toppings, as well as the locations in which
-they should be dropped (left). Software was developed for the mobile robot to navigate the boards based on dead reckoning as well as april tags and computer vision for course correction. Finally, the two robots
-communicated with each other through ROS nodes. The mobile robot would independently reach the table, but only continue on its path to the end once the delta robot was finished 
-placing toppings and had transferred the pizza. On the right is a diagram of the system.
+Using a camera mounted to the top of the frame, software was developed using OpenCV to detect the colors and shapes of the toppings, as well as the locations in which they should be dropped (left). Software was developed for the mobile robot to navigate the boards based on dead reckoning as well as april tags and computer vision for course correction. Finally, the two robots communicated with each other through ROS nodes. The mobile robot would independently reach the table, but only continue on its path to the end once the delta robot was finished placing toppings and had transferred the pizza. On the right is a diagram of the system.
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/PizzaRobot/toppingcv.png" alt = "Top view of pizza and toppings with green outlines and color labels." class="img-fluid" %}
