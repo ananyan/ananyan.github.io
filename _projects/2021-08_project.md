@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Measuring product similarity
+title: Measures of product similarity
 description: research
 category: 2021
 ---
