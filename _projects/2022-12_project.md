@@ -2,7 +2,7 @@
 layout: page
 title: Design space exploration in VR
 img: assets/img/ICVR/generatiVRimage.png
-description: research, design
+description: design, research
 category: 2022
 ---
 <div class="row">
