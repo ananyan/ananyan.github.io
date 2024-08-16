@@ -14,7 +14,7 @@ category: 2018
 ## <u>Overview</u>
 **My Role:** Mechanical engineering intern   
 **Skills:** Thin-film Application, CAD (SolidWorks), Machining  
-**Time:** June - August 2018 (3 months)    
+**Timeline:** June - August 2018 (3 months)    
 **Team:** N/A 
 
 ## <u>Context</u>
