@@ -90,7 +90,7 @@ Using a camera mounted to the top of the frame, software was developed using Ope
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/PizzaRobot/toppingcv.png" alt = "Top view of pizza and toppings with green outlines and color labels." class="img-fluid" %}
     </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-7 mt-3 mt-md-0">
         {% include figure.html path="assets/img/PizzaRobot/robotsoftware.jpg" alt = "Block diagram of robot system software architecture." class="img-fluid" %}
     </div>
 </div>
