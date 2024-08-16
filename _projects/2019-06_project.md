@@ -26,28 +26,31 @@ category: 2019
 
 ## <u>Outcomes</u>
 1) Manufactured the frame and mechanism for a delta robot
-2) Designed a granular jamming end effector to pick up items with the delta robot
+   
+2) Designed a granular jamming end effector
+    
 3) Used computer vision to identify toppings based on color
-4) Developed navigation software for the delivery robot
-5) Integrated the systems to enable collaboration between the two robots
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-5 mt-3 mt-md-0">
+   
+4) Integrated system to pick up and place items with the delta robot
+<div class="row">
+    <div class="w-50 p-3" style="margin:auto">
         {% include figure.html path="assets/img/PizzaRobot/pickuptopping.gif" alt = "Delta robot picks up and places a fake pepperoni" class="img-fluid" %}
     </div>
-    <div class="col-sm-7 mt-3 mt-md-0">
-        <div class="row">
-            <div class="col-sm mt-3 mt-md-0">
-                {% include figure.html path="assets/img/PizzaRobot/transferpizza.gif" alt = "Delta robot transfers pizza" class="img-fluid" %}
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-sm mt-3 mt-md-0">
-                {% include figure.html path="assets/img/PizzaRobot/mobilerobotrun.gif" alt = "Mobile robot passes waiter obstacle and reaches end" class="img-fluid" %}
-            </div>
-        </div>
+</div>
+   
+7) Developed navigation software for the delivery robot
+<div class="row">
+    <div class="w-50 p-3" style="margin:auto">
+        {% include figure.html path="assets/img/PizzaRobot/mobilerobotrun.gif" alt = "Mobile robot passes waiter obstacle and reaches end" class="img-fluid" %}
     </div>
-</div> 
+</div>
+   
+9) Integrated the systems to enable collaboration between the two robots
+<div class="row">
+    <div class="w-50 p-3" style="margin:auto">
+        {% include figure.html path="assets/img/PizzaRobot/transferpizza.gif" alt = "Delta robot transfers pizza" class="img-fluid" %}
+    </div>
+</div>
 
 ## <u>Design Process</u>
 The first step was to build the delta robot. We were provided with a base design, which we modified for improvement. We redesigned the frame so that
