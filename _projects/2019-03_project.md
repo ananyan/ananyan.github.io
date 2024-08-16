@@ -12,17 +12,16 @@ category: 2019
 </div>
 
 ## <u>Overview</u>
-**My Role:** I led this project and conducted the initial interviews as well as a majority of the manufacturing of the final device    
+**My Role:** Leading project, conducting the initial interviews and prototyping, manufacturing of the final device    
 **Tools/Skills:** User Interviews, User Testing, CAD (Fusion 360), Material Selection  
 **Timeline:** March 2019 (1 weekend as part ATHack 2019)    
 **Team:** 3 (MechE, AerospaceE, Chemistry) 
 
+## <u>Context</u>
+We worked with the family of Julian, who used a gait trainer as an assistive mobility device. Conversations with them revealed that while Julian could use the gait trainer to independently stand at times, his caregiver faced the challenge of having to constantly lift him up and down during transportation. 
+
 ## <u>Goal</u>
-**The purpose of this project was to design a base to support our user's feet and allow him to be in a more seated position.**
-   
-This would increase the ease of transportation so that he would not have to be constantly lifted up and down by others to move around. 
-At the same time, the platform would be removable, allowing our user, Julian, to stand within the gait trainer when desired. 
-The platform was designed to attach to Julian's existing outdoor gait trainer with no permanent modifications to the frame.
+**The purpose of this project was to design a base to support Julian's feet and allow him to be in a more seated position.** This would increase the ease of transportation so that he would not have to be constantly lifted up and down by others to move around (the trainer could be rolled instead). At the same time, the platform would be removable, allowing him to stand within the gait trainer when desired. The platform was designed to attach to Julian's existing outdoor gait trainer with no permanent modifications to the frame so that it could be removed if needed.
 
 ## <u>Outcomes</u>
 The photo below shows the final prototype of the removable platform. 
@@ -32,13 +31,13 @@ The photo below shows the final prototype of the removable platform.
     </div>
 </div>
 We tested the platform with Julian, though testing was limited so we could not assure the durability of the prototype. The final prototype
-was given to Julian (we asked for permission to include this video).  
+was given to Julian (we asked for permission to include this video). 
+<div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cS5NEhcHEIk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## <u>Design Process</u>
-The challenge of this project was attaching to the existing frame, which was an unusual shape. In addition, we did not have 
-constant access to the frame during prototyping. For this reason, the frame was rebuilt in CAD and the design was developed using 
-the 3D model. 
+The challenge of this project was attaching to the existing frame, which was an unusual shape. In addition, we did not have constant access to the frame during prototyping. For this reason, the frame was rebuilt in CAD and the design was developed using the 3D model. 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/GaitTrainer/CAD.jpg" alt = "Rendering of CAD for gait trainer with attachment to slide platform in." class="img-fluid" %}
