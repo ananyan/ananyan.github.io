@@ -25,8 +25,12 @@ Due to a shared love of coffee shops, my team designed a yo-yo based on a latte.
 
 The final yo-yo is shown with and without its "cup" below. The yo-yos were subject to a drop test to ensure that they did not fall apart.
 <div class="row">
+    <div class="col">
         {% include figure.html path="assets/img/Latte/FinalYoyo.jpeg" alt = "Final manufactured yoyo without cup" class="img-fluid h-100" %}
+    </div>
+    <div class="col">
         {% include figure.html path="assets/img/Latte/WithCup.jpeg" alt = "Final manufactured yoyo inside thermoformed cup" class="img-fluid h-100" %}
+    </div>
 </div>
 
 ## <u>Design Process</u>
