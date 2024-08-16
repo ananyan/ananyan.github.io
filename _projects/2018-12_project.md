@@ -24,16 +24,23 @@ Multiple sclerosis can cause loss of strength in the arms. For power wheelchair 
 Create an improved attachment to motorize the retracting of the joystick for a power wheelchair that can be adapted to various users
 
 ## <u>Outcomes</u>
-The initial version and the modified version are described in detail in this <a href="https://www.instructables.com/id/Developing-a-Motorized-Retractable-Joystick/" target="_blank">Instructable</a> which was featured on the website. The prototype was given to our user Rhonda. 
+1) Developed an improved mechanism to motorize joystick retraction on a power wheelchair 
 
+2) Modified the prototype to account for varying loads
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="w-50 p-3" style="margin:auto">
         {% include figure.html path="assets/img/Joystick/FinalVersion.jpg" alt = "Final version of motor attachment with new, stiffer linkage" class="img-fluid" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+</div>
+  
+3) Installed the prototype on Rhonda's wheelchair for use
+<div class="row">
+    <div class="w-50 p-3" style="margin:auto">
         {% include figure.html path="assets/img/Joystick/FinalVersionInstalled.jpg" alt = "Final prototype installed on Rhonda's wheelchair for testing" class="img-fluid" %}
     </div>
 </div>
+    
+4) Documented the initial version and the modified version in detail in this <a href="https://www.instructables.com/id/Developing-a-Motorized-Retractable-Joystick/" target="_blank">Instructable</a> which was featured on the website
 
 ## <u>Design Process</u>
 After meeting with Rhonda, our user, several times, we developed a first prototype. This process is shown in the video below.
