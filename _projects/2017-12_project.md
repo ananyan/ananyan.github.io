@@ -29,9 +29,6 @@ The final yo-yo is shown with and without its "cup" below. The yo-yos were subje
         {% include figure.html path="assets/img/Latte/FinalYoyo.jpeg" alt = "Final manufactured yoyo without cup" class="img-fluid h-100" %}
         {% include figure.html path="assets/img/Latte/WithCup.jpeg" alt = "Final manufactured yoyo inside thermoformed cup" class="img-fluid h-100" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Latte/WithCup.jpeg" alt = "Final manufactured yoyo inside thermoformed cup" class="img-fluid" %}
-    </div>
 </div>
 
 ## <u>Design Process</u>
