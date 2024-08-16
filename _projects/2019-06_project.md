@@ -18,8 +18,6 @@ category: 2019
 **Team:** 9 (MechE, Computer Science)
 
 ## <u>Goal</u>
-This project had several goals:
-
 - Build a delta robot from a given base design
 - Design and implement an end effector for the delta robot
 - Develop software for the "chef" delta robot to identify, pick up, and place "toppings" on a "pizza"
@@ -27,8 +25,6 @@ This project had several goals:
 - Develop integration and communication so the delta robot transfers the finished "pizza" to the mobile robot for delivery
 
 ## <u>Outcomes</u>
-The final system worked on a rough level, but unfortunately, I can't find a video of the full system or even any videos we took in the later parts of the project, so I guess I can't provide full proof of that! Here are videos of the robot functioning at least in parts during testing (Last GIF is 2x speed):
-
 <div class="row justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/PizzaRobot/pickuptopping.gif" alt = "Delta robot picks up and places a fake pepperoni" class="img-fluid" %}
