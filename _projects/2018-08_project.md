@@ -24,7 +24,10 @@ sacrificing performance. For this, they developed the Solar Skin, which could be
 When I joined, the Solar Skin would be applied to the panel in-house by the employees, before being sent out for testing or installation. The application process took around 10 minutes and at least two people. Because the sealing was done by hand manually, even a careful job could easily lead to air bubbles. In addition, water was necessary so that the skin could be readjusted (it didn't stick until the water was removed) for alignment. However, this made the application process messy and also caused water waste. 
 
 ## <u>Goal</u>
-Based on the challenges faced by installers, the task was to design an applicator that could aid the application process, signficantly decreasing the time it would take to apply the Solar Skin. **The goal was that a solar panel installer would be able to apply the Solar Skin to the solar panel bubble-free, quickly, and as an individual operation.**
+Design an applicator such that a solar panel installer can apply the Solar Skin to the solar panel 
+- Bubble-free
+- Quickly
+- As an individual operation
 
 ## <u>Outcomes</u>
 The final prototype was an applicator that could allow a single person to apply the Solar Skin to the solar panel, bubble-free, in about 30 seconds. This was more than 10 times shorter than the previous method. In addition, it was adjustable to the frame and did not require water while still being accurate in alignment. A demo is in the video below:
