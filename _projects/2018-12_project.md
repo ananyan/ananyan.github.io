@@ -5,12 +5,6 @@ img: assets/img/Joystick/Version1.jpg
 description: design, course (MIT)
 category: 2018
 ---
-<div class="row">
-    <div class="w-50 p-3" style="margin:auto">
-        {% include figure.html path="assets/img/Joystick/Version1.jpg" alt = "First version of the motor attachment on Rhonda's wheelchair." class="img-fluid" %}
-    </div>
-</div>
-
 ## <u>Overview</u>
 **My Role:** Interviewing/observing Rhonda initially and testing with her, designing and manufacturing the mechanical attachments that interfaced between the motor and Rhonda's joystick arm    
 **Tools/Skills:** User Interviews, User Testing, Motor Selection, Machining  
