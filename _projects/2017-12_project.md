@@ -24,13 +24,9 @@ Design a yo-yo for manufacturing at scale
 Due to a shared love of coffee shops, my team designed a yo-yo based on a latte. The yo-yo required a base with a fitted metal shim for weighting, a snap-fit between the "coffee" and the base, a fit between an injection molded "coffee" and the thermoformed part "foam", and a thermoformed "cup." The yo-yos were subject to a drop test to ensure that they did not fall apart.
 
 Final yo-yo with and without cup 
-<div class="row">
-    <div class="col-sm-3 mt-3 mt-md-0">
-            {% include figure.html path="assets/img/Latte/FinalYoyo.jpeg" alt = "Final manufactured yoyo without cup" class="img-fluid"%}
-    </div>
-    <div class="col-sm-3 mt-3 mt-md-0">
-            {% include figure.html path="assets/img/Latte/WithCup.jpeg" alt = "Final manufactured yoyo inside thermoformed cup" class="img-fluid"%}
-    </div>
+<div align="center">
+<div class="col-sm-6 mt-3 mt-md-0">
+            {% include figure.html path="assets/img/Latte/Latteyoyo.png" alt = "Final manufactured yoyo with and without cup" class="img-fluid"%}
 </div>
 
 ## <u>Design Process</u>
