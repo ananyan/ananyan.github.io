@@ -5,12 +5,6 @@ img: assets/img/SistineSolar/solarskinapplicator.PNG
 description: design, internship
 category: 2018
 ---
-<div class="row">
-    <div class="w-50 p-3" style="margin:auto">
-        {% include figure.html path="assets/img/SistineSolar/solarskinapplicator.PNG" alt = "Applicator"  class="img-fluid" %}
-    </div>
-</div>
-
 ## <u>Overview</u>
 **My Role:** Mechanical engineering intern   
 **Skills:** Thin-film Application, CAD (SolidWorks), Machining  
