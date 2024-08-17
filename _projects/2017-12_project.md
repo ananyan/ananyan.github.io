@@ -50,13 +50,13 @@ This model was then used to design the molds. MasterCAM was used to create the t
 a CNC mill and a CNC lathe. A mold was 3D printed using an SLA printer for thermoforming the "foam." 
 
 <div class="row">
-        <div class="col-sm mt-3 mt-md-0">
+        <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Latte/Milling.jpeg" alt = "CNC milling the mold for the yoyo base piece." class="img-fluid" height="100%" width="auto"%}
         </div>
-        <div class="col-sm mt-3 mt-md-0">
+        <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Latte/BaseMold.jpeg" alt = "Finished yoyo base mold with magnets to hold the shim." class="img-fluid" height="100%" width="auto"%}
         </div>
-        <div class="col-sm mt-3 mt-md-0">
+        <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Latte/CoffeeMold.jpeg" alt = "Finished CNC milled mold for the coffee piece with a negative pattern for the latte art." class="img-fluid" height="100%" width="auto"%}
         </div>
 </div>
