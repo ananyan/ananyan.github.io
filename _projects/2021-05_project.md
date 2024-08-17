@@ -5,12 +5,6 @@ img: assets/img/IDR3/finalprototype.jpg
 description: design, course (Berkeley)
 category: 2021
 ---
-<div class="row">
-    <div class="w-50 p-3" style="margin:auto">
-        {% include figure.html path="assets/img/IDR3/finalprototype.jpg" alt = "Visual of a map with tagged disaster incidents" class="img-fluid" %}
-    </div>
-</div>
-
 ## <u>Overview</u>
 **My Role:** Conducting several stakeholder interviews and leading the development of the prototype for NLP-based tagging and spatial mapping   
 **Tools/Skills:** User Interviews, Natural Language Processing, Speech Recognition, Data Visualization, Python, Google Cloud API    
