@@ -34,15 +34,15 @@ Final yo-yo with and without cup
 The yo-yo was first modeled using SolidWorks.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Latte/LatteYoyoCAD.jpeg" alt = "CAD model of blue yoyo with brown coffee and white foam art that looks like leaves." class="img-fluid style="height:100%; width:auto" %}
+        {% include figure.html path="assets/img/Latte/LatteYoyoCAD.jpeg" alt = "CAD model of blue yoyo with brown coffee and white foam art that looks like leaves." class="img-fluid" style="height:100%; width:auto" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Latte/LatteYoyoWithCup.jpeg" alt = "CAD model of yoyo sitting within white cup." class="img-fluid style="height:100%; width:auto" %}
+        {% include figure.html path="assets/img/Latte/LatteYoyoWithCup.jpeg" alt = "CAD model of yoyo sitting within white cup." class="img-fluid" style="height:100%; width:auto" %}
     </div>
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Latte/Exploded.png" alt = "Exploded view of yoyo parts (cup, base piece, connector, shim, foam piece, coffee piece)." class="img-fluid style="height:100%; width:auto" %}
+        {% include figure.html path="assets/img/Latte/Exploded.png" alt = "Exploded view of yoyo parts (cup, base piece, connector, shim, foam piece, coffee piece)." class="img-fluid" style="height:100%; width:auto" %}
     </div>
 </div>
 
