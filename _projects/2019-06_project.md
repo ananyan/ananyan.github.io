@@ -5,12 +5,6 @@ img: assets/img/PizzaRobot/placetopping.gif
 description: design, course (MIT)  
 category: 2019
 ---
-<div class="row">
-    <div class="w-50 p-3" style="margin:auto">
-        {% include figure.html path="assets/img/PizzaRobot/placetopping.gif" alt = "Delta robot picks up and places a fake pepperoni" class="img-fluid" %}
-    </div>
-</div>
-
 ## <u>Overview</u>
 **Roles:** Building the delta robot, developing the software for the mobile robot   
 **Tools/Skills:** ROS, Python, CAD (SolidWorks), Computer Vision, Hardware   
