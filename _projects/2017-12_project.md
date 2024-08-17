@@ -40,18 +40,23 @@ The yo-yo was first modeled using SolidWorks.
     </div>
 </div>
 
-This model was then used to design the molds. MasterCAM was used to create the toolpaths for creating the molds from aluminum and then the molds were made using
-a CNC mill and a CNC lathe. A mold was 3D printed using an SLA printer for thermoforming the "foam." 
+This model was then used to design the molds. MasterCAM was used to create the toolpaths for creating the molds from aluminum and then the molds were made using a CNC mill and a CNC lathe. A mold was 3D printed using an SLA printer for thermoforming the "foam." 
 
-<div class="row">
+<div align="center">
         <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Latte/Milling.jpeg" alt = "CNC milling the mold for the yoyo base piece." class="img-fluid" height="100%" width="auto"%}
         </div>
 </div>
-<div class="row">
+
+The magnets held the shim in place so that the plastic could be surround it during injection molding.
+<div align="center">
         <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Latte/BaseMold.jpeg" alt = "Finished yoyo base mold with magnets to hold the shim." class="img-fluid" height="100%" width="auto"%}
         </div>
+</div>
+
+The fine details for the latte art required a small end mill, which broke the first time we tried to manufacture the mold using the CNC machine. Settings like the feed rate had to be adjusted to successfully create this mold.
+<div align="center">
         <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Latte/CoffeeMold.jpeg" alt = "Finished CNC milled mold for the coffee piece with a negative pattern for the latte art." class="img-fluid" height="100%" width="auto"%}
         </div>
