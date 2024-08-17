@@ -5,12 +5,6 @@ img: assets/img/GaitTrainer/PlatformTest.jpg
 description: design
 category: 2019
 ---
-<div class="row">
-    <div class="w-50 p-3" style="margin:auto">
-        {% include figure.html path="assets/img/GaitTrainer/PlatformTest.jpg" alt = "platformtest" class="img-fluid" %}
-    </div>
-</div>
-
 ## <u>Overview</u>
 **My Role:** Leading project, conducting the initial interviews and prototyping, manufacturing of the final device    
 **Tools/Skills:** User Interviews, User Testing, CAD (Fusion 360), Material Selection  
