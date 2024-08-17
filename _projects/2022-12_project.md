@@ -5,12 +5,6 @@ img: assets/img/ICVR/generatiVRimage.png
 description: design, research
 category: 2022
 ---
-<div class="row">
-    <div class="w-50 p-3" style="margin:auto">
-        {% include figure.html path="assets/img/ICVR/generatiVRimage.png" alt = "Many shelf design alternatives constrained based on desired placement of items" class="img-fluid" %}
-    </div>
-</div>
-
 ## <u>Overview</u>
 **My Role:** Contributions both as a researcher and developer: generating the designs and creating the pipeline to transfer them between the 3D modeling software and the VR application, creating the VR environments, setting up the data logging for the user study, designing the user study, administering the user study, analyzing the quantitative and qualitative behavioral data  
 **Tools/Skills:** User Study, Unity, Rhino3D/Grasshopper, C-Sharp, Python   
