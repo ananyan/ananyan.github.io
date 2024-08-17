@@ -25,7 +25,7 @@ Due to a shared love of coffee shops, my team designed a yo-yo based on a latte.
 
 Final yo-yo with and without cup 
 <div align="center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-10 mt-3 mt-md-0">
                 {% include figure.html path="assets/img/Latte/Latteyoyo.png" alt = "Final manufactured yoyo with and without cup" class="img-fluid"%}
     </div>
 </div>
