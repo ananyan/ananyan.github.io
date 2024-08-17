@@ -2,6 +2,7 @@
 layout: page
 title: Measures of product similarity
 description: research
+img: assets/img/DesignSim/analogyexample.png
 category: 2021
 ---
 
