@@ -5,12 +5,6 @@ img: assets/img/PackageOpener/ClosedKnife.PNG
 description: design
 category: 2017
 ---
-<div class="row">
-    <div class="w-50 p-3" style="margin:auto">
-        {% include figure.html path="assets/img/PackageOpener/ClosedKnife.PNG" alt = "Final package opener prototype" class="img-fluid" %}
-    </div>
-</div>
-
 ## <u>Overview</u>
 **My Role:** Conducting user interviews, developing concepts, laser cutting and testing the initial prototypes, and assembling the final 3D printed version    
 **Tools/Skills:** User Interviews, User Testing, 3D Printing, Laser Cutting  
