@@ -5,12 +5,6 @@ img: assets/img/Latte/Latteyoyo.png
 description: design, course (MIT)
 category: 2017
 ---
-<div class="row">
-    <div class="w-50 p-3" style="margin:auto">
-        {% include figure.html path="assets/img/Latte/Latteyoyo.png" alt = "Final manufactured yoyo with and without cup" class="img-fluid" %}
-    </div>
-</div>
-
 ## <u>Overview</u>
 **My Role:** Designing the mold for the thermoformed "foam," machining the mold for the coffee part (using both conversational milling and CAM) optimizing the parameters for injection molding the base, manufacturing the injection-molded base, and assisting with assembly  
 **Tools/Skills:** Design for Manufacturing, CAD (SolidWorks), CAM (MasterCAM), 3D Printing, CNC Milling, Injection Molding, Quality  
