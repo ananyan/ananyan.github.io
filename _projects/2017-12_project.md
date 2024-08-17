@@ -26,10 +26,10 @@ Due to a shared love of coffee shops, my team designed a yo-yo based on a latte.
 The final yo-yo is shown with and without its "cup" below. The yo-yos were subject to a drop test to ensure that they did not fall apart.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Latte/FinalYoyo.jpeg" alt = "Final manufactured yoyo without cup" class="h-100"%}
+        {% include figure.html path="assets/img/Latte/FinalYoyo.jpeg" alt = "Final manufactured yoyo without cup" class="h-25"%}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Latte/WithCup.jpeg" alt = "Final manufactured yoyo inside thermoformed cup" class="h-100"%}
+        {% include figure.html path="assets/img/Latte/WithCup.jpeg" alt = "Final manufactured yoyo inside thermoformed cup" class="h-25"%}
     </div>
 </div>
 
@@ -53,13 +53,13 @@ This model was then used to design the molds. MasterCAM was used to create the t
 a CNC mill and a CNC lathe. A mold was 3D printed using an SLA printer for thermoforming the "foam." 
 <div class="row">
     <div class="col">
-        {% include figure.html path="assets/img/Latte/Milling.jpeg" alt = "CNC milling the mold for the yoyo base piece." class="img-fluid h-100"%}
+        {% include figure.html path="assets/img/Latte/Milling.jpeg" alt = "CNC milling the mold for the yoyo base piece." class="h-25"%}
     </div>
     <div class="col">
-        {% include figure.html path="assets/img/Latte/BaseMold.jpeg" alt = "Finished yoyo base mold with magnets to hold the shim." class="img-fluid h-100"%}
+        {% include figure.html path="assets/img/Latte/BaseMold.jpeg" alt = "Finished yoyo base mold with magnets to hold the shim." class="h-25"%}
     </div>
     <div class="col">
-        {% include figure.html path="assets/img/Latte/CoffeeMold.jpeg" alt = "Finished CNC milled mold for the coffee piece with a negative pattern for the latte art." class="img-fluid h-100"%}
+        {% include figure.html path="assets/img/Latte/CoffeeMold.jpeg" alt = "Finished CNC milled mold for the coffee piece with a negative pattern for the latte art." class="h-25"%}
     </div>
 </div>
 
