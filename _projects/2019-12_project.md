@@ -5,12 +5,6 @@ img: assets/img/DET/CuriousAndFurious.gif
 description: design, course (Berkeley)
 category: 2019
 ---
-<div class="row">
-    <div class="w-50 p-3" style="margin:auto">
-        {% include figure.html path="assets/img/DET/CuriousAndFurious.gif" alt = "Robot Eating Washers" class="img-fluid" %}
-    </div>
-</div>
-
 ## <u>Overview</u>
 **My Role:** VR Development, computer vision and speech recognition for interactive devices, mechanical design for physical prototypes  
 **Tools/Skills:** Raspberry Pi, Python, Google Cloud API, Unity, CAD (Fusion 360), 3D Printing   
@@ -98,4 +92,4 @@ The HoHoHoBot roams through the basement halls of Etcheverry Hall, across the br
 <a href="/assets/pdf/PROJ04_Process.pdf">PDF</a> of detailed design process.
 
 ## <u>Reflection</u>
-All of these projects were developed as part of the course Designing for Emerging Technologies. They allowed us to exercise our creativity and to speculate on unique ways in which technology can be used for various purposes and begin to see if they are actually feasible! Note: The GIF at the top is the "Curious and Furious" (and hungry) robot I made based on the Hungry Robot by EunChan Park on Youtube. If you hold the capacitive button too long, it will eat the washers!
+All of these projects were developed as part of the course Designing for Emerging Technologies. They allowed us to exercise our creativity and to speculate on unique ways in which technology can be used for various purposes and begin to see if they are actually feasible! Note: The thumbnail GIF is the "Curious and Furious" (and hungry) robot I made based on the Hungry Robot by EunChan Park on Youtube. If you hold the capacitive button too long, it will eat the washers!
