@@ -31,9 +31,21 @@ Similarity is a fundamental concept that helps humans make sense of the world ar
 
 5) Discovered, through image classification, that semantic similarity of the above prompts were reflected visually in the products (decreased semantic similarity was associated with increased ability for a machine to distinguish the images perceptually)
 
+<div class="row">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/DesignSim/semanticandvisualsim.PNG" alt = "Figure that shows process of extracting image features and using support vector machine classification with semantic labels" class="img-fluid" height="100%" width="auto" %}
+    </div>
+</div>
+
 ## <u>Key Insights and Impact</u>
 #### **1. Product similarity along the functional dimension**
 Perceptions of what products are considered functionally similar are complicated by framing, with humans considering similarity at various levels of abstraction. The dynamic nature of humans' structuring of the similarity space makes it particularly challenging to quantify functional similarity using static measures on static product representations, due to misalignment with humans' internal representations. Depending on what is important for the context (e.g., capturing low-level features of the product function vs. a higher-level functional goal), the choice of similarity measure may need to change. Therefore, creativity support systems such as those for analogical reasoning must be flexible in their similarity representations, perhaps adapting measures or quantification based on inference of a user's intent.  
+
+<div class="row">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/DesignSim/analogicalreasoning.PNG" alt = "Figure that shows process of extracting functional analogies using abstract schema and products that are near (e.g., chairs and chairs) vs. far (e.g., chairs and toys)" class="img-fluid" height="100%" width="auto" %}
+    </div>
+</div>
 
 #### **2. Product similarity along the semantic dimension** 
 Semantic representations of products (e.g., product descriptions) contain rich information about product including its function and form. Machine learning (ML) models can encode humans' representations of language, enabling their use for establishing a semantic space of product similarity. When the semantic representation is more abstract, referring to high-level, conceptual descriptions of a product (e.g., *luxurious*, *sporty*), this information is built into humans' internal representations of the key words. While state-of-the-art ML models can capture these more abstract concepts to an extent, they cannot necessarily make the subtle distinctions connecting these concepts to specific classes of products, particularly new types of products, without additional training. Therefore, new methods may need to be developed to utilize semantic similarity for product design (e.g., methods for breaking abstract words down into more concrete and interpretable formats for natural language systems).
