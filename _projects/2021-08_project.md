@@ -32,7 +32,7 @@ Similarity is a fundamental concept that helps humans make sense of the world ar
 5) Discovered, through image classification, that semantic similarity of the above prompts were reflected visually in the products (decreased semantic similarity was associated with increased ability for a machine to distinguish the images perceptually)
 
 ## <u>Key Insights and Impact</u>
-#### **1. Product similarity along the functional dimension **
+#### **1. Product similarity along the functional dimension**
 Perceptions of what products are considered functionally similar are complicated by framing, with humans considering similarity at various levels of abstraction. The dynamic nature of humans' structuring of the similarity space makes it particularly challenging to quantify functional similarity using static measures on static product representations, due to misalignment with humans' internal representations. Depending on what is important for the context (e.g., capturing low-level features of the product function vs. a higher-level functional goal), the choice of similarity measure may need to change. Therefore, creativity support systems such as those for analogical reasoning must be flexible in their similarity representations, perhaps adapting measures or quantification based on inference of a user's intent.  
 
 #### **2. Product similarity along the semantic dimension** 
