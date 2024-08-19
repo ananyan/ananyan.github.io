@@ -9,7 +9,7 @@ category: 2021
 ## <u>Overview</u>
 **My Role:** Lead researcher   
 **Tools/Skills:** Network Analysis, Survey Design, Triplet Embedding, Semantic Embedding, Image Classification, Statistical Analysis, MATLAB, Python   
-**Timeline:** August 2019 - August 2021 (2 years)  
+**Timeline:** August 2019 - August 2021, May 2023 - August 2024 (3.25 years)  
 **Team:** N/A
 
 ## <u>Context</u>
