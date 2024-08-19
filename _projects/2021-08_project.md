@@ -33,7 +33,7 @@ Similarity is a fundamental concept that helps humans make sense of the world ar
 
 <div class="row">
     <div class="w-50 p-3" style="margin:auto">
-        {% include figure.html path="assets/img/DesignSim/semanticandvisualsim.PNG" alt = "Figure that shows process of extracting image features and using support vector machine classification with semantic labels" class="img-fluid" %}
+        {% include figure.html path="assets/img/DesignSim/semanticandvisualsim.png" alt = "Figure that shows process of extracting image features and using support vector machine classification with semantic labels" class="img-fluid" %}
     </div>
 </div>
 
@@ -43,7 +43,7 @@ Perceptions of what products are considered functionally similar are complicated
 
 <div class="row">
     <div class="w-50 p-3" style="margin:auto">
-        {% include figure.html path="assets/img/DesignSim/analogicalreasoning.PNG" alt = "Figure that shows process of extracting functional analogies using abstract schema and products that are near (e.g., chairs and chairs) vs. far (e.g., chairs and toys)" class="img-fluid" %}
+        {% include figure.html path="assets/img/DesignSim/analogicalreasoning.png" alt = "Figure that shows process of extracting functional analogies using abstract schema and products that are near (e.g., chairs and chairs) vs. far (e.g., chairs and toys)" class="img-fluid" %}
     </div>
 </div>
 
