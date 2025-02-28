@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Measures of product similarity
+title: Measuring dimensions of product similarity
 description: research
 img: assets/img/DesignSim/analogyexample.png
 category: 2021
@@ -60,5 +60,5 @@ This research was heavily focused on quantifying similarity in a product design 
 
 See the following publications for more details about these projects:  
 [Evaluating Quantitative Measures for Assessing Functional Similarity in Engineering Design (Journal of Mechanical Design 2022)](https://ananyan.github.io/assets/pdf/nandy-2020-jmd.pdf)  
-[Do human and computational evaluations of similarity align? An empirical study of product function (Journal of Mechanical Design 2022)](https://ananyan.github.io/assets/pdf/nandy-2021-jmd.pdf) 
+[Do human and computational evaluations of similarity align? An empirical study of product function (Journal of Mechanical Design 2022)](https://ananyan.github.io/assets/pdf/nandy-2021-jmd.pdf)  
 [Semantic properties of word prompts shape design outcomes: understanding the influence of semantic richness and similarity (Design Computing and Cognition 2024)](https://ananyan.github.io/assets/pdf/nandy-semanticprompts-dcc.pdf)    
