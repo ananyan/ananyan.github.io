@@ -2,16 +2,16 @@
 <html lang="en">
 
   <!-- Head -->
-  <head><meta http-equiv="refresh" content="3; url=https://ananyan.github.io/" />    <!-- Metadata, OpenGraph and Schema.org -->
+  <head>    <!-- Metadata, OpenGraph and Schema.org -->
     
 
     <!-- Standard metadata -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Ananya  Nandy | Page not found</title>
+    <title>Ananya  Nandy | Motorized joystick for power wheelchair</title>
     <meta name="author" content="Ananya  Nandy" />
-    <meta name="description" content="Looks like there has been a mistake. Nothing exists here." />
+    <meta name="description" content="design, course (MIT)" />
     <meta name="keywords" content="design, engineering" />
 
 
@@ -32,7 +32,7 @@
     <link rel="shortcut icon" href="/assets/img/face-logo.png"/>
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://ananyan.github.io/404.html">
+    <link rel="canonical" href="https://ananyan.github.io/projects/2018-12_project/">
     
     <!-- Dark Mode -->
     
@@ -104,12 +104,76 @@
         <div class="post">
 
           <header class="post-header">
-            <h1 class="post-title">Page not found</h1>
-            <p class="post-description">Looks like there has been a mistake. Nothing exists here.</p>
+            <h1 class="post-title">Motorized joystick for power wheelchair</h1>
+            <p class="post-description">design, course (MIT)</p>
           </header>
 
           <article>
-            <p>You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="https://ananyan.github.io/">here</a>.</p>
+            <h2 id="overview"><u>Overview</u></h2>
+<p><strong>My Role:</strong> Interviewing/observing Rhonda initially and testing with her, designing and manufacturing the mechanical attachments that interfaced between the motor and Rhonda’s joystick arm  <br>
+<strong>Tools/Skills:</strong> User Interviews, User Testing, Motor Selection, Machining<br>
+<strong>Timeline:</strong> September - May 2019 (8 months)  <br>
+<strong>Team:</strong> 4 (MechE, EE)</p>
+
+<h2 id="context"><u>Context</u></h2>
+<p>Multiple sclerosis can cause loss of strength in the arms. For power wheelchair users, the joystick juts out in front to allow easy access and control. However, it can get in the way when trying to reach a sink or a table. In this case, the user has to manually swing the joystick back, which can cause discomfort or in some cases, is not possible without assistance. A previous solution to this problem was developed in the past in this class, but it lacked robustness, was not easy to debug the electronics, and could not be adapted for another user with even slightly different needs (our user was left-handed rather than right-handed).</p>
+
+<h2 id="goal"><u>Goal</u></h2>
+<p>Create an improved attachment to motorize the retracting of the joystick for a power wheelchair that can be adapted to various users</p>
+
+<h2 id="outcomes"><u>Outcomes</u></h2>
+<p>1) Developed an improved mechanism to motorize joystick retraction on a power wheelchair</p>
+
+<p>2) Modified the prototype to account for varying loads</p>
+<div class="row">
+    <div class="w-50 p-3" style="margin:auto">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/Joystick/FinalVersion-480.webp"></source>
+    <source media="(max-width: 800px)" srcset="/assets/img/Joystick/FinalVersion-800.webp"></source>
+    <source media="(max-width: 1400px)" srcset="/assets/img/Joystick/FinalVersion-1400.webp"></source>
+    <!-- Fallback to the original file -->
+    <img class="img-fluid" src="/assets/img/Joystick/FinalVersion.jpg" alt="Final version of motor attachment with new, stiffer linkage">
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+
+<p>3) Installed the prototype on Rhonda’s wheelchair for use</p>
+<div class="row">
+    <div class="w-50 p-3" style="margin:auto">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/Joystick/FinalVersionInstalled-480.webp"></source>
+    <source media="(max-width: 800px)" srcset="/assets/img/Joystick/FinalVersionInstalled-800.webp"></source>
+    <source media="(max-width: 1400px)" srcset="/assets/img/Joystick/FinalVersionInstalled-1400.webp"></source>
+    <!-- Fallback to the original file -->
+    <img class="img-fluid" src="/assets/img/Joystick/FinalVersionInstalled.jpg" alt="Final prototype installed on Rhonda's wheelchair for testing">
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+
+<p>4) Documented the initial version and the modified version in detail in this <a href="https://www.instructables.com/id/Developing-a-Motorized-Retractable-Joystick/" target="_blank" rel="noopener noreferrer">Instructable</a> which was featured on the website</p>
+
+<h2 id="design-process"><u>Design Process</u></h2>
+<p>After meeting with Rhonda, our user, several times, we developed a first prototype. This process is shown in the video below.</p>
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ut_dXh0NC9Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+<p>However, we found that after building it in the shop, when we tested it with Rhonda, it was not reliable. When attached to her 
+wheelchair, the load on the motor was much higher than what we had initially accounted for. The joystick arm was  deflecting due to the load of the joystick at the end, increasing the load on the motor beyond what it was able to handle. For this reason, we iterated on the design another time. First, we replaced the motor with a more powerful motor, though we had to trade-off the speed of retraction. Then, we replaced the aluminum bars of the arm with thinner, but taller bars to prevent the deflection. Finally, we made the bars out of steel, as we found that it improved the robustness of the attachment, despite being slightly heavier.</p>
+
+<h2 id="reflection"><u>Reflection</u></h2>
+<p>There were many lessons learned from this project (developed as part of 2.78, Principles and Practices of Assistive Technology), particularly about how a theoretical design and the design in reality may not match up. Despite having access to a test wheelchair arm and specifying a motor with a safety factor, we found that our motor could not handle the load and friction that was present in reality on Rhonda’s wheelchair. Thus, we were forced to make our device operate more slowly so that it would operate at all. I learned how translating a design into its actual operating conditions can shed light on unforeseen problems and on the trade-offs that often need to be made when designing for performance. Performing frequent testing under the operating environment was impossible because it would disturb Rhonda’s daily life, but it likely would have helped if we had planned ahead and created a few design variations to make the most of our occasional testing sessions and discover the problems upfront.</p>
 
           </article>
 
